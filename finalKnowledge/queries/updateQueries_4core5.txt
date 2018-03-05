@@ -1,0 +1,644 @@
+ArticleIP_10137.txt_3153:::9:::18
+ArticleIP_10137.txt_3153_18:::X:::next_event:::cure:::live
+ArticleIP_10137.txt_3153_18::: We can cure diseases, immortalize cells, and theoretically live forever without the nasty old moral problem of "harvesting" fetuses
+ArticleIP_10137.txt_3153_18:::X:::POSITIVE:::cure:::cure:::agent:::we_1
+ArticleIP_10137.txt_3153_18:::X:::POSITIVE:::live:::live:::agent:::we_1
+null
+
+ArticleIP_10137.txt_3153:::10:::21
+ArticleIP_10137.txt_3153_21:::X:::next_event:::advise:::comprehend
+ArticleIP_10137.txt_3153_21::: The ethicists who advise politicians and biotech firms can't comprehend the gravity of this step
+ArticleIP_10137.txt_3153_21:::X:::POSITIVE:::advise:::advise:::agent:::ethicists_2
+ArticleIP_10137.txt_3153_21:::X:::NEGETIVE:::comprehend:::comprehend:::agent:::ethicists_2
+null
+
+ArticleIP_10137.txt_3153:::20:::67
+ArticleIP_10137.txt_3153_67:::X:::objective:::have:::do
+ArticleIP_10137.txt_3153_67::: He said this concern had to do with the law, "not with ethical and moral implications
+ArticleIP_10137.txt_3153_67:::X:::POSITIVE:::had:::have:::agent:::concern_4
+ArticleIP_10137.txt_3153_67:::X:::NEGETIVE:::do:::do:::agent:::concern_4
+null
+
+ArticleIP_10795.txt_3153:::13:::72
+ArticleIP_10795.txt_3153_72:::X:::objective:::confess:::adultery
+ArticleIP_10795.txt_3153_72:::Incoming House Speaker Bob Livingston confessed to adultery 
+ArticleIP_10795.txt_3153_72:::X:::POSITIVE:::confessed:::confess:::agent:::bob_livingston_4
+ArticleIP_10795.txt_3153_72:::X:::POSITIVE:::adultery:::adultery:::agent:::bob_livingston_4
+null
+
+ArticleIP_10795.txt_3153:::16:::85
+ArticleIP_10795.txt_3153_85:::X:::objective:::continue:::bomb
+ArticleIP_10795.txt_3153_85:::The United States continued to bomb Iraq 
+ArticleIP_10795.txt_3153_85:::X:::POSITIVE:::continued:::continue:::agent:::united_states_2
+ArticleIP_10795.txt_3153_85:::X:::POSITIVE:::bomb:::bomb:::agent:::united_states_2
+null
+
+ArticleIP_10795.txt_3153:::23:::105
+ArticleIP_10795.txt_3153_105:::X:::next_event:::take:::renounce
+ArticleIP_10795.txt_3153_105::: Netanyahu refused, arguing that Palestinian leaders must take further steps against terrorism and renounce their aspirations to statehood
+ArticleIP_10795.txt_3153_105:::X:::POSITIVE:::take:::take:::agent:::leaders_7
+ArticleIP_10795.txt_3153_105:::X:::POSITIVE:::renounce:::renounce:::agent:::leaders_7
+null
+
+ArticleIP_10795.txt_3153:::23:::107
+ArticleIP_10795.txt_3153_107:::X:::next_event:::accuse:::welcome
+ArticleIP_10795.txt_3153_107::: The opposition Labor Party, which accuses Netanyahu of trying to kill the peace process, welcomed the opportunity to get rid of him
+ArticleIP_10795.txt_3153_107:::X:::POSITIVE:::accuses:::accuse:::agent:::labor_party_3
+ArticleIP_10795.txt_3153_107:::X:::POSITIVE:::welcomed:::welcome:::agent:::labor_party_3
+null
+
+ArticleIP_10795.txt_3153:::23:::108
+ArticleIP_10795.txt_3153_108:::X:::objective:::want:::accept
+ArticleIP_10795.txt_3153_108::: The idealistic spin: Netanyahu wants the Palestinians to accept his conditions so peace can go forward
+ArticleIP_10795.txt_3153_108:::X:::POSITIVE:::wants:::want:::recipient:::palestinians_7
+ArticleIP_10795.txt_3153_108:::X:::POSITIVE:::accept:::accept:::agent:::palestinians_7
+null
+
+ArticleIP_10795.txt_3153:::26:::116
+ArticleIP_10795.txt_3153_116:::X:::next_event:::lose:::get
+ArticleIP_10795.txt_3153_116::: The lieutenant governor, who lost to Bush, gets to be governor in the interim
+ArticleIP_10795.txt_3153_116:::X:::POSITIVE:::lost:::lose:::agent:::governor_3
+ArticleIP_10795.txt_3153_116:::X:::POSITIVE:::gets:::get:::agent:::governor_3
+null
+
+ArticleIP_10799.txt_3153:::15:::147
+ArticleIP_10799.txt_3153_147:::X:::objective:::marshal:::prove
+ArticleIP_10799.txt_3153_147::: The triumphal cover story marshals an army of statistics to prove that "life in the U
+ArticleIP_10799.txt_3153_147:::X:::POSITIVE:::marshals:::marshal:::recipient:::army_7
+ArticleIP_10799.txt_3153_147:::X:::POSITIVE:::prove:::prove:::agent:::army_7
+null
+
+ArticleIP_10799.txt_3153:::30:::186
+ArticleIP_10799.txt_3153_186:::X:::next_event:::respect:::deserve
+ArticleIP_10799.txt_3153_186::: Black players feel that white owners don't respect them and are treating them as ghetto thugs who don't deserve their high salaries
+ArticleIP_10799.txt_3153_186:::X:::NEGETIVE:::respect:::respect:::supporting_verb:::do_7
+ArticleIP_10799.txt_3153_186:::X:::NEGETIVE:::deserve:::deserve:::supporting_verb:::do_19
+null
+
+ArticleIP_10799.txt_3153:::30:::186
+ArticleIP_10799.txt_3153_186:::X:::next_event:::respect:::deserve
+ArticleIP_10799.txt_3153_186::: Black players feel that white owners don't respect them and are treating them as ghetto thugs who don't deserve their high salaries
+ArticleIP_10799.txt_3153_186:::X:::NEGETIVE:::respect:::respect:::negative:::not_8
+ArticleIP_10799.txt_3153_186:::X:::NEGETIVE:::deserve:::deserve:::negative:::not_20
+null
+
+ArticleIP_10799.txt_3153:::41:::209
+ArticleIP_10799.txt_3153_209:::X:::next_event:::tell:::tell
+ArticleIP_10799.txt_3153_209::: He didn't tell the best jokes, but he told the most
+ArticleIP_10799.txt_3153_209:::X:::NEGETIVE:::tell:::tell:::agent:::he_1
+ArticleIP_10799.txt_3153_209:::X:::POSITIVE:::told:::tell:::agent:::he_10
+null
+
+ArticleIP_10799.txt_3153:::45:::223
+ArticleIP_10799.txt_3153_223:::X:::objective:::sue:::block
+ArticleIP_10799.txt_3153_223::: The American Civil Liberties Union may sue to block the new classes
+ArticleIP_10799.txt_3153_223:::X:::POSITIVE:::sue:::sue:::agent:::american_civil_liberties_union_2
+ArticleIP_10799.txt_3153_223:::X:::POSITIVE:::block:::block:::agent:::american_civil_liberties_union_2
+null
+
+ArticleIP_10799.txt_3153:::50:::227
+ArticleIP_10799.txt_3153_227:::X:::objective:::urge:::harness
+ArticleIP_10799.txt_3153_227::: The cover story urges government action to harness the talents of retiring baby boomers
+ArticleIP_10799.txt_3153_227:::X:::POSITIVE:::urges:::urge:::recipient:::action_6
+ArticleIP_10799.txt_3153_227:::X:::POSITIVE:::harness:::harness:::agent:::action_6
+null
+
+ArticleIP_10799.txt_3153:::55:::234
+ArticleIP_10799.txt_3153_234:::X:::objective:::need:::address
+ArticleIP_10799.txt_3153_234::: With the Soviet threat gone, NATO needs to address broader future challenges, such as ethnic conflict and germ warfare
+ArticleIP_10799.txt_3153_234:::X:::POSITIVE:::needs:::need:::agent:::nato_7
+ArticleIP_10799.txt_3153_234:::X:::POSITIVE:::address:::address:::agent:::nato_7
+null
+
+ArticleIP_10802.txt_3153:::7:::254
+ArticleIP_10802.txt_3153_254:::X:::next_event:::place:::need
+ArticleIP_10802.txt_3153_254:::" If you place a tree in the town square, you need a menorah as well
+ArticleIP_10802.txt_3153_254:::X:::POSITIVE:::place:::place:::agent:::you_2
+ArticleIP_10802.txt_3153_254:::X:::POSITIVE:::need:::need:::agent:::you_11
+null
+
+ArticleIP_10802.txt_3153:::9:::265
+ArticleIP_10802.txt_3153_265:::X:::objective:::have:::become
+ArticleIP_10802.txt_3153_265::: First, Christmas had to become Christmas, which originally wasn't a big deal in America
+ArticleIP_10802.txt_3153_265:::X:::POSITIVE:::had:::have:::agent:::christmas_3
+ArticleIP_10802.txt_3153_265:::X:::POSITIVE:::become:::become:::agent:::christmas_3
+null
+
+ArticleIP_10802.txt_3153:::12:::278
+ArticleIP_10802.txt_3153_278:::X:::objective:::celebrate:::fall
+ArticleIP_10802.txt_3153_278::: Instead of giving the traditional "gelt," or money, Jews celebrated with presents, so as not to fall short of their Christian neighbors
+ArticleIP_10802.txt_3153_278:::X:::POSITIVE:::celebrated:::celebrate:::agent:::jews_11
+ArticleIP_10802.txt_3153_278:::X:::POSITIVE:::fall:::fall:::agent:::jews_11
+null
+
+ArticleIP_10802.txt_3153:::13:::284
+ArticleIP_10802.txt_3153_284:::X:::objective:::prod:::donate
+ArticleIP_10802.txt_3153_284::: At first, Zionist organizations used the holiday as an excuse to prod individuals to donate coins to the cause
+ArticleIP_10802.txt_3153_284:::X:::POSITIVE:::prod:::prod:::recipient:::individuals_14
+ArticleIP_10802.txt_3153_284:::X:::POSITIVE:::donate:::donate:::agent:::individuals_14
+null
+
+ArticleIP_10858.txt_3153:::13:::316
+ArticleIP_10858.txt_3153_316:::X:::next_event:::say:::do
+ArticleIP_10858.txt_3153_316::: for what I said and did to trigger these events
+ArticleIP_10858.txt_3153_316:::X:::POSITIVE:::said:::say:::agent:::i_3
+ArticleIP_10858.txt_3153_316:::X:::POSITIVE:::did:::do:::agent:::i_3
+null
+
+ArticleIP_10858.txt_3153:::13:::316
+ArticleIP_10858.txt_3153_316:::X:::next_event:::say:::trigger
+ArticleIP_10858.txt_3153_316::: for what I said and did to trigger these events
+ArticleIP_10858.txt_3153_316:::X:::POSITIVE:::said:::say:::agent:::i_3
+ArticleIP_10858.txt_3153_316:::X:::POSITIVE:::trigger:::trigger:::agent:::i_3
+null
+
+ArticleIP_10858.txt_3153:::13:::316
+ArticleIP_10858.txt_3153_316:::X:::objective:::do:::trigger
+ArticleIP_10858.txt_3153_316::: for what I said and did to trigger these events
+ArticleIP_10858.txt_3153_316:::X:::POSITIVE:::did:::do:::agent:::i_3
+ArticleIP_10858.txt_3153_316:::X:::POSITIVE:::trigger:::trigger:::agent:::i_3
+null
+
+ArticleIP_10858.txt_3153:::13:::321
+ArticleIP_10858.txt_3153_321:::X:::objective:::urge:::drop
+ArticleIP_10858.txt_3153_321:::, the chief House prosecutor, urges Independent Counsel Kenneth Starr to drop the idea of indicting Clinton
+ArticleIP_10858.txt_3153_321:::X:::POSITIVE:::urges:::urge:::recipient:::kenneth_starr_10
+ArticleIP_10858.txt_3153_321:::X:::POSITIVE:::drop:::drop:::agent:::kenneth_starr_10
+null
+
+ArticleIP_10858.txt_3153:::13:::322
+ArticleIP_10858.txt_3153_322:::X:::objective:::want:::move
+ArticleIP_10858.txt_3153_322::: Polls indicate that the public supports the verdict and wants to move on
+ArticleIP_10858.txt_3153_322:::X:::POSITIVE:::wants:::want:::agent:::public_5
+ArticleIP_10858.txt_3153_322:::X:::POSITIVE:::move:::move:::agent:::public_5
+null
+
+ArticleIP_10858.txt_3153:::13:::322
+ArticleIP_10858.txt_3153_322:::X:::next_event:::support:::want
+ArticleIP_10858.txt_3153_322::: Polls indicate that the public supports the verdict and wants to move on
+ArticleIP_10858.txt_3153_322:::X:::POSITIVE:::supports:::support:::agent:::public_5
+ArticleIP_10858.txt_3153_322:::X:::POSITIVE:::wants:::want:::agent:::public_5
+null
+
+ArticleIP_10858.txt_3153:::13:::322
+ArticleIP_10858.txt_3153_322:::X:::next_event:::support:::move
+ArticleIP_10858.txt_3153_322::: Polls indicate that the public supports the verdict and wants to move on
+ArticleIP_10858.txt_3153_322:::X:::POSITIVE:::supports:::support:::agent:::public_5
+ArticleIP_10858.txt_3153_322:::X:::POSITIVE:::move:::move:::agent:::public_5
+null
+
+ArticleIP_10858.txt_3153:::25:::342
+ArticleIP_10858.txt_3153_342:::X:::objective:::allow:::reach
+ArticleIP_10858.txt_3153_342::: The idealistic spin: Kicking out the media will allow senators to reach their verdict based on reason and conscience
+ArticleIP_10858.txt_3153_342:::X:::POSITIVE:::allow:::allow:::recipient:::senators_10
+ArticleIP_10858.txt_3153_342:::X:::POSITIVE:::reach:::reach:::agent:::senators_10
+null
+
+ArticleIP_10951.txt_3153:::18:::474
+ArticleIP_10951.txt_3153_474:::X:::next_event:::find:::overburden
+ArticleIP_10951.txt_3153_474::: Everyone else will find the film hokey and overburdened with "pseudoscientific terminology" (Jay Carr, the Boston Globe )
+ArticleIP_10951.txt_3153_474:::X:::POSITIVE:::find:::find:::agent:::everyone_1
+ArticleIP_10951.txt_3153_474:::X:::POSITIVE:::overburdened:::overburden:::agent:::everyone_1
+null
+
+ArticleIP_10951.txt_3153:::25:::490
+ArticleIP_10951.txt_3153_490:::X:::next_event:::like:::call
+ArticleIP_10951.txt_3153_490::: ( Slate 's David Edelstein likes the film but calls some of the plot devices "a bit cheap
+ArticleIP_10951.txt_3153_490:::X:::POSITIVE:::likes:::like:::agent:::david_edelstein_3
+ArticleIP_10951.txt_3153_490:::X:::POSITIVE:::calls:::call:::agent:::david_edelstein_3
+null
+
+ArticleIP_10966.txt_3153:::8:::659
+ArticleIP_10966.txt_3153_659:::X:::caused_by:::ignore:::do
+ArticleIP_10966.txt_3153_659::: "And if we ignore that because it isn't popular, then I think we do real damage to our form of government
+ArticleIP_10966.txt_3153_659:::X:::POSITIVE:::ignore:::ignore:::agent:::we_3
+ArticleIP_10966.txt_3153_659:::X:::POSITIVE:::do:::do:::agent:::we_15
+null
+
+ArticleIP_10966.txt_3153:::8:::659
+ArticleIP_10966.txt_3153_659:::X:::next_event:::ignore:::do
+ArticleIP_10966.txt_3153_659::: "And if we ignore that because it isn't popular, then I think we do real damage to our form of government
+ArticleIP_10966.txt_3153_659:::X:::POSITIVE:::ignore:::ignore:::agent:::we_3
+ArticleIP_10966.txt_3153_659:::X:::POSITIVE:::do:::do:::agent:::we_15
+null
+
+ArticleIP_10966.txt_3153:::12:::683
+ArticleIP_10966.txt_3153_683:::X:::objective:::decide:::impeach
+ArticleIP_10966.txt_3153_683::: But the old Congress, including the old Republicans, will decide whether to impeach the president
+ArticleIP_10966.txt_3153_683:::X:::POSITIVE:::decide:::decide:::agent:::congress_4
+ArticleIP_10966.txt_3153_683:::X:::POSITIVE:::impeach:::impeach:::agent:::congress_4
+null
+
+ArticleIP_11053.txt_3153:::23:::735
+ArticleIP_11053.txt_3153_735:::X:::objective:::like:::talk
+ArticleIP_11053.txt_3153_735::: "Too many lawyers, who like to talk to too many reporters
+ArticleIP_11053.txt_3153_735:::X:::POSITIVE:::like:::like:::agent:::lawyers_3
+ArticleIP_11053.txt_3153_735:::X:::POSITIVE:::talk:::talk:::agent:::lawyers_3
+null
+
+ArticleIP_11053.txt_3153:::41:::758
+ArticleIP_11053.txt_3153_758:::X:::objective:::plan:::destroy
+ArticleIP_11053.txt_3153_758::: Clinton's true crime is not perjury or adultery, Graham shouts, it's that he planned to destroy Monica
+ArticleIP_11053.txt_3153_758:::X:::POSITIVE:::planned:::plan:::agent:::he_17
+ArticleIP_11053.txt_3153_758:::X:::POSITIVE:::destroy:::destroy:::agent:::he_17
+null
+
+ArticleIP_11057.txt_3153:::12:::787
+ArticleIP_11057.txt_3153_787:::X:::next_event:::refuse:::let
+ArticleIP_11057.txt_3153_787::: The Republicans have taken a bold option: They will just refuse to pass a budget, and they'll let the government shut down
+ArticleIP_11057.txt_3153_787:::X:::POSITIVE:::refuse:::refuse:::modal_verb:::will_9
+ArticleIP_11057.txt_3153_787:::X:::POSITIVE:::let:::let:::modal_verb:::will_19
+null
+
+ArticleIP_11057.txt_3153:::12:::787
+ArticleIP_11057.txt_3153_787:::X:::next_event:::refuse:::let
+ArticleIP_11057.txt_3153_787::: The Republicans have taken a bold option: They will just refuse to pass a budget, and they'll let the government shut down
+ArticleIP_11057.txt_3153_787:::X:::POSITIVE:::refuse:::refuse:::agent:::they_8
+ArticleIP_11057.txt_3153_787:::X:::POSITIVE:::let:::let:::agent:::they_18
+null
+
+ArticleIP_11057.txt_3153:::12:::787
+ArticleIP_11057.txt_3153_787:::X:::next_event:::pass:::let
+ArticleIP_11057.txt_3153_787::: The Republicans have taken a bold option: They will just refuse to pass a budget, and they'll let the government shut down
+ArticleIP_11057.txt_3153_787:::X:::POSITIVE:::pass:::pass:::agent:::they_8
+ArticleIP_11057.txt_3153_787:::X:::POSITIVE:::let:::let:::agent:::they_18
+null
+
+ArticleIP_11057.txt_3153:::12:::787
+ArticleIP_11057.txt_3153_787:::X:::objective:::refuse:::pass
+ArticleIP_11057.txt_3153_787::: The Republicans have taken a bold option: They will just refuse to pass a budget, and they'll let the government shut down
+ArticleIP_11057.txt_3153_787:::X:::POSITIVE:::refuse:::refuse:::agent:::they_8
+ArticleIP_11057.txt_3153_787:::X:::POSITIVE:::pass:::pass:::agent:::they_8
+null
+
+ArticleIP_11057.txt_3153:::28:::800
+ArticleIP_11057.txt_3153_800:::X:::objective:::need:::keep
+ArticleIP_11057.txt_3153_800::: We'll need to keep some essential personnel
+ArticleIP_11057.txt_3153_800:::X:::POSITIVE:::need:::need:::agent:::we_1
+ArticleIP_11057.txt_3153_800:::X:::POSITIVE:::keep:::keep:::agent:::we_1
+null
+
+ArticleIP_11057.txt_3153:::36:::805
+ArticleIP_11057.txt_3153_805:::X:::objective:::need:::keep
+ArticleIP_11057.txt_3153_805::: PANETTA: We'll need to keep the pilots 
+ArticleIP_11057.txt_3153_805:::X:::POSITIVE:::need:::need:::agent:::panetta_1
+ArticleIP_11057.txt_3153_805:::X:::POSITIVE:::keep:::keep:::agent:::panetta_1
+null
+
+ArticleIP_11057.txt_3153:::49:::815
+ArticleIP_11057.txt_3153_815:::X:::objective:::have:::do
+ArticleIP_11057.txt_3153_815::: We have to do without the clerks 
+ArticleIP_11057.txt_3153_815:::X:::POSITIVE:::have:::have:::agent:::we_1
+ArticleIP_11057.txt_3153_815:::X:::POSITIVE:::do:::do:::agent:::we_1
+null
+
+ArticleIP_11057.txt_3153:::86:::847
+ArticleIP_11057.txt_3153_847:::X:::objective:::have:::muddle
+ArticleIP_11057.txt_3153_847::: But I guess I'll just have to muddle through
+ArticleIP_11057.txt_3153_847:::X:::POSITIVE:::have:::have:::agent:::i_4
+ArticleIP_11057.txt_3153_847:::X:::POSITIVE:::muddle:::muddle:::agent:::i_4
+null
+
+ArticleIP_11057.txt_3153:::176:::917
+ArticleIP_11057.txt_3153_917:::X:::objective:::pick:::drink
+ArticleIP_11057.txt_3153_917::: It's just what she picks to drink
+ArticleIP_11057.txt_3153_917:::X:::POSITIVE:::picks:::pick:::agent:::she_5
+ArticleIP_11057.txt_3153_917:::X:::POSITIVE:::drink:::drink:::agent:::she_5
+null
+
+ArticleIP_11057.txt_3153:::212:::943
+ArticleIP_11057.txt_3153_943:::X:::objective:::have:::testify
+ArticleIP_11057.txt_3153_943::: Meanwhile, Paula Jones sues the president for sexual harassment, and it seems clear that before long, Clinton will have to testify under oath
+ArticleIP_11057.txt_3153_943:::X:::POSITIVE:::have:::have:::agent:::clinton_19
+ArticleIP_11057.txt_3153_943:::X:::POSITIVE:::testify:::testify:::agent:::clinton_19
+null
+
+ArticleIP_11057.txt_3153:::251:::977
+ArticleIP_11057.txt_3153_977:::X:::next_event:::spin:::turn
+ArticleIP_11057.txt_3153_977::: He'll spin the story, he'll turn the tables-- 
+ArticleIP_11057.txt_3153_977:::X:::POSITIVE:::spin:::spin:::modal_verb:::will_2
+ArticleIP_11057.txt_3153_977:::X:::POSITIVE:::turn:::turn:::modal_verb:::will_8
+null
+
+ArticleIP_11057.txt_3153:::251:::977
+ArticleIP_11057.txt_3153_977:::X:::next_event:::spin:::turn
+ArticleIP_11057.txt_3153_977::: He'll spin the story, he'll turn the tables-- 
+ArticleIP_11057.txt_3153_977:::X:::POSITIVE:::spin:::spin:::agent:::he_1
+ArticleIP_11057.txt_3153_977:::X:::POSITIVE:::turn:::turn:::agent:::he_7
+null
+
+ArticleIP_11057.txt_3153:::290:::1009
+ArticleIP_11057.txt_3153_1009:::X:::objective:::wan:::torpedo
+ArticleIP_11057.txt_3153_1009::: They wanna torpedo my agenda 
+ArticleIP_11057.txt_3153_1009:::X:::POSITIVE:::wan:::wan:::agent:::they_1
+ArticleIP_11057.txt_3153_1009:::X:::POSITIVE:::torpedo:::torpedo:::agent:::they_1
+null
+
+ArticleIP_11057.txt_3153:::320:::1037
+ArticleIP_11057.txt_3153_1037:::X:::next_event:::claim:::whine
+ArticleIP_11057.txt_3153_1037::: As they claim when they moan and whine
+ArticleIP_11057.txt_3153_1037:::X:::POSITIVE:::claim:::claim:::agent:::they_2
+ArticleIP_11057.txt_3153_1037:::X:::POSITIVE:::whine:::whine:::agent:::they_5
+null
+
+ArticleIP_11057.txt_3153:::320:::1037
+ArticleIP_11057.txt_3153_1037:::X:::next_event:::moan:::whine
+ArticleIP_11057.txt_3153_1037::: As they claim when they moan and whine
+ArticleIP_11057.txt_3153_1037:::X:::POSITIVE:::moan:::moan:::agent:::they_5
+ArticleIP_11057.txt_3153_1037:::X:::POSITIVE:::whine:::whine:::agent:::they_5
+null
+
+ArticleIP_11057.txt_3153:::341:::1057
+ArticleIP_11057.txt_3153_1057:::X:::next_event:::testify:::argue
+ArticleIP_11057.txt_3153_1057::: [After months of denials and futile delays, Clinton finally testifies before the Starr grand jury and argues that, technically, he didn't lie
+ArticleIP_11057.txt_3153_1057:::X:::POSITIVE:::testifies:::testify:::agent:::clinton_9
+ArticleIP_11057.txt_3153_1057:::X:::POSITIVE:::argues:::argue:::agent:::clinton_9
+null
+
+ArticleIP_11057.txt_3153:::350:::1064
+ArticleIP_11057.txt_3153_1064:::X:::next_event:::apologize:::speak
+ArticleIP_11057.txt_3153_1064::: [Afterward, he speaks to the nation, admits doing wrong, and apologizes, though grudgingly
+ArticleIP_11057.txt_3153_1064:::X:::POSITIVE:::apologizes:::apologize:::agent:::he_3
+ArticleIP_11057.txt_3153_1064:::X:::POSITIVE:::speaks:::speak:::agent:::he_3
+null
+
+ArticleIP_11057.txt_3153:::350:::1064
+ArticleIP_11057.txt_3153_1064:::X:::next_event:::admit:::speak
+ArticleIP_11057.txt_3153_1064::: [Afterward, he speaks to the nation, admits doing wrong, and apologizes, though grudgingly
+ArticleIP_11057.txt_3153_1064:::X:::POSITIVE:::admits:::admit:::agent:::he_3
+ArticleIP_11057.txt_3153_1064:::X:::POSITIVE:::speaks:::speak:::agent:::he_3
+null
+
+ArticleIP_11057.txt_3153:::350:::1064
+ArticleIP_11057.txt_3153_1064:::X:::next_event:::speak:::speak
+ArticleIP_11057.txt_3153_1064::: [Afterward, he speaks to the nation, admits doing wrong, and apologizes, though grudgingly
+ArticleIP_11057.txt_3153_1064:::X:::POSITIVE:::speaks:::speak:::destination:::nation_7
+ArticleIP_11057.txt_3153_1064:::X:::POSITIVE:::speaks:::speak:::destination:::nation_7
+null
+
+ArticleIP_11057.txt_3153:::350:::1064
+ArticleIP_11057.txt_3153_1064:::X:::next_event:::speak:::speak
+ArticleIP_11057.txt_3153_1064::: [Afterward, he speaks to the nation, admits doing wrong, and apologizes, though grudgingly
+ArticleIP_11057.txt_3153_1064:::X:::POSITIVE:::speaks:::speak:::modifier:::afterward_1
+ArticleIP_11057.txt_3153_1064:::X:::POSITIVE:::speaks:::speak:::modifier:::afterward_1
+null
+
+ArticleIP_11057.txt_3153:::350:::1064
+ArticleIP_11057.txt_3153_1064:::X:::next_event:::speak:::speak
+ArticleIP_11057.txt_3153_1064::: [Afterward, he speaks to the nation, admits doing wrong, and apologizes, though grudgingly
+ArticleIP_11057.txt_3153_1064:::X:::POSITIVE:::speaks:::speak:::agent:::he_3
+ArticleIP_11057.txt_3153_1064:::X:::POSITIVE:::speaks:::speak:::agent:::he_3
+null
+
+ArticleIP_11057.txt_3153:::356:::1069
+ArticleIP_11057.txt_3153_1069:::X:::objective:::need:::know
+ArticleIP_11057.txt_3153_1069::: The country doesn't need to know these things
+ArticleIP_11057.txt_3153_1069:::X:::NEGETIVE:::need:::need:::agent:::country_2
+ArticleIP_11057.txt_3153_1069:::X:::POSITIVE:::know:::know:::agent:::country_2
+null
+
+ArticleIP_11057.txt_3153:::365:::1076
+ArticleIP_11057.txt_3153_1076:::X:::objective:::remember:::seem
+ArticleIP_11057.txt_3153_1076::: Must remember to seem unhappy 
+ArticleIP_11057.txt_3153_1076:::X:::POSITIVE:::remember:::remember:::agent:::must_1
+ArticleIP_11057.txt_3153_1076:::X:::POSITIVE:::seem:::seem:::agent:::must_1
+null
+
+ArticleIP_11057.txt_3153:::367:::1078
+ArticleIP_11057.txt_3153_1078:::X:::objective:::remember:::remain
+ArticleIP_11057.txt_3153_1078::: Must remember to remain sober 
+ArticleIP_11057.txt_3153_1078:::X:::POSITIVE:::remember:::remember:::agent:::must_1
+ArticleIP_11057.txt_3153_1078:::X:::POSITIVE:::remain:::remain:::agent:::must_1
+null
+
+ArticleIP_11057.txt_3153:::384:::1093
+ArticleIP_11057.txt_3153_1093:::X:::objective:::vote:::hold
+ArticleIP_11057.txt_3153_1093::: [The House votes to hold impeachment hearings
+ArticleIP_11057.txt_3153_1093:::X:::POSITIVE:::votes:::vote:::agent:::house_2
+ArticleIP_11057.txt_3153_1093:::X:::POSITIVE:::hold:::hold:::agent:::house_2
+null
+
+ArticleIP_11057.txt_3153:::389:::1101
+ArticleIP_11057.txt_3153_1101:::X:::objective:::have:::say
+ArticleIP_11057.txt_3153_1101::: I can't believe what they had to say
+ArticleIP_11057.txt_3153_1101:::X:::POSITIVE:::had:::have:::recipient:::what_5
+ArticleIP_11057.txt_3153_1101:::X:::POSITIVE:::say:::say:::agent:::what_5
+null
+
+ArticleIP_11057.txt_3153:::400:::1109
+ArticleIP_11057.txt_3153_1109:::X:::objective:::have:::say
+ArticleIP_11057.txt_3153_1109::: I can't believe what they had to say
+ArticleIP_11057.txt_3153_1109:::X:::POSITIVE:::had:::have:::recipient:::what_5
+ArticleIP_11057.txt_3153_1109:::X:::POSITIVE:::say:::say:::agent:::what_5
+null
+
+ArticleIP_11057.txt_3153:::409:::1117
+ArticleIP_11057.txt_3153_1117:::X:::objective:::have:::say
+ArticleIP_11057.txt_3153_1117::: I can't believe what they had to say
+ArticleIP_11057.txt_3153_1117:::X:::POSITIVE:::had:::have:::recipient:::what_5
+ArticleIP_11057.txt_3153_1117:::X:::POSITIVE:::say:::say:::agent:::what_5
+null
+
+ArticleIP_11057.txt_3153:::412:::1120
+ArticleIP_11057.txt_3153_1120:::X:::next_event:::tell:::tell
+ArticleIP_11057.txt_3153_1120::: I tell you, though, it is a mystery, 
+ArticleIP_11057.txt_3153_1120:::X:::POSITIVE:::tell:::tell:::recipient:::you_3
+ArticleIP_11057.txt_3153_1120:::X:::POSITIVE:::tell:::tell:::recipient:::you_3
+null
+
+ArticleIP_11057.txt_3153:::412:::1120
+ArticleIP_11057.txt_3153_1120:::X:::next_event:::tell:::tell
+ArticleIP_11057.txt_3153_1120::: I tell you, though, it is a mystery, 
+ArticleIP_11057.txt_3153_1120:::X:::POSITIVE:::tell:::tell:::modifier:::though_5
+ArticleIP_11057.txt_3153_1120:::X:::POSITIVE:::tell:::tell:::modifier:::though_5
+null
+
+ArticleIP_11057.txt_3153:::412:::1120
+ArticleIP_11057.txt_3153_1120:::X:::next_event:::tell:::tell
+ArticleIP_11057.txt_3153_1120::: I tell you, though, it is a mystery, 
+ArticleIP_11057.txt_3153_1120:::X:::POSITIVE:::tell:::tell:::dependent:::mystery_10
+ArticleIP_11057.txt_3153_1120:::X:::POSITIVE:::tell:::tell:::dependent:::mystery_10
+null
+
+ArticleIP_11057.txt_3153:::412:::1120
+ArticleIP_11057.txt_3153_1120:::X:::next_event:::tell:::tell
+ArticleIP_11057.txt_3153_1120::: I tell you, though, it is a mystery, 
+ArticleIP_11057.txt_3153_1120:::X:::POSITIVE:::tell:::tell:::agent:::i_1
+ArticleIP_11057.txt_3153_1120:::X:::POSITIVE:::tell:::tell:::agent:::i_1
+null
+
+ArticleIP_11057.txt_3153:::413:::1121
+ArticleIP_11057.txt_3153_1121:::X:::next_event:::mean:::lie
+ArticleIP_11057.txt_3153_1121::: I mean, I'm unfaithful and I lie
+ArticleIP_11057.txt_3153_1121:::X:::POSITIVE:::mean:::mean:::agent:::i_1
+ArticleIP_11057.txt_3153_1121:::X:::POSITIVE:::lie:::lie:::agent:::i_8
+null
+
+ArticleIP_11058.txt_3153:::13:::1146
+ArticleIP_11058.txt_3153_1146:::X:::objective:::want:::know
+ArticleIP_11058.txt_3153_1146::: "We want you to know how much we respect you as an institution," Hyde says
+ArticleIP_11058.txt_3153_1146:::X:::POSITIVE:::want:::want:::recipient:::you_3
+ArticleIP_11058.txt_3153_1146:::X:::POSITIVE:::know:::know:::agent:::you_3
+null
+
+ArticleIP_11058.txt_3153:::14:::1153
+ArticleIP_11058.txt_3153_1153:::X:::objective:::choose:::swear
+ArticleIP_11058.txt_3153_1153::: He recounts the story of Sir Thomas More, who chose to be beheaded rather than swear an oath he did not believe
+ArticleIP_11058.txt_3153_1153:::X:::POSITIVE:::chose:::choose:::agent:::thomas_more_7
+ArticleIP_11058.txt_3153_1153:::X:::POSITIVE:::swear:::swear:::agent:::thomas_more_7
+null
+
+ArticleIP_11058.txt_3153:::14:::1153
+ArticleIP_11058.txt_3153_1153:::X:::next_event:::recount:::believe
+ArticleIP_11058.txt_3153_1153::: He recounts the story of Sir Thomas More, who chose to be beheaded rather than swear an oath he did not believe
+ArticleIP_11058.txt_3153_1153:::X:::POSITIVE:::recounts:::recount:::agent:::he_1
+ArticleIP_11058.txt_3153_1153:::X:::NEGETIVE:::believe:::believe:::agent:::he_19
+null
+
+ArticleIP_11058.txt_3153:::14:::1155
+ArticleIP_11058.txt_3153_1155:::X:::next_event:::introduce:::recite
+ArticleIP_11058.txt_3153_1155:::) Hyde also introduces his fellow managers and recites their legal credentials
+ArticleIP_11058.txt_3153_1155:::X:::POSITIVE:::introduces:::introduce:::agent:::hyde_1
+ArticleIP_11058.txt_3153_1155:::X:::POSITIVE:::recites:::recite:::agent:::hyde_1
+null
+
+ArticleIP_11058.txt_3153:::19:::1208
+ArticleIP_11058.txt_3153_1208:::X:::objective:::know:::face
+ArticleIP_11058.txt_3153_1208::: Outside the Capitol I am accosted by a woman: "Tell everyone you know to face God this year
+ArticleIP_11058.txt_3153_1208:::X:::POSITIVE:::know:::know:::agent:::you_12
+ArticleIP_11058.txt_3153_1208:::X:::POSITIVE:::face:::face:::agent:::you_12
+null
+
+ArticleIP_11109.txt_3153:::44:::1251
+ArticleIP_11109.txt_3153_1251:::X:::objective:::need:::travel
+ArticleIP_11109.txt_3153_1251::: Permission of a male relative: Egyptian women still need it to travel abroad
+ArticleIP_11109.txt_3153_1251:::X:::POSITIVE:::need:::need:::recipient:::it_10
+ArticleIP_11109.txt_3153_1251:::X:::POSITIVE:::travel:::travel:::agent:::it_10
+null
+
+ArticleIP_11121.txt_3153:::18:::1337
+ArticleIP_11121.txt_3153_1337:::X:::next_event:::sense:::know
+ArticleIP_11121.txt_3153_1337::: I sense a mutual attraction (and I know she is available)
+ArticleIP_11121.txt_3153_1337:::X:::POSITIVE:::sense:::sense:::agent:::i_1
+ArticleIP_11121.txt_3153_1337:::X:::POSITIVE:::know:::know:::agent:::i_7
+null
+
+ArticleIP_11121.txt_3153:::18:::1339
+ArticleIP_11121.txt_3153_1339:::X:::next_event:::like:::find
+ArticleIP_11121.txt_3153_1339::: Since I both like her and find her desirable, I am considering pursuing a relationship
+ArticleIP_11121.txt_3153_1339:::X:::POSITIVE:::like:::like:::agent:::i_2
+ArticleIP_11121.txt_3153_1339:::X:::POSITIVE:::find:::find:::agent:::i_2
+null
+
+ArticleIP_11121.txt_3153:::30:::1353
+ArticleIP_11121.txt_3153_1353:::X:::next_event:::feel:::think
+ArticleIP_11121.txt_3153_1353::: For some reason, Prudie feels hunchy about your situation and thinks this romantic friendship has possibilities
+ArticleIP_11121.txt_3153_1353:::X:::POSITIVE:::feels:::feel:::agent:::prudie_5
+ArticleIP_11121.txt_3153_1353:::X:::POSITIVE:::thinks:::think:::agent:::prudie_5
+null
+
+ArticleIP_11121.txt_3153:::42:::1363
+ArticleIP_11121.txt_3153_1363:::X:::objective:::want:::move
+ArticleIP_11121.txt_3153_1363::: My question: She wants to move out to California, where I live
+ArticleIP_11121.txt_3153_1363:::X:::POSITIVE:::wants:::want:::agent:::she_3
+ArticleIP_11121.txt_3153_1363:::X:::POSITIVE:::move:::move:::agent:::she_3
+null
+
+ArticleIP_11121.txt_3153:::42:::1364
+ArticleIP_11121.txt_3153_1364:::X:::objective:::want:::move
+ArticleIP_11121.txt_3153_1364::: I want her to move out
+ArticleIP_11121.txt_3153_1364:::X:::POSITIVE:::want:::want:::recipient:::her_3
+ArticleIP_11121.txt_3153_1364:::X:::POSITIVE:::move:::move:::agent:::her_3
+null
+
+ArticleIP_11121.txt_3153:::59:::1381
+ArticleIP_11121.txt_3153_1381:::X:::next_event:::put:::face
+ArticleIP_11121.txt_3153_1381::: I put before you an etiquette quandary that I faced a few years ago and may face again
+ArticleIP_11121.txt_3153_1381:::X:::POSITIVE:::put:::put:::agent:::i_1
+ArticleIP_11121.txt_3153_1381:::X:::POSITIVE:::faced:::face:::agent:::i_9
+null
+
+ArticleIP_11121.txt_3153:::59:::1381
+ArticleIP_11121.txt_3153_1381:::X:::next_event:::put:::face
+ArticleIP_11121.txt_3153_1381::: I put before you an etiquette quandary that I faced a few years ago and may face again
+ArticleIP_11121.txt_3153_1381:::X:::POSITIVE:::put:::put:::agent:::i_1
+ArticleIP_11121.txt_3153_1381:::X:::POSITIVE:::face:::face:::agent:::i_9
+null
+
+ArticleIP_11121.txt_3153:::59:::1381
+ArticleIP_11121.txt_3153_1381:::X:::next_event:::face:::face
+ArticleIP_11121.txt_3153_1381::: I put before you an etiquette quandary that I faced a few years ago and may face again
+ArticleIP_11121.txt_3153_1381:::X:::POSITIVE:::faced:::face:::agent:::i_9
+ArticleIP_11121.txt_3153_1381:::X:::POSITIVE:::face:::face:::agent:::i_9
+null
+
+ArticleIP_11121.txt_3153:::59:::1385
+ArticleIP_11121.txt_3153_1385:::X:::next_event:::refrain:::do
+ArticleIP_11121.txt_3153_1385::: I therefore refrained from handing him a potentially demeaning tip but was still left with the feeling that I should do something
+ArticleIP_11121.txt_3153_1385:::X:::POSITIVE:::refrained:::refrain:::agent:::i_1
+ArticleIP_11121.txt_3153_1385:::X:::POSITIVE:::do:::do:::agent:::i_19
+null
+
+ArticleIP_11121.txt_3153:::86:::1410
+ArticleIP_11121.txt_3153_1410:::X:::objective:::free:::point
+ArticleIP_11121.txt_3153_1410::: Feel free to point out that callus interruptus is bad for business
+ArticleIP_11121.txt_3153_1410:::X:::POSITIVE:::free:::free:::agent:::feel_1
+ArticleIP_11121.txt_3153_1410:::X:::POSITIVE:::point:::point:::agent:::feel_1
+null
+
+ArticleIP_11201.txt_3153:::13:::1459
+ArticleIP_11201.txt_3153_1459:::X:::next_event:::run:::identify
+ArticleIP_11201.txt_3153_1459::: Ralph Neas, who for many years ran the Leadership Conference on Civil Rights, always identified himself as a Republican
+ArticleIP_11201.txt_3153_1459:::X:::POSITIVE:::ran:::run:::agent:::ralph_neas_1
+ArticleIP_11201.txt_3153_1459:::X:::POSITIVE:::identified:::identify:::agent:::ralph_neas_1
+null
+
+ArticleIP_11201.txt_3153:::14:::1464
+ArticleIP_11201.txt_3153_1464:::X:::next_event:::reason:::reason
+ArticleIP_11201.txt_3153_1464::: For most moderate Republicans, though, the principal reasons not to switch party are nostalgia and aristocratic indolence
+ArticleIP_11201.txt_3153_1464:::X:::POSITIVE:::reasons:::reason:::agent:::principal_9
+ArticleIP_11201.txt_3153_1464:::X:::POSITIVE:::reasons:::reason:::agent:::principal_9
+null
+
+ArticleIP_11201.txt_3153:::14:::1464
+ArticleIP_11201.txt_3153_1464:::X:::next_event:::reason:::reason
+ArticleIP_11201.txt_3153_1464::: For most moderate Republicans, though, the principal reasons not to switch party are nostalgia and aristocratic indolence
+ArticleIP_11201.txt_3153_1464:::X:::POSITIVE:::reasons:::reason:::modifier:::though_6
+ArticleIP_11201.txt_3153_1464:::X:::POSITIVE:::reasons:::reason:::modifier:::though_6
+null
+
+ArticleIP_11201.txt_3153:::14:::1464
+ArticleIP_11201.txt_3153_1464:::X:::next_event:::reason:::reason
+ArticleIP_11201.txt_3153_1464::: For most moderate Republicans, though, the principal reasons not to switch party are nostalgia and aristocratic indolence
+ArticleIP_11201.txt_3153_1464:::X:::POSITIVE:::reasons:::reason:::beneficiary:::republicans_4
+ArticleIP_11201.txt_3153_1464:::X:::POSITIVE:::reasons:::reason:::beneficiary:::republicans_4
+null
+
+ArticleIP_11201.txt_3153:::14:::1464
+ArticleIP_11201.txt_3153_1464:::X:::objective:::reason:::switch
+ArticleIP_11201.txt_3153_1464::: For most moderate Republicans, though, the principal reasons not to switch party are nostalgia and aristocratic indolence
+ArticleIP_11201.txt_3153_1464:::X:::POSITIVE:::reasons:::reason:::agent:::principal_9
+ArticleIP_11201.txt_3153_1464:::X:::NEGETIVE:::switch:::switch:::agent:::principal_9
+null
+
+ArticleIP_11201.txt_3153:::14:::1464
+ArticleIP_11201.txt_3153_1464:::X:::next_event:::switch:::reason
+ArticleIP_11201.txt_3153_1464::: For most moderate Republicans, though, the principal reasons not to switch party are nostalgia and aristocratic indolence
+ArticleIP_11201.txt_3153_1464:::X:::NEGETIVE:::switch:::switch:::agent:::principal_9
+ArticleIP_11201.txt_3153_1464:::X:::POSITIVE:::reasons:::reason:::agent:::principal_9
+null
+
+ArticleIP_11221.txt_3153:::16:::1489
+ArticleIP_11221.txt_3153_1489:::X:::objective:::plan:::make
+ArticleIP_11221.txt_3153_1489::: We plan to make other 
+ArticleIP_11221.txt_3153_1489:::X:::POSITIVE:::plan:::plan:::agent:::we_1
+ArticleIP_11221.txt_3153_1489:::X:::POSITIVE:::make:::make:::agent:::we_1
+null
+
+ArticleIP_11221.txt_3153:::18:::1492
+ArticleIP_11221.txt_3153_1492:::X:::objective:::have:::do
+ArticleIP_11221.txt_3153_1492::: But they won't be formatted for printing out, you'll have to do the scheduling yourself, and the pages must have unchanging URLs (Web addresses)
+ArticleIP_11221.txt_3153_1492:::X:::POSITIVE:::have:::have:::agent:::you_11
+ArticleIP_11221.txt_3153_1492:::X:::POSITIVE:::do:::do:::agent:::you_11
+null
+

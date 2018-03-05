@@ -1,0 +1,12 @@
+since	next_event
+eventhough	inhibited_by
+whereas	inhibited_by
+though	next_event
+although	caused_by
+because	caused_by
+so	causes
+unless	inhibited_by
+and	next_event
+but	next_event
+after	previous_event
+before	next_event

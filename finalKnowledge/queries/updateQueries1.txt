@@ -1,0 +1,7 @@
+Article247_591.txt_3153:::13:::78
+Article247_591.txt_3153_78:::X:::objective:::promise:::stop
+Article247_591.txt_3153_78::: The LAT op-ed page runs a piece by a University of Chicago law professor that promises "How to Stop Mass Public Shootings
+Article247_591.txt_3153_78:::X:::POSITIVE:::promises:::promise:::agent:::professor_12
+Article247_591.txt_3153_78:::X:::POSITIVE:::stop:::stop:::agent:::professor_12
+null
+

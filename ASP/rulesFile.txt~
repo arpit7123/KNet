@@ -1,0 +1,83 @@
+type1_conn(because;so;stop;in_order_to;after;but;that;when;to).
+type2_fwd_conn(so;semi_colon).
+type2_inv_conn(because;even_though;although).
+type3_fwd_conn(so;comma;semi_colon;stop).
+type3_inv_conn(because).
+type4_fwd_conn(but;so;comma;stop).
+type4_inv_conn(because).
+copular_verb(be;have).
+
+copularVerb(V) :- has_part1(V,instance_of,COP), has_part1(V,pos,v), copular_verb(COP).
+copularVerb(V) :- has_part2(V,instance_of,COP), has_part2(V,pos,v), copular_verb(COP).
+nCopVerb(V) :- not copularVerb(V), has_part1(V,instance_of,C), has_part1(V,pos,v).%, C!=COP, copular_verb(COP).
+nCopVerb(V) :- not copularVerb(V), has_part2(V,instance_of,C), has_part2(V,pos,v).%, C!=COP, copular_verb(COP).
+
+negative_part1(A) :- has_part1(A,negative,N).
+negative_part2(B) :- has_part2(B,negative,N).
+positive_part1(A) :- not negative_part1(A),has_part1(A,instance_of,AA).
+positive_part2(B) :- not negative_part2(B),has_part2(B,instance_of,BB).
+
+% Rules for type 1 Knowledge extraction
+% execution of A1 [ARG*: X; ARG*:Y] may cause execution of A2  [ARG*: W; ARG*:Z] (W=X or W=Y or Z=X or Z=Y)
+answerEventsType1(positive,V1,VV1,R1,X1,C,positive,V2,VV2,R2,X2) :- has_part1(V1,R1,X1), has_part2(V2,R2,X2), has_part1(X1,instance_of,X), has_part2(X2,instance_of,X), has_part1(V1,instance_of,VV1), has_part2(V2,instance_of,VV2), R1!=pos, R2!=pos, positive_part1(V1), positive_part2(V2), nCopVerb(V1), nCopVerb(V2), conn(C), type1_conn(C).
+
+answerEventsType1(positive,V1,VV1,R1,X1,C,negative,V2,VV2,R2,X2) :- has_part1(V1,R1,X1), has_part2(V2,R2,X2), has_part1(X1,instance_of,X), has_part2(X2,instance_of,X), has_part1(V1,instance_of,VV1), has_part2(V2,instance_of,VV2), R1!=pos, R2!=pos, positive_part1(V1), negative_part2(V2), nCopVerb(V1), nCopVerb(V2), conn(C), type1_conn(C).
+
+answerEventsType1(negative,V1,VV1,R1,X1,C,negative,V2,VV2,R2,X2) :- has_part1(V1,R1,X1), has_part2(V2,R2,X2), has_part1(X1,instance_of,X), has_part2(X2,instance_of,X), has_part1(V1,instance_of,VV1), has_part2(V2,instance_of,VV2), R1!=pos, R2!=pos, negative_part1(V1), negative_part2(V2), nCopVerb(V1), nCopVerb(V2), conn(C), type1_conn(C).
+
+answerEventsType1(negative,V1,VV1,R1,X1,C,positive,V2,VV2,R2,X2) :- has_part1(V1,R1,X1), has_part2(V2,R2,X2), has_part1(X1,instance_of,X), has_part2(X2,instance_of,X), has_part1(V1,instance_of,VV1), has_part2(V2,instance_of,VV2), R1!=pos, R2!=pos, negative_part1(V1), positive_part2(V2), nCopVerb(V1), nCopVerb(V2), conn(C), type1_conn(C).
+
+% Rules for type 2 Knowledge extraction
+% X.PROP = true/false may prevent execution of A1 [ARG*: X; ARG*:Y]
+answerType2(positive,T,V1,VV1,R1) :- has_part1(V1,R1,X1), has_part1(V1,instance_of,VV1), negative_part1(V1), R1!=pos, nCopVerb(V1), has_part2(V2,R2,X2), copularVerb(V2), R2!=pos, has_part2(X2,trait,T), positive_part2(T), has_part1(X1,instance_of,XX), has_part2(X2,instance_of,XX), conn(C), type2_inv_conn(C).
+
+answerType2(positive,T,V2,VV2,R2) :- has_part1(V1,R1,X1), copularVerb(V1), R1!=pos, has_part1(X1,trait,T), positive_part2(T), has_part2(V2,R2,X2), has_part2(V2,instance_of,VV2), negative_part2(V2), R2!=pos, nCopVerb(V2), has_part2(X2,instance_of,XX), has_part1(X1,instance_of,XX), conn(C), type3_fwd_conn(C).
+
+answerType2(negative,T,V1,VV1,R1) :- has_part1(V1,R1,X1), has_part1(V1,instance_of,VV1), negative_part1(V1), R1!=pos, nCopVerb(V1), has_part2(V2,R2,X2), copularVerb(V2), R2!=pos, has_part2(X2,trait,T), negative_part2(T), has_part1(X1,instance_of,XX), has_part2(X2,instance_of,XX), conn(C), type2_inv_conn(C).
+
+answerType2(negative,T,V2,VV2,R2) :- has_part1(V1,R1,X1), copularVerb(V1), R1!=pos, has_part1(X1,trait,T), negative_part2(T), has_part2(V2,R2,X2), has_part2(V2,instance_of,VV2), negative_part2(V2), R2!=pos, nCopVerb(V2), has_part2(X2,instance_of,XX), has_part1(X1,instance_of,XX), conn(C), type3_fwd_conn(C).
+
+% Rules for type 3 Knowledge extraction
+% X.property = true/false may cause execution of A [ARG*: X; ARG*:Y] 
+answerType3(positive,T,V1,VV1,R1) :- has_part1(V1,R1,X1), has_part1(V1,instance_of,VV1), positive_part1(V1), R1!=pos, nCopVerb(V1), has_part2(V2,R2,X2), copularVerb(V2), R2!=pos, has_part2(X2,trait,T), positive_part2(T), has_part1(X1,instance_of,XX), conn(C), type3_inv_conn(C), has_part2(X2,instance_of,XX).
+
+answerType3(positive,T,V2,VV2,R2) :- has_part1(V1,R1,X1), copularVerb(V1), R1!=pos, has_part1(X1,trait,T), positive_part1(T), has_part2(V2,R2,X2), has_part2(V2,instance_of,VV2), positive_part2(V2), R2!=pos, nCopVerb(V2), has_part2(X2,instance_of,XX), has_part1(X1,instance_of,XX), conn(C), type3_fwd_conn(C).
+
+answerType3(negative,T,V1,VV1,R1) :- has_part1(V1,R1,X1), has_part1(V1,instance_of,VV1), positive_part1(V1), R1!=pos, nCopVerb(V1), has_part2(V2,R2,X2), copularVerb(V2), R2!=pos, has_part2(X2,trait,T), negative_part2(T), has_part1(X1,instance_of,XX), has_part2(X2,instance_of,XX), conn(C), type3_inv_conn(C).
+
+answerType3(negative,T,V2,VV2,R2) :- has_part1(V1,R1,X1), copularVerb(V1), R1!=pos, has_part1(X1,trait,T), negative_part1(T), has_part2(V2,R2,X2), has_part2(V2,instance_of,VV2), positive_part2(V2), R2!=pos, nCopVerb(V2), has_part2(X2,instance_of,XX), has_part1(X1,instance_of,XX), conn(C), type3_fwd_conn(C).
+
+% Rules for type 4 Knowledge extraction
+% execution of A1 [ARG*: X; ARG*:Y] may cause X.property = true/false
+
+answerType4(positive,T,V1,VV1,R1) :- has_part1(V1,R1,X1), has_part1(V1,instance_of,VV1), positive_part1(V1), R1!=pos, nCopVerb(V1), has_part2(V2,R2,X2), copularVerb(V2), R2!=pos, has_part2(X2,trait,T), positive_part2(T), has_part1(X1,instance_of,XX), has_part2(X2,instance_of,XX), conn(C), type4_fwd_conn(C).
+
+answerType4(positive,T,V2,VV2,R2) :- has_part1(V1,R1,X1), copularVerb(V1), R1!=pos, has_part1(X1,trait,T), positive_part1(T), has_part2(V2,R2,X2), has_part2(V2,instance_of,VV2), positive_part2(V2), R2!=pos, nCopVerb(V2), has_part2(X2,instance_of,XX), has_part1(X1,instance_of,XX), conn(C), type4_inv_conn(C).
+
+answerType4(negative,T,V1,VV1,R1) :- has_part1(V1,R1,X1), has_part1(V1,instance_of,VV1), positive_part1(V1), R1!=pos, nCopVerb(V1), has_part2(V2,R2,X2), copularVerb(V2), R2!=pos, has_part2(X2,trait,T), negative_part2(T), has_part1(X1,instance_of,XX), has_part2(X2,instance_of,XX), conn(C), type4_fwd_conn(C).
+
+answerType4(negative,T,V2,VV2,R2) :- has_part1(V1,R1,X1), copularVerb(V1), R1!=pos, has_part1(X1,trait,T), negative_part1(T), has_part2(V2,R2,X2), has_part2(V2,instance_of,VV2), positive_part2(V2), R2!=pos, nCopVerb(V2), has_part2(X2,instance_of,XX), has_part1(X1,instance_of,XX), conn(C), type4_inv_conn(C).
+
+% Rules for type 5 Knowledge extraction
+% execution of A1 [ARG*: X; ARG*:Y] may prevent execution of A2 [ARG*: X; ARG*:Z]
+answerEventsType5(negative,V1,VV1,R1,X1,positive,V2,VV2,R2,X2) :- has_part1(V1,R1,X1), has_part2(V2,R2,X2), has_part1(X1,instance_of,X), has_part2(X2,instance_of,X), has_part1(V1,instance_of,VV1), has_part2(V2,instance_of,VV2), R1!=pos, R2!=pos, negative_part1(V1), positive_part2(V2), nCopVerb(V1), nCopVerb(V2), conn(then), initconn(if).
+
+answerEventsType5(negative,V1,VV1,R1,X1,positive,V2,VV2,R2,X2) :- has_part1(V1,R1,X1), has_part2(V2,R2,X2), has_part1(X1,instance_of,X), has_part2(X2,instance_of,X), has_part1(V1,instance_of,VV1), has_part2(V2,instance_of,VV2), R1!=pos, R2!=pos, negative_part1(V1), positive_part2(V2), nCopVerb(V1), nCopVerb(V2), conn(comma), initconn(if).
+
+%#hide.
+#show answerEventsType1/11.
+#show answerType2/5.
+#show answerType3/5.
+#show answerType4/5.
+#show answerEventsType5/10.
+%#show negative_part1/1.
+%#show negative_part2/1.
+%#show positive_part1/1.
+%#show positive_part2/1.
+%#show nCopVerb/1.
+%#show copularVerb/1.
+%#show relatedEvents(X,R,Y).
+%#show answerEvents(N1,E1,EE1,R1,X1,R,N2,E2,EE2,R2,X2).
+%#show nonEventRelation(R).
+%#show answerProperty(P1,V1,V,R1,P2,T,TT).
+%#show positive(X).

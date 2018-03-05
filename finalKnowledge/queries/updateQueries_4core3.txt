@@ -1,0 +1,903 @@
+Article247_3929.txt_3153:::9:::6
+Article247_3929.txt_3153_6:::X:::objective:::care:::remember
+Article247_3929.txt_3153_6::: Especially, as I've said to you more times than you care to remember, the ads for online stuff
+Article247_3929.txt_3153_6:::X:::POSITIVE:::care:::care:::agent:::you_12
+Article247_3929.txt_3153_6:::X:::POSITIVE:::remember:::remember:::agent:::you_12
+null
+
+Article247_3929.txt_3153:::9:::11
+Article247_3929.txt_3153_11:::X:::objective:::have:::have
+Article247_3929.txt_3153_11::: I need one of those! I have to have one! 
+Article247_3929.txt_3153_11:::X:::POSITIVE:::have:::have:::agent:::i_6
+Article247_3929.txt_3153_11:::X:::POSITIVE:::have:::have:::agent:::i_6
+null
+
+Article247_3929.txt_3153:::11:::25
+Article247_3929.txt_3153_25:::X:::next_event:::pay:::pay
+Article247_3929.txt_3153_25::: If people won't pay for subscriptions and advertisers won't pay for banner ads, where does that leave us? 
+Article247_3929.txt_3153_25:::X:::NEGETIVE:::pay:::pay:::modal_verb:::wo_3
+Article247_3929.txt_3153_25:::X:::NEGETIVE:::pay:::pay:::modal_verb:::wo_10
+null
+
+Article247_3929.txt_3153:::11:::25
+Article247_3929.txt_3153_25:::X:::next_event:::pay:::pay
+Article247_3929.txt_3153_25::: If people won't pay for subscriptions and advertisers won't pay for banner ads, where does that leave us? 
+Article247_3929.txt_3153_25:::X:::NEGETIVE:::pay:::pay:::negative:::not_4
+Article247_3929.txt_3153_25:::X:::NEGETIVE:::pay:::pay:::negative:::not_11
+null
+
+Article247_3952.txt_3153:::8:::109
+Article247_3952.txt_3153_109:::X:::objective:::have:::do
+Article247_3952.txt_3153_109::: All you have to do is dream
+Article247_3952.txt_3153_109:::X:::POSITIVE:::have:::have:::agent:::you_2
+Article247_3952.txt_3153_109:::X:::POSITIVE:::do:::do:::agent:::you_2
+null
+
+Article247_3952.txt_3153:::9:::110
+Article247_3952.txt_3153_110:::X:::next_event:::buy:::instal
+Article247_3952.txt_3153_110::: I myself am planning to return to life as the new computer printer that you bought and installed yesterday
+Article247_3952.txt_3153_110:::X:::POSITIVE:::bought:::buy:::agent:::you_15
+Article247_3952.txt_3153_110:::X:::POSITIVE:::installed:::instal:::agent:::you_15
+null
+
+Article247_4015.txt_3153:::7:::126
+Article247_4015.txt_3153_126:::X:::next_event:::react:::cite
+Article247_4015.txt_3153_126::: Wall Street reacted favorably to the decision by the Fed, which cited tightening labor markets
+Article247_4015.txt_3153_126:::X:::POSITIVE:::reacted:::react:::prep_by:::fed_10
+Article247_4015.txt_3153_126:::X:::POSITIVE:::cited:::cite:::agent:::fed_10
+null
+
+Article247_4015.txt_3153:::9:::132
+Article247_4015.txt_3153_132:::X:::objective:::continue:::leak
+Article247_4015.txt_3153_132::: Meanwhile, "officials close to the investigation" continue to leak details of the plane's last moments
+Article247_4015.txt_3153_132:::X:::POSITIVE:::continue:::continue:::agent:::officials_3
+Article247_4015.txt_3153_132:::X:::POSITIVE:::leak:::leak:::agent:::officials_3
+null
+
+Article247_4015.txt_3153:::10:::143
+Article247_4015.txt_3153_143:::X:::objective:::request:::fly
+Article247_4015.txt_3153_143:::" The Journal and the LAT report that the co-pilot requested to fly the plane shortly before he took the controls
+Article247_4015.txt_3153_143:::X:::POSITIVE:::requested:::request:::agent:::copilot_9
+Article247_4015.txt_3153_143:::X:::POSITIVE:::fly:::fly:::agent:::copilot_9
+null
+
+Article247_4015.txt_3153:::13:::160
+Article247_4015.txt_3153_160:::X:::next_event:::light:::start
+Article247_4015.txt_3153_160::: Then he lit up a joint and started listing all the heads of state of Third World countries
+Article247_4015.txt_3153_160:::X:::POSITIVE:::lit:::light:::agent:::he_2
+Article247_4015.txt_3153_160:::X:::POSITIVE:::started:::start:::agent:::he_2
+null
+
+Article247_3959.txt_3153:::9:::178
+Article247_3959.txt_3153_178:::X:::objective:::plan:::make
+Article247_3959.txt_3153_178::: Mint plans to make the Sacagawea dollar more successful than its predecessor, the Susan B
+Article247_3959.txt_3153_178:::X:::POSITIVE:::plans:::plan:::agent:::mint_1
+Article247_3959.txt_3153_178:::X:::POSITIVE:::make:::make:::agent:::mint_1
+null
+
+Article247_3962.txt_3153:::7:::211
+Article247_3962.txt_3153_211:::X:::objective:::encourage:::produce
+Article247_3962.txt_3153_211::: The concerted actions will encourage manufacturers to produce vehicles which satisfy the strictest state requirements
+Article247_3962.txt_3153_211:::X:::POSITIVE:::encourage:::encourage:::recipient:::manufacturers_6
+Article247_3962.txt_3153_211:::X:::POSITIVE:::produce:::produce:::agent:::manufacturers_6
+null
+
+Article247_3962.txt_3153:::9:::222
+Article247_3962.txt_3153_222:::X:::objective:::order:::abandon
+Article247_3962.txt_3153_222::: Microsoft might appeal, and the next president could order the Justice Department to abandon the case
+Article247_3962.txt_3153_222:::X:::POSITIVE:::order:::order:::recipient:::justice_department_12
+Article247_3962.txt_3153_222:::X:::POSITIVE:::abandon:::abandon:::agent:::justice_department_12
+null
+
+Article247_3962.txt_3153:::12:::242
+Article247_3962.txt_3153_242:::X:::objective:::refuse:::answer
+Article247_3962.txt_3153_242:::" The Post reports that Bill Bradley refused to answer when asked who the leader of North Korea is
+Article247_3962.txt_3153_242:::X:::POSITIVE:::refused:::refuse:::agent:::bill_bradley_5
+Article247_3962.txt_3153_242:::X:::POSITIVE:::answer:::answer:::agent:::bill_bradley_5
+null
+
+Article247_4010.txt_3153:::10:::255
+Article247_4010.txt_3153_255:::X:::objective:::need:::start
+Article247_4010.txt_3153_255:::, but this day-and-night access to waffles may be all the reason I need to start planning a trip
+Article247_4010.txt_3153_255:::X:::POSITIVE:::need:::need:::agent:::i_13
+Article247_4010.txt_3153_255:::X:::POSITIVE:::start:::start:::agent:::i_13
+null
+
+Article247_4010.txt_3153:::13:::272
+Article247_4010.txt_3153_272:::X:::objective:::press:::dress
+Article247_4010.txt_3153_272::: I also love the way he brings his girlfriend to press conferences to dress things up
+Article247_4010.txt_3153_272:::X:::POSITIVE:::press:::press:::recipient:::conferences_12
+Article247_4010.txt_3153_272:::X:::POSITIVE:::dress:::dress:::agent:::conferences_12
+null
+
+Article247_4086.txt_3153:::8:::278
+Article247_4086.txt_3153_278:::X:::next_event:::run:::purchase
+Article247_4086.txt_3153_278::: Stunned by this new revelation, Chatterbox ran to the nearest bookstore and purchased a copy
+Article247_4086.txt_3153_278:::X:::POSITIVE:::ran:::run:::agent:::chatterbox_7
+Article247_4086.txt_3153_278:::X:::POSITIVE:::purchased:::purchase:::agent:::chatterbox_7
+null
+
+Article247_4086.txt_3153:::24:::294
+Article247_4086.txt_3153_294:::X:::objective:::forget:::look
+Article247_4086.txt_3153_294::: Mesmerized by the narrative rush of Sheehy's bodice-ripper, Chatterbox almost forgot to look up the business about smoking dope
+Article247_4086.txt_3153_294:::X:::POSITIVE:::forgot:::forget:::agent:::chatterbox_11
+Article247_4086.txt_3153_294:::X:::POSITIVE:::look:::look:::agent:::chatterbox_11
+null
+
+Article247_4086.txt_3153:::28:::299
+Article247_4086.txt_3153_299:::X:::objective:::have:::go
+Article247_4086.txt_3153_299::: The obvious question is, did Hillary inhale too? "I don't have to go there," says Rupert, "but you can read between the lines
+Article247_4086.txt_3153_299:::X:::NEGETIVE:::have:::have:::agent:::i_11
+Article247_4086.txt_3153_299:::X:::POSITIVE:::go:::go:::agent:::i_11
+null
+
+Article247_4026.txt_3153:::9:::335
+Article247_4026.txt_3153_335:::X:::objective:::decide:::change
+Article247_4026.txt_3153_335::: The acquittal disillusioned the future vice president with the power of the pen, and he decided to change careers
+Article247_4026.txt_3153_335:::X:::POSITIVE:::decided:::decide:::agent:::he_16
+Article247_4026.txt_3153_335:::X:::POSITIVE:::change:::change:::agent:::he_16
+null
+
+Article247_4026.txt_3153:::9:::336
+Article247_4026.txt_3153_336:::X:::next_event:::enter:::run
+Article247_4026.txt_3153_336::: He entered law school and shortly thereafter ran for Congress when a seat opened up
+Article247_4026.txt_3153_336:::X:::POSITIVE:::entered:::enter:::agent:::he_1
+Article247_4026.txt_3153_336:::X:::POSITIVE:::ran:::run:::agent:::he_1
+null
+
+Article247_3899.txt_3153:::11:::382
+Article247_3899.txt_3153_382:::X:::objective:::want:::fix
+Article247_3899.txt_3153_382::: This is one I want to fix for you 
+Article247_3899.txt_3153_382:::X:::POSITIVE:::want:::want:::agent:::i_4
+Article247_3899.txt_3153_382:::X:::POSITIVE:::fix:::fix:::agent:::i_4
+null
+
+Article247_3899.txt_3153:::11:::384
+Article247_3899.txt_3153_384:::X:::next_event:::come:::stay
+Article247_3899.txt_3153_384::: Peter, "You can come in, but you can only stay three days
+Article247_3899.txt_3153_384:::X:::POSITIVE:::come:::come:::modal_verb:::can_4
+Article247_3899.txt_3153_384:::X:::POSITIVE:::stay:::stay:::modal_verb:::can_10
+null
+
+Article247_3899.txt_3153:::14:::404
+Article247_3899.txt_3153_404:::X:::objective:::have:::win
+Article247_3899.txt_3153_404::: Bill Bradley doesn't have to win you over with his charisma
+Article247_3899.txt_3153_404:::X:::NEGETIVE:::have:::have:::agent:::bill_bradley_1
+Article247_3899.txt_3153_404:::X:::POSITIVE:::win:::win:::agent:::bill_bradley_1
+null
+
+Article247_3899.txt_3153:::14:::405
+Article247_3899.txt_3153_405:::X:::objective:::have:::wait
+Article247_3899.txt_3153_405::: He just has to wait for you to get sick to death of Al Gore
+Article247_3899.txt_3153_405:::X:::POSITIVE:::has:::have:::agent:::he_1
+Article247_3899.txt_3153_405:::X:::POSITIVE:::wait:::wait:::agent:::he_1
+null
+
+Article247_3991.txt_3153:::9:::418
+Article247_3991.txt_3153_418:::X:::next_event:::manage:::establish
+Article247_3991.txt_3153_418::: They managed to dedicate more money than Clinton wanted to the Pentagon and military salaries and establish themselves as protectors of Social Security revenue
+Article247_3991.txt_3153_418:::X:::POSITIVE:::managed:::manage:::agent:::they_1
+Article247_3991.txt_3153_418:::X:::POSITIVE:::establish:::establish:::agent:::they_1
+null
+
+Article247_3991.txt_3153:::9:::418
+Article247_3991.txt_3153_418:::X:::next_event:::dedicate:::establish
+Article247_3991.txt_3153_418::: They managed to dedicate more money than Clinton wanted to the Pentagon and military salaries and establish themselves as protectors of Social Security revenue
+Article247_3991.txt_3153_418:::X:::POSITIVE:::dedicate:::dedicate:::agent:::they_1
+Article247_3991.txt_3153_418:::X:::POSITIVE:::establish:::establish:::agent:::they_1
+null
+
+Article247_3991.txt_3153:::9:::418
+Article247_3991.txt_3153_418:::X:::objective:::manage:::dedicate
+Article247_3991.txt_3153_418::: They managed to dedicate more money than Clinton wanted to the Pentagon and military salaries and establish themselves as protectors of Social Security revenue
+Article247_3991.txt_3153_418:::X:::POSITIVE:::managed:::manage:::agent:::they_1
+Article247_3991.txt_3153_418:::X:::POSITIVE:::dedicate:::dedicate:::agent:::they_1
+null
+
+Article247_3991.txt_3153:::9:::418
+Article247_3991.txt_3153_418:::X:::objective:::manage:::establish
+Article247_3991.txt_3153_418::: They managed to dedicate more money than Clinton wanted to the Pentagon and military salaries and establish themselves as protectors of Social Security revenue
+Article247_3991.txt_3153_418:::X:::POSITIVE:::managed:::manage:::agent:::they_1
+Article247_3991.txt_3153_418:::X:::POSITIVE:::establish:::establish:::agent:::they_1
+null
+
+Article247_3991.txt_3153:::9:::419
+Article247_3991.txt_3153_419:::X:::objective:::want:::go
+Article247_3991.txt_3153_419::: Now, says the story, they simply "want to go home
+Article247_3991.txt_3153_419:::X:::POSITIVE:::want:::want:::agent:::they_7
+Article247_3991.txt_3153_419:::X:::POSITIVE:::go:::go:::agent:::they_7
+null
+
+Article247_3991.txt_3153:::13:::448
+Article247_3991.txt_3153_448:::X:::next_event:::blame:::arrest
+Article247_3991.txt_3153_448::: So don't blame them and arrest them for what we did," said Klebold
+Article247_3991.txt_3153_448:::X:::NEGETIVE:::blame:::blame:::recipient:::them_5
+Article247_3991.txt_3153_448:::X:::POSITIVE:::arrest:::arrest:::recipient:::them_8
+null
+
+Article247_3991.txt_3153:::15:::462
+Article247_3991.txt_3153_462:::X:::next_event:::fly:::celebrate
+Article247_3991.txt_3153_462::: South Carolina is also the only state that still flies the flag and doesn't celebrate King's birthday
+Article247_3991.txt_3153_462:::X:::POSITIVE:::flies:::fly:::agent:::state_6
+Article247_3991.txt_3153_462:::X:::NEGETIVE:::celebrate:::celebrate:::agent:::state_6
+null
+
+Article247_3954.txt_3153:::21:::494
+Article247_3954.txt_3153_494:::X:::next_event:::hear:::circulate
+Article247_3954.txt_3153_494::: It's the story they heard first, and circulated for six months uncontested
+Article247_3954.txt_3153_494:::X:::POSITIVE:::heard:::hear:::agent:::they_5
+Article247_3954.txt_3153_494:::X:::POSITIVE:::circulated:::circulate:::agent:::they_5
+null
+
+Article247_3954.txt_3153:::21:::495
+Article247_3954.txt_3153_495:::X:::next_event:::happen:::accept
+Article247_3954.txt_3153_495::: You can say it didn't happen that way, but the church won't accept it
+Article247_3954.txt_3153_495:::X:::NEGETIVE:::happen:::happen:::negative:::not_6
+Article247_3954.txt_3153_495:::X:::NEGETIVE:::accept:::accept:::negative:::not_15
+null
+
+Article247_3954.txt_3153:::21:::495
+Article247_3954.txt_3153_495:::X:::next_event:::happen:::accept
+Article247_3954.txt_3153_495::: You can say it didn't happen that way, but the church won't accept it
+Article247_3954.txt_3153_495:::X:::NEGETIVE:::happen:::happen:::agent:::it_4
+Article247_3954.txt_3153_495:::X:::NEGETIVE:::accept:::accept:::recipient:::it_17
+null
+
+Article247_3993.txt_3153:::12:::550
+Article247_3993.txt_3153_550:::X:::objective:::like:::get
+Article247_3993.txt_3153_550::: Boeing would like to get China--one of the world's fastest growing jet markets--into the WTO, but U
+Article247_3993.txt_3153_550:::X:::POSITIVE:::like:::like:::agent:::boeing_1
+Article247_3993.txt_3153_550:::X:::POSITIVE:::get:::get:::agent:::boeing_1
+null
+
+Article247_3915.txt_3153:::19:::590
+Article247_3915.txt_3153_590:::X:::objective:::have:::win
+Article247_3915.txt_3153_590::: Kennedy has the name and fundraising ability to win the Senate seat, but right now Rep
+Article247_3915.txt_3153_590:::X:::POSITIVE:::has:::have:::recipient:::ability_7
+Article247_3915.txt_3153_590:::X:::POSITIVE:::win:::win:::agent:::ability_7
+null
+
+Article247_3915.txt_3153:::19:::591
+Article247_3915.txt_3153_591:::X:::objective:::need:::raise
+Article247_3915.txt_3153_591::: Richard Gephardt needs him to raise money for the Democrats' campaign to retake the House
+Article247_3915.txt_3153_591:::X:::POSITIVE:::needs:::need:::recipient:::him_3
+Article247_3915.txt_3153_591:::X:::POSITIVE:::raise:::raise:::agent:::him_3
+null
+
+Article247_3994.txt_3153:::9:::614
+Article247_3994.txt_3153_614:::X:::objective:::expect:::double
+Article247_3994.txt_3153_614::: As a result, this year the Justice Department expects to double or treble its estimate of Colombian coca production
+Article247_3994.txt_3153_614:::X:::POSITIVE:::expects:::expect:::agent:::justice_department_8
+Article247_3994.txt_3153_614:::X:::POSITIVE:::double:::double:::agent:::justice_department_8
+null
+
+Article247_3994.txt_3153:::9:::614
+Article247_3994.txt_3153_614:::X:::objective:::expect:::treble
+Article247_3994.txt_3153_614::: As a result, this year the Justice Department expects to double or treble its estimate of Colombian coca production
+Article247_3994.txt_3153_614:::X:::POSITIVE:::expects:::expect:::agent:::justice_department_8
+Article247_3994.txt_3153_614:::X:::POSITIVE:::treble:::treble:::agent:::justice_department_8
+null
+
+Article247_3994.txt_3153:::15:::644
+Article247_3994.txt_3153_644:::X:::objective:::have:::reform
+Article247_3994.txt_3153_644::: WTO or no WTO, China will have to reform its economy
+Article247_3994.txt_3153_644:::X:::POSITIVE:::have:::have:::agent:::wto_1
+Article247_3994.txt_3153_644:::X:::POSITIVE:::reform:::reform:::agent:::wto_1
+null
+
+Article247_3994.txt_3153:::15:::644
+Article247_3994.txt_3153_644:::X:::objective:::have:::reform
+Article247_3994.txt_3153_644::: WTO or no WTO, China will have to reform its economy
+Article247_3994.txt_3153_644:::X:::POSITIVE:::have:::have:::agent:::china_6
+Article247_3994.txt_3153_644:::X:::POSITIVE:::reform:::reform:::agent:::china_6
+null
+
+Article247_3994.txt_3153:::16:::647
+Article247_3994.txt_3153_647:::X:::next_event:::thin:::eat
+Article247_3994.txt_3153_647::: Unlike most plastics, methyl cellulose thickens, rather than thins, upon heating, and is safe to eat
+Article247_3994.txt_3153_647:::X:::POSITIVE:::thins:::thin:::agent:::cellulose_6
+Article247_3994.txt_3153_647:::X:::POSITIVE:::eat:::eat:::agent:::cellulose_6
+null
+
+Article247_3994.txt_3153:::16:::647
+Article247_3994.txt_3153_647:::X:::next_event:::thicken:::eat
+Article247_3994.txt_3153_647::: Unlike most plastics, methyl cellulose thickens, rather than thins, upon heating, and is safe to eat
+Article247_3994.txt_3153_647:::X:::POSITIVE:::thickens:::thicken:::agent:::cellulose_6
+Article247_3994.txt_3153_647:::X:::POSITIVE:::eat:::eat:::agent:::cellulose_6
+null
+
+Article247_3994.txt_3153:::16:::653
+Article247_3994.txt_3153_653:::X:::objective:::proceed:::wolf
+Article247_3994.txt_3153_653::: After he was done, he proceeded to wolf down the transparent, ink-stained sheet
+Article247_3994.txt_3153_653:::X:::POSITIVE:::proceeded:::proceed:::agent:::he_6
+Article247_3994.txt_3153_653:::X:::POSITIVE:::wolf:::wolf:::agent:::he_6
+null
+
+Article247_4042.txt_3153:::7:::657
+Article247_4042.txt_3153_657:::X:::objective:::want:::slug
+Article247_4042.txt_3153_657::: Now!" Millea quotes Winslet's driver as saying, afterwards, "I wanted to slug him
+Article247_4042.txt_3153_657:::X:::POSITIVE:::wanted:::want:::agent:::i_12
+Article247_4042.txt_3153_657:::X:::POSITIVE:::slug:::slug:::agent:::i_12
+null
+
+Article247_4042.txt_3153:::9:::671
+Article247_4042.txt_3153_671:::X:::objective:::want:::comment
+Article247_4042.txt_3153_671::: I just don't want to comment on that
+Article247_4042.txt_3153_671:::X:::NEGETIVE:::want:::want:::agent:::i_1
+Article247_4042.txt_3153_671:::X:::POSITIVE:::comment:::comment:::agent:::i_1
+null
+
+Article247_3893.txt_3153:::10:::695
+Article247_3893.txt_3153_695:::X:::objective:::seem:::care
+Article247_3893.txt_3153_695::: Nobody seems to even care about profits anymore
+Article247_3893.txt_3153_695:::X:::POSITIVE:::seems:::seem:::agent:::nobody_1
+Article247_3893.txt_3153_695:::X:::POSITIVE:::care:::care:::agent:::nobody_1
+null
+
+Article247_3893.txt_3153:::10:::697
+Article247_3893.txt_3153_697:::X:::objective:::have:::come
+Article247_3893.txt_3153_697::: You just have to come to the book predisposed to look for them
+Article247_3893.txt_3153_697:::X:::POSITIVE:::have:::have:::agent:::you_1
+Article247_3893.txt_3153_697:::X:::POSITIVE:::come:::come:::agent:::you_1
+null
+
+Article247_4023.txt_3153:::10:::745
+Article247_4023.txt_3153_745:::X:::objective:::forget:::add
+Article247_4023.txt_3153_745::: But she apparently forgot to add, "And get some better-looking parents
+Article247_4023.txt_3153_745:::X:::POSITIVE:::forgot:::forget:::agent:::she_2
+Article247_4023.txt_3153_745:::X:::POSITIVE:::add:::add:::agent:::she_2
+null
+
+Article247_4023.txt_3153:::10:::745
+Article247_4023.txt_3153_745:::X:::next_event:::forget:::get
+Article247_4023.txt_3153_745::: But she apparently forgot to add, "And get some better-looking parents
+Article247_4023.txt_3153_745:::X:::POSITIVE:::forgot:::forget:::agent:::she_2
+Article247_4023.txt_3153_745:::X:::POSITIVE:::get:::get:::agent:::she_2
+null
+
+Article247_4023.txt_3153:::10:::745
+Article247_4023.txt_3153_745:::X:::next_event:::add:::get
+Article247_4023.txt_3153_745::: But she apparently forgot to add, "And get some better-looking parents
+Article247_4023.txt_3153_745:::X:::POSITIVE:::add:::add:::agent:::she_2
+Article247_4023.txt_3153_745:::X:::POSITIVE:::get:::get:::agent:::she_2
+null
+
+Article247_4023.txt_3153:::14:::787
+Article247_4023.txt_3153_787:::X:::objective:::need:::go
+Article247_4023.txt_3153_787::: Now I need to go check my blood pressure
+Article247_4023.txt_3153_787:::X:::POSITIVE:::need:::need:::agent:::i_2
+Article247_4023.txt_3153_787:::X:::POSITIVE:::go:::go:::agent:::i_2
+null
+
+Article247_3967.txt_3153:::10:::799
+Article247_3967.txt_3153_799:::X:::next_event:::read:::think
+Article247_3967.txt_3153_799::: I was excited when I read Vietnam: The Necessary War , and I think it's an enormously important book
+Article247_3967.txt_3153_799:::X:::POSITIVE:::read:::read:::agent:::i_5
+Article247_3967.txt_3153_799:::X:::POSITIVE:::think:::think:::agent:::i_13
+null
+
+Article247_3973.txt_3153:::7:::940
+Article247_3973.txt_3153_940:::X:::objective:::prompt:::puzzle
+Article247_3973.txt_3153_940::: It also prompted Chatterbox to puzzle over the apparent financial insanity of a deal in which the L
+Article247_3973.txt_3153_940:::X:::POSITIVE:::prompted:::prompt:::recipient:::chatterbox_4
+Article247_3973.txt_3153_940:::X:::POSITIVE:::puzzle:::puzzle:::agent:::chatterbox_4
+null
+
+Article247_4028.txt_3153:::11:::1014
+Article247_4028.txt_3153_1014:::X:::previous_event:::have:::have
+Article247_4028.txt_3153_1014::: Then, once they've fixed it all up and made it cute and appealing again, we can have it back to defile and degrade
+Article247_4028.txt_3153_1014:::X:::POSITIVE:::have:::have:::previous_event:::have_5
+Article247_4028.txt_3153_1014:::X:::POSITIVE:::have:::have:::previous_event:::have_5
+null
+
+Article247_4028.txt_3153:::11:::1014
+Article247_4028.txt_3153_1014:::X:::previous_event:::have:::have
+Article247_4028.txt_3153_1014::: Then, once they've fixed it all up and made it cute and appealing again, we can have it back to defile and degrade
+Article247_4028.txt_3153_1014:::X:::POSITIVE:::have:::have:::previous_event:::have_5
+Article247_4028.txt_3153_1014:::X:::POSITIVE:::have:::have:::previous_event:::have_5
+null
+
+Article247_4028.txt_3153:::11:::1014
+Article247_4028.txt_3153_1014:::X:::previous_event:::defile:::have
+Article247_4028.txt_3153_1014::: Then, once they've fixed it all up and made it cute and appealing again, we can have it back to defile and degrade
+Article247_4028.txt_3153_1014:::X:::POSITIVE:::defile:::defile:::previous_event:::have_5
+Article247_4028.txt_3153_1014:::X:::POSITIVE:::have:::have:::previous_event:::have_5
+null
+
+Article247_4028.txt_3153:::11:::1014
+Article247_4028.txt_3153_1014:::X:::previous_event:::degrade:::have
+Article247_4028.txt_3153_1014::: Then, once they've fixed it all up and made it cute and appealing again, we can have it back to defile and degrade
+Article247_4028.txt_3153_1014:::X:::POSITIVE:::degrade:::degrade:::previous_event:::have_5
+Article247_4028.txt_3153_1014:::X:::POSITIVE:::have:::have:::previous_event:::have_5
+null
+
+Article247_4028.txt_3153:::11:::1014
+Article247_4028.txt_3153_1014:::X:::objective:::have:::degrade
+Article247_4028.txt_3153_1014::: Then, once they've fixed it all up and made it cute and appealing again, we can have it back to defile and degrade
+Article247_4028.txt_3153_1014:::X:::POSITIVE:::have:::have:::previous_event:::have_5
+Article247_4028.txt_3153_1014:::X:::POSITIVE:::degrade:::degrade:::previous_event:::have_5
+null
+
+Article247_4028.txt_3153:::11:::1014
+Article247_4028.txt_3153_1014:::X:::objective:::have:::defile
+Article247_4028.txt_3153_1014::: Then, once they've fixed it all up and made it cute and appealing again, we can have it back to defile and degrade
+Article247_4028.txt_3153_1014:::X:::POSITIVE:::have:::have:::previous_event:::have_5
+Article247_4028.txt_3153_1014:::X:::POSITIVE:::defile:::defile:::previous_event:::have_5
+null
+
+Article247_4028.txt_3153:::12:::1018
+Article247_4028.txt_3153_1018:::X:::caused_by:::say:::upset
+Article247_4028.txt_3153_1018:::" But I didn't say anything because I didn't want to upset you
+Article247_4028.txt_3153_1018:::X:::NEGETIVE:::say:::say:::agent:::i_2
+Article247_4028.txt_3153_1018:::X:::POSITIVE:::upset:::upset:::agent:::i_8
+null
+
+Article247_4028.txt_3153:::12:::1018
+Article247_4028.txt_3153_1018:::X:::objective:::want:::upset
+Article247_4028.txt_3153_1018:::" But I didn't say anything because I didn't want to upset you
+Article247_4028.txt_3153_1018:::X:::NEGETIVE:::want:::want:::agent:::i_8
+Article247_4028.txt_3153_1018:::X:::POSITIVE:::upset:::upset:::agent:::i_8
+null
+
+Article247_4028.txt_3153:::12:::1018
+Article247_4028.txt_3153_1018:::X:::caused_by:::say:::want
+Article247_4028.txt_3153_1018:::" But I didn't say anything because I didn't want to upset you
+Article247_4028.txt_3153_1018:::X:::NEGETIVE:::say:::say:::supporting_verb:::did_3
+Article247_4028.txt_3153_1018:::X:::NEGETIVE:::want:::want:::supporting_verb:::did_9
+null
+
+Article247_4028.txt_3153:::12:::1018
+Article247_4028.txt_3153_1018:::X:::caused_by:::say:::want
+Article247_4028.txt_3153_1018:::" But I didn't say anything because I didn't want to upset you
+Article247_4028.txt_3153_1018:::X:::NEGETIVE:::say:::say:::agent:::i_2
+Article247_4028.txt_3153_1018:::X:::NEGETIVE:::want:::want:::agent:::i_8
+null
+
+Article247_4028.txt_3153:::12:::1018
+Article247_4028.txt_3153_1018:::X:::caused_by:::say:::want
+Article247_4028.txt_3153_1018:::" But I didn't say anything because I didn't want to upset you
+Article247_4028.txt_3153_1018:::X:::NEGETIVE:::say:::say:::negative:::not_4
+Article247_4028.txt_3153_1018:::X:::NEGETIVE:::want:::want:::negative:::not_10
+null
+
+Article247_4028.txt_3153:::13:::1028
+Article247_4028.txt_3153_1028:::X:::next_event:::sit:::read
+Article247_4028.txt_3153_1028::: OK, I'm going to sit down and read the real part of the paper now
+Article247_4028.txt_3153_1028:::X:::POSITIVE:::sit:::sit:::agent:::i_3
+Article247_4028.txt_3153_1028:::X:::POSITIVE:::read:::read:::agent:::i_3
+null
+
+Article247_3924.txt_3153:::13:::1082
+Article247_3924.txt_3153_1082:::X:::objective:::want:::use
+Article247_3924.txt_3153_1082::: But the fact that tens of millions of people wanted to use the Britannica Web site makes up for a lot of mistakes
+Article247_3924.txt_3153_1082:::X:::POSITIVE:::wanted:::want:::agent:::millions_7
+Article247_3924.txt_3153_1082:::X:::POSITIVE:::use:::use:::agent:::millions_7
+null
+
+Article247_3945.txt_3153:::14:::1100
+Article247_3945.txt_3153_1100:::X:::objective:::continue:::do
+Article247_3945.txt_3153_1100::: Others have written about the Staples controversy and will continue to do so
+Article247_3945.txt_3153_1100:::X:::POSITIVE:::continue:::continue:::agent:::others_1
+Article247_3945.txt_3153_1100:::X:::POSITIVE:::do:::do:::agent:::others_1
+null
+
+Article247_3945.txt_3153:::18:::1128
+Article247_3945.txt_3153_1128:::X:::next_event:::own:::own
+Article247_3945.txt_3153_1128::: and its own "luxury suite" (i
+Article247_3945.txt_3153_1128:::X:::POSITIVE:::own:::own:::recipient:::luxury_4
+Article247_3945.txt_3153_1128:::X:::POSITIVE:::own:::own:::recipient:::luxury_4
+null
+
+Article247_3945.txt_3153:::18:::1128
+Article247_3945.txt_3153_1128:::X:::next_event:::own:::own
+Article247_3945.txt_3153_1128::: and its own "luxury suite" (i
+Article247_3945.txt_3153_1128:::X:::POSITIVE:::own:::own:::agent:::its_2
+Article247_3945.txt_3153_1128:::X:::POSITIVE:::own:::own:::agent:::its_2
+null
+
+Article247_3945.txt_3153:::19:::1145
+Article247_3945.txt_3153_1145:::X:::objective:::expect:::understand
+Article247_3945.txt_3153_1145::: Chatterbox doesn't expect Captain Crunch and his minions to understand journalism
+Article247_3945.txt_3153_1145:::X:::NEGETIVE:::expect:::expect:::recipient:::crunch_6
+Article247_3945.txt_3153_1145:::X:::POSITIVE:::understand:::understand:::agent:::crunch_6
+null
+
+Article247_3945.txt_3153:::19:::1145
+Article247_3945.txt_3153_1145:::X:::objective:::expect:::understand
+Article247_3945.txt_3153_1145::: Chatterbox doesn't expect Captain Crunch and his minions to understand journalism
+Article247_3945.txt_3153_1145:::X:::NEGETIVE:::expect:::expect:::recipient:::minions_9
+Article247_3945.txt_3153_1145:::X:::POSITIVE:::understand:::understand:::agent:::minions_9
+null
+
+Article247_3945.txt_3153:::19:::1146
+Article247_3945.txt_3153_1146:::X:::objective:::understand:::make
+Article247_3945.txt_3153_1146::: but don't they understand how to make a buck? 
+Article247_3945.txt_3153_1146:::X:::POSITIVE:::understand:::understand:::agent:::they_4
+Article247_3945.txt_3153_1146:::X:::POSITIVE:::make:::make:::agent:::they_4
+null
+
+Article247_3988.txt_3153:::7:::1207
+Article247_3988.txt_3153_1207:::X:::objective:::volunteer:::take
+Article247_3988.txt_3153_1207::: dues, and she has volunteered to take the flack from pro-choice groups
+Article247_3988.txt_3153_1207:::X:::POSITIVE:::volunteered:::volunteer:::agent:::she_4
+Article247_3988.txt_3153_1207:::X:::POSITIVE:::take:::take:::agent:::she_4
+null
+
+Article247_3988.txt_3153:::8:::1220
+Article247_3988.txt_3153_1220:::X:::objective:::want:::give
+Article247_3988.txt_3153_1220::: The NYT says that Albright wants to give in to GOP demands that U
+Article247_3988.txt_3153_1220:::X:::POSITIVE:::wants:::want:::agent:::albright_5
+Article247_3988.txt_3153_1220:::X:::POSITIVE:::give:::give:::agent:::albright_5
+null
+
+Article247_4073.txt_3153:::9:::1318
+Article247_4073.txt_3153_1318:::X:::objective:::need:::see
+Article247_4073.txt_3153_1318::: I don't need to see another
+Article247_4073.txt_3153_1318:::X:::NEGETIVE:::need:::need:::agent:::i_1
+Article247_4073.txt_3153_1318:::X:::POSITIVE:::see:::see:::agent:::i_1
+null
+
+Article247_4073.txt_3153:::9:::1320
+Article247_4073.txt_3153_1320:::X:::objective:::care:::contemplate
+Article247_4073.txt_3153_1320::: Donald Trump dating--and other unmentionable gerunds--is more than I care to contemplate
+Article247_4073.txt_3153_1320:::X:::POSITIVE:::care:::care:::agent:::i_8
+Article247_4073.txt_3153_1320:::X:::POSITIVE:::contemplate:::contemplate:::agent:::i_8
+null
+
+Article247_4073.txt_3153:::10:::1328
+Article247_4073.txt_3153_1328:::X:::next_event:::say:::seem
+Article247_4073.txt_3153_1328::: His tin ear on the Hitler stuff--his inability to recognize that it wasn't what he said but what he seemed to say--was baffling
+Article247_4073.txt_3153_1328:::X:::POSITIVE:::said:::say:::agent:::he_16
+Article247_4073.txt_3153_1328:::X:::POSITIVE:::seemed:::seem:::agent:::he_20
+null
+
+Article247_4073.txt_3153:::10:::1328
+Article247_4073.txt_3153_1328:::X:::next_event:::say:::seem
+Article247_4073.txt_3153_1328::: His tin ear on the Hitler stuff--his inability to recognize that it wasn't what he said but what he seemed to say--was baffling
+Article247_4073.txt_3153_1328:::X:::POSITIVE:::said:::say:::recipient:::what_15
+Article247_4073.txt_3153_1328:::X:::POSITIVE:::seemed:::seem:::recipient:::what_19
+null
+
+Article247_4073.txt_3153:::10:::1332
+Article247_4073.txt_3153_1332:::X:::next_event:::hispanics:::call
+Article247_4073.txt_3153_1332::: hugs Hispanics and calls it compassionate conservatism, we all think: OK, this is who he is
+Article247_4073.txt_3153_1332:::X:::POSITIVE:::hispanics:::hispanics:::agent:::hugs_1
+Article247_4073.txt_3153_1332:::X:::POSITIVE:::calls:::call:::agent:::hugs_1
+null
+
+Article247_3966.txt_3153:::12:::1376
+Article247_3966.txt_3153_1376:::X:::next_event:::know:::respect
+Article247_3966.txt_3153_1376::: I know and respect Michael Lind
+Article247_3966.txt_3153_1376:::X:::POSITIVE:::know:::know:::agent:::i_1
+Article247_3966.txt_3153_1376:::X:::POSITIVE:::respect:::respect:::agent:::i_1
+null
+
+Article247_3987.txt_3153:::8:::1445
+Article247_3987.txt_3153_1445:::X:::next_event:::prattle:::prattle
+Article247_3987.txt_3153_1445::: but I prattle on
+Article247_3987.txt_3153_1445:::X:::POSITIVE:::prattle:::prattle:::agent:::i_2
+Article247_3987.txt_3153_1445:::X:::POSITIVE:::prattle:::prattle:::agent:::i_2
+null
+
+Article247_3987.txt_3153:::8:::1445
+Article247_3987.txt_3153_1445:::X:::next_event:::prattle:::prattle
+Article247_3987.txt_3153_1445::: but I prattle on
+Article247_3987.txt_3153_1445:::X:::POSITIVE:::prattle:::prattle:::verb_complement:::on_4
+Article247_3987.txt_3153_1445:::X:::POSITIVE:::prattle:::prattle:::verb_complement:::on_4
+null
+
+Article247_3971.txt_3153:::9:::1499
+Article247_3971.txt_3153_1499:::X:::causes:::reject:::do
+Article247_3971.txt_3153_1499::: (Lind rejects this view, and so do I
+Article247_3971.txt_3153_1499:::X:::POSITIVE:::rejects:::reject:::agent:::lind_1
+Article247_3971.txt_3153_1499:::X:::POSITIVE:::do:::do:::agent:::lind_1
+null
+
+Article247_3971.txt_3153:::9:::1499
+Article247_3971.txt_3153_1499:::X:::next_event:::reject:::do
+Article247_3971.txt_3153_1499::: (Lind rejects this view, and so do I
+Article247_3971.txt_3153_1499:::X:::POSITIVE:::rejects:::reject:::agent:::lind_1
+Article247_3971.txt_3153_1499:::X:::POSITIVE:::do:::do:::agent:::lind_1
+null
+
+Article247_3971.txt_3153:::10:::1510
+Article247_3971.txt_3153_1510:::X:::objective:::have:::plead
+Article247_3971.txt_3153_1510::: I have to plead amnesia on what Nixon and Podhoretz said exactly
+Article247_3971.txt_3153_1510:::X:::POSITIVE:::have:::have:::agent:::i_1
+Article247_3971.txt_3153_1510:::X:::POSITIVE:::plead:::plead:::agent:::i_1
+null
+
+Article247_3971.txt_3153:::12:::1539
+Article247_3971.txt_3153_1539:::X:::objective:::use:::write
+Article247_3971.txt_3153_1539::: William Kauffman, who used to write the Pentagon's annual posture statement
+Article247_3971.txt_3153_1539:::X:::POSITIVE:::used:::use:::agent:::who_3
+Article247_3971.txt_3153_1539:::X:::POSITIVE:::write:::write:::agent:::who_3
+null
+
+Article247_3971.txt_3153:::14:::1549
+Article247_3971.txt_3153_1549:::X:::next_event:::mention:::pursue
+Article247_3971.txt_3153_1549::: Lind mentions the Korea model, but doesn't really pursue this point
+Article247_3971.txt_3153_1549:::X:::POSITIVE:::mentions:::mention:::agent:::lind_1
+Article247_3971.txt_3153_1549:::X:::NEGETIVE:::pursue:::pursue:::agent:::lind_1
+null
+
+Article247_4064.txt_3153:::24:::1597
+Article247_4064.txt_3153_1597:::X:::next_event:::do:::think
+Article247_4064.txt_3153_1597::: I do shake hands, [but] I think it's a terrible custom
+Article247_4064.txt_3153_1597:::X:::POSITIVE:::do:::do:::agent:::i_1
+Article247_4064.txt_3153_1597:::X:::POSITIVE:::think:::think:::agent:::i_7
+null
+
+Article247_3883.txt_3153:::8:::1627
+Article247_3883.txt_3153_1627:::X:::objective:::take:::write
+Article247_3883.txt_3153_1627::: It takes a lot of work to write about Jordan
+Article247_3883.txt_3153_1627:::X:::POSITIVE:::takes:::take:::recipient:::lot_4
+Article247_3883.txt_3153_1627:::X:::POSITIVE:::write:::write:::agent:::lot_4
+null
+
+Article247_3883.txt_3153:::10:::1639
+Article247_3883.txt_3153_1639:::X:::objective:::spring:::mind
+Article247_3883.txt_3153_1639::: The venture capitalist John Doerr springs instantly to mind
+Article247_3883.txt_3153_1639:::X:::POSITIVE:::springs:::spring:::agent:::john_doerr_4
+Article247_3883.txt_3153_1639:::X:::POSITIVE:::mind:::mind:::agent:::john_doerr_4
+null
+
+Article247_3883.txt_3153:::11:::1646
+Article247_3883.txt_3153_1646:::X:::causes:::point:::point
+Article247_3883.txt_3153_1646::: As you correctly pointed out, once Clark loses interest, so does Lewis
+Article247_3883.txt_3153_1646:::X:::POSITIVE:::pointed:::point:::previous_event:::loses_9
+Article247_3883.txt_3153_1646:::X:::POSITIVE:::pointed:::point:::previous_event:::loses_9
+null
+
+Article247_3883.txt_3153:::11:::1646
+Article247_3883.txt_3153_1646:::X:::causes:::point:::point
+Article247_3883.txt_3153_1646::: As you correctly pointed out, once Clark loses interest, so does Lewis
+Article247_3883.txt_3153_1646:::X:::POSITIVE:::pointed:::point:::verb_complement:::out_5
+Article247_3883.txt_3153_1646:::X:::POSITIVE:::pointed:::point:::verb_complement:::out_5
+null
+
+Article247_3883.txt_3153:::11:::1646
+Article247_3883.txt_3153_1646:::X:::causes:::point:::point
+Article247_3883.txt_3153_1646::: As you correctly pointed out, once Clark loses interest, so does Lewis
+Article247_3883.txt_3153_1646:::X:::POSITIVE:::pointed:::point:::agent:::you_2
+Article247_3883.txt_3153_1646:::X:::POSITIVE:::pointed:::point:::agent:::you_2
+null
+
+Article247_3883.txt_3153:::11:::1646
+Article247_3883.txt_3153_1646:::X:::causes:::point:::point
+Article247_3883.txt_3153_1646::: As you correctly pointed out, once Clark loses interest, so does Lewis
+Article247_3883.txt_3153_1646:::X:::POSITIVE:::pointed:::point:::modifier:::correctly_3
+Article247_3883.txt_3153_1646:::X:::POSITIVE:::pointed:::point:::modifier:::correctly_3
+null
+
+Article247_3883.txt_3153:::12:::1659
+Article247_3883.txt_3153_1659:::X:::objective:::go:::write
+Article247_3883.txt_3153_1659::: But then Lewis goes on to write, "His role in the Valley was suddenly clear: he was the author of the story
+Article247_3883.txt_3153_1659:::X:::POSITIVE:::goes:::go:::agent:::lewis_3
+Article247_3883.txt_3153_1659:::X:::POSITIVE:::write:::write:::agent:::lewis_3
+null
+
+Article247_3883.txt_3153:::13:::1672
+Article247_3883.txt_3153_1672:::X:::objective:::like:::have
+Article247_3883.txt_3153_1672::: But a few minutes later he adds, "You know, just for one moment, I would kind of like to have the most
+Article247_3883.txt_3153_1672:::X:::POSITIVE:::like:::like:::agent:::i_17
+Article247_3883.txt_3153_1672:::X:::POSITIVE:::have:::have:::agent:::i_17
+null
+
+Article247_3883.txt_3153:::15:::1680
+Article247_3883.txt_3153_1680:::X:::next_event:::realize:::promise
+Article247_3883.txt_3153_1680:::: I realize that we haven't yet talked about MyCFO, and I promise to get to that tommorrow
+Article247_3883.txt_3153_1680:::X:::POSITIVE:::realize:::realize:::agent:::i_1
+Article247_3883.txt_3153_1680:::X:::POSITIVE:::promise:::promise:::agent:::i_13
+null
+
+Article247_3883.txt_3153:::15:::1680
+Article247_3883.txt_3153_1680:::X:::next_event:::realize:::get
+Article247_3883.txt_3153_1680:::: I realize that we haven't yet talked about MyCFO, and I promise to get to that tommorrow
+Article247_3883.txt_3153_1680:::X:::POSITIVE:::realize:::realize:::agent:::i_1
+Article247_3883.txt_3153_1680:::X:::POSITIVE:::get:::get:::agent:::i_13
+null
+
+Article247_3883.txt_3153:::15:::1680
+Article247_3883.txt_3153_1680:::X:::objective:::promise:::get
+Article247_3883.txt_3153_1680:::: I realize that we haven't yet talked about MyCFO, and I promise to get to that tommorrow
+Article247_3883.txt_3153_1680:::X:::POSITIVE:::promise:::promise:::agent:::i_13
+Article247_3883.txt_3153_1680:::X:::POSITIVE:::get:::get:::agent:::i_13
+null
+
+Article247_3938.txt_3153:::244:::1752
+Article247_3938.txt_3153_1752:::X:::next_event:::swamp:::assimilate
+Article247_3938.txt_3153_1752::: It means there is a much greater chance that the latter two groups will eventually swamp and assimilate the former
+Article247_3938.txt_3153_1752:::X:::POSITIVE:::swamp:::swamp:::agent:::groups_13
+Article247_3938.txt_3153_1752:::X:::POSITIVE:::assimilate:::assimilate:::agent:::groups_13
+null
+
+Article247_3938.txt_3153:::246:::1758
+Article247_3938.txt_3153_1758:::X:::objective:::mean:::families
+Article247_3938.txt_3153_1758::: [* Methodological fine print: "Welfare" means Aid to Families with Dependent Children (AFDC) or its successor program, Temporary Assistance for Needy Families (TANF)
+Article247_3938.txt_3153_1758:::X:::POSITIVE:::means:::mean:::recipient:::aid_6
+Article247_3938.txt_3153_1758:::X:::POSITIVE:::families:::families:::agent:::aid_6
+null
+
+Article247_3998.txt_3153:::13:::1864
+Article247_3998.txt_3153_1864:::X:::next_event:::defend:::note
+Article247_3998.txt_3153_1864::: He defends affirmative action, but notes that it "is not the most important issue for black progress in America
+Article247_3998.txt_3153_1864:::X:::POSITIVE:::defends:::defend:::agent:::he_1
+Article247_3998.txt_3153_1864:::X:::POSITIVE:::notes:::note:::agent:::he_1
+null
+
+Article247_4047.txt_3153:::14:::1951
+Article247_4047.txt_3153_1951:::X:::next_event:::seem:::end
+Article247_4047.txt_3153_1951::: (This is partly why the Merrill ads, which seem to want to be clever, end up seeming weirdly self-defeating
+Article247_4047.txt_3153_1951:::X:::POSITIVE:::seem:::seem:::agent:::ads_7
+Article247_4047.txt_3153_1951:::X:::POSITIVE:::end:::end:::agent:::ads_7
+null
+
+Article247_4047.txt_3153:::14:::1951
+Article247_4047.txt_3153_1951:::X:::next_event:::want:::end
+Article247_4047.txt_3153_1951::: (This is partly why the Merrill ads, which seem to want to be clever, end up seeming weirdly self-defeating
+Article247_4047.txt_3153_1951:::X:::POSITIVE:::want:::want:::agent:::ads_7
+Article247_4047.txt_3153_1951:::X:::POSITIVE:::end:::end:::agent:::ads_7
+null
+
+Article247_4047.txt_3153:::14:::1951
+Article247_4047.txt_3153_1951:::X:::objective:::seem:::want
+Article247_4047.txt_3153_1951::: (This is partly why the Merrill ads, which seem to want to be clever, end up seeming weirdly self-defeating
+Article247_4047.txt_3153_1951:::X:::POSITIVE:::seem:::seem:::agent:::ads_7
+Article247_4047.txt_3153_1951:::X:::POSITIVE:::want:::want:::agent:::ads_7
+null
+
+Article247_4035.txt_3153:::10:::1978
+Article247_4035.txt_3153_1978:::X:::next_event:::continue:::conclude
+Article247_4035.txt_3153_1978::: Although it continued to stress the likelihood of a hard-line revolt against perestroika, it did conclude that Mikhail Gorbachev's reformist inclinations were sincere
+Article247_4035.txt_3153_1978:::X:::POSITIVE:::continued:::continue:::agent:::it_2
+Article247_4035.txt_3153_1978:::X:::POSITIVE:::conclude:::conclude:::agent:::it_15
+null
+
+Article247_4035.txt_3153:::10:::1978
+Article247_4035.txt_3153_1978:::X:::next_event:::stress:::conclude
+Article247_4035.txt_3153_1978::: Although it continued to stress the likelihood of a hard-line revolt against perestroika, it did conclude that Mikhail Gorbachev's reformist inclinations were sincere
+Article247_4035.txt_3153_1978:::X:::POSITIVE:::stress:::stress:::agent:::it_2
+Article247_4035.txt_3153_1978:::X:::POSITIVE:::conclude:::conclude:::agent:::it_15
+null
+
+Article247_4035.txt_3153:::10:::1978
+Article247_4035.txt_3153_1978:::X:::objective:::continue:::stress
+Article247_4035.txt_3153_1978::: Although it continued to stress the likelihood of a hard-line revolt against perestroika, it did conclude that Mikhail Gorbachev's reformist inclinations were sincere
+Article247_4035.txt_3153_1978:::X:::POSITIVE:::continued:::continue:::agent:::it_2
+Article247_4035.txt_3153_1978:::X:::POSITIVE:::stress:::stress:::agent:::it_2
+null
+
+Article247_3941.txt_3153:::9:::1995
+Article247_3941.txt_3153_1995:::X:::next_event:::feel:::gewgawedup
+Article247_3941.txt_3153_1995::: To some, her work will feel too busy and gewgawed-up
+Article247_3941.txt_3153_1995:::X:::POSITIVE:::feel:::feel:::agent:::work_5
+Article247_3941.txt_3153_1995:::X:::POSITIVE:::gewgawedup:::gewgawedup:::agent:::work_5
+null
+
+Article247_3941.txt_3153:::9:::1997
+Article247_3941.txt_3153_1997:::X:::objective:::bother:::rush
+Article247_3941.txt_3153_1997:::" I didn't even bother to rush to the defense
+Article247_3941.txt_3153_1997:::X:::NEGETIVE:::bother:::bother:::agent:::i_1
+Article247_3941.txt_3153_1997:::X:::POSITIVE:::rush:::rush:::agent:::i_1
+null
+
+Article247_3941.txt_3153:::10:::2001
+Article247_3941.txt_3153_2001:::X:::objective:::want:::share
+Article247_3941.txt_3153_2001::: Part of me, I admit, doesn't want to share her
+Article247_3941.txt_3153_2001:::X:::NEGETIVE:::want:::want:::agent:::part_1
+Article247_3941.txt_3153_2001:::X:::POSITIVE:::share:::share:::agent:::part_1
+null
+
+Article247_3941.txt_3153:::15:::2035
+Article247_3941.txt_3153_2035:::X:::objective:::ask:::fax
+Article247_3941.txt_3153_2035::: I would ask you to fax me through a sample of Dawn's handwriting, so I could do some amateur graphology
+Article247_3941.txt_3153_2035:::X:::POSITIVE:::ask:::ask:::recipient:::you_4
+Article247_3941.txt_3153_2035:::X:::POSITIVE:::fax:::fax:::agent:::you_4
+null
+
+Article247_3964.txt_3153:::9:::2046
+Article247_3964.txt_3153_2046:::X:::objective:::fail:::make
+Article247_3964.txt_3153_2046::: (The interview appears to be excerpted from a longer interview for another ABC program, though Sam Donaldson fails to make this clear
+Article247_3964.txt_3153_2046:::X:::POSITIVE:::fails:::fail:::agent:::sam_donaldson_17
+Article247_3964.txt_3153_2046:::X:::POSITIVE:::make:::make:::agent:::sam_donaldson_17
+null
+
+Article247_3964.txt_3153:::9:::2049
+Article247_3964.txt_3153_2049:::X:::next_event:::admit:::remind
+Article247_3964.txt_3153_2049::: Buchanan admits that Bush was entrapped, but reminds viewers that W
+Article247_3964.txt_3153_2049:::X:::POSITIVE:::admits:::admit:::agent:::buchanan_1
+Article247_3964.txt_3153_2049:::X:::POSITIVE:::reminds:::remind:::agent:::buchanan_1
+null
+
+Article247_3964.txt_3153:::16:::2080
+Article247_3964.txt_3153_2080:::X:::next_event:::matter:::matter
+Article247_3964.txt_3153_2080:::, it doesn't really matter, but it reinforces the perception that it matters, and therefore it matters)
+Article247_3964.txt_3153_2080:::X:::POSITIVE:::matters:::matter:::agent:::it_14
+Article247_3964.txt_3153_2080:::X:::POSITIVE:::matters:::matter:::agent:::it_19
+null
+
+Article247_3964.txt_3153:::16:::2080
+Article247_3964.txt_3153_2080:::X:::next_event:::reinforce:::matter
+Article247_3964.txt_3153_2080:::, it doesn't really matter, but it reinforces the perception that it matters, and therefore it matters)
+Article247_3964.txt_3153_2080:::X:::POSITIVE:::reinforces:::reinforce:::agent:::it_9
+Article247_3964.txt_3153_2080:::X:::POSITIVE:::matters:::matter:::agent:::it_19
+null
+
+Article247_3964.txt_3153:::16:::2080
+Article247_3964.txt_3153_2080:::X:::next_event:::matter:::reinforce
+Article247_3964.txt_3153_2080:::, it doesn't really matter, but it reinforces the perception that it matters, and therefore it matters)
+Article247_3964.txt_3153_2080:::X:::NEGETIVE:::matter:::matter:::agent:::it_2
+Article247_3964.txt_3153_2080:::X:::POSITIVE:::reinforces:::reinforce:::agent:::it_9
+null
+
+Article247_3964.txt_3153:::16:::2080
+Article247_3964.txt_3153_2080:::X:::next_event:::matter:::matter
+Article247_3964.txt_3153_2080:::, it doesn't really matter, but it reinforces the perception that it matters, and therefore it matters)
+Article247_3964.txt_3153_2080:::X:::NEGETIVE:::matter:::matter:::agent:::it_2
+Article247_3964.txt_3153_2080:::X:::POSITIVE:::matters:::matter:::agent:::it_14
+null
+
+Article247_3964.txt_3153:::16:::2080
+Article247_3964.txt_3153_2080:::X:::next_event:::matter:::matter
+Article247_3964.txt_3153_2080:::, it doesn't really matter, but it reinforces the perception that it matters, and therefore it matters)
+Article247_3964.txt_3153_2080:::X:::NEGETIVE:::matter:::matter:::agent:::it_2
+Article247_3964.txt_3153_2080:::X:::POSITIVE:::matters:::matter:::agent:::it_19
+null
+
+Article247_3925.txt_3153:::10:::2112
+Article247_3925.txt_3153_2112:::X:::next_event:::leap:::see
+Article247_3925.txt_3153_2112::: Again, it's easy to leap to the wrong conclusions when you wander around Hong Kong and see how wired everyone is
+Article247_3925.txt_3153_2112:::X:::POSITIVE:::leap:::leap:::agent:::it_3
+Article247_3925.txt_3153_2112:::X:::POSITIVE:::see:::see:::agent:::it_3
+null
+
+Article247_3925.txt_3153:::12:::2123
+Article247_3925.txt_3153_2123:::X:::next_event:::have:::have
+Article247_3925.txt_3153_2123::: People want to leave their desks and their apartments, indeed, they have to if they want to see each other
+Article247_3925.txt_3153_2123:::X:::POSITIVE:::have:::have:::modifier:::indeed_11
+Article247_3925.txt_3153_2123:::X:::POSITIVE:::have:::have:::modifier:::indeed_11
+null
+
+Article247_3925.txt_3153:::12:::2123
+Article247_3925.txt_3153_2123:::X:::next_event:::have:::have
+Article247_3925.txt_3153_2123::: People want to leave their desks and their apartments, indeed, they have to if they want to see each other
+Article247_3925.txt_3153_2123:::X:::POSITIVE:::have:::have:::agent:::apartments_9
+Article247_3925.txt_3153_2123:::X:::POSITIVE:::have:::have:::agent:::apartments_9
+null
+
+Article247_3925.txt_3153:::12:::2123
+Article247_3925.txt_3153_2123:::X:::objective:::want:::see
+Article247_3925.txt_3153_2123::: People want to leave their desks and their apartments, indeed, they have to if they want to see each other
+Article247_3925.txt_3153_2123:::X:::POSITIVE:::want:::want:::agent:::they_17
+Article247_3925.txt_3153_2123:::X:::POSITIVE:::see:::see:::agent:::they_17
+null
+
+Article247_3925.txt_3153:::12:::2123
+Article247_3925.txt_3153_2123:::X:::objective:::want:::leave
+Article247_3925.txt_3153_2123::: People want to leave their desks and their apartments, indeed, they have to if they want to see each other
+Article247_3925.txt_3153_2123:::X:::POSITIVE:::want:::want:::agent:::people_1
+Article247_3925.txt_3153_2123:::X:::POSITIVE:::leave:::leave:::agent:::people_1
+null
+
+Article247_3878.txt_3153:::13:::2177
+Article247_3878.txt_3153_2177:::X:::objective:::allow:::gripe
+Article247_3878.txt_3153_2177::: And now please allow me to gripe for a few minutes
+Article247_3878.txt_3153_2177:::X:::POSITIVE:::allow:::allow:::recipient:::me_5
+Article247_3878.txt_3153_2177:::X:::POSITIVE:::gripe:::gripe:::agent:::me_5
+null
+
+Article247_3878.txt_3153:::14:::2190
+Article247_3878.txt_3153_2190:::X:::objective:::begin:::tell
+Article247_3878.txt_3153_2190::: what, exactly? I couldn't begin to tell you
+Article247_3878.txt_3153_2190:::X:::NEGETIVE:::begin:::begin:::agent:::what_1
+Article247_3878.txt_3153_2190:::X:::POSITIVE:::tell:::tell:::agent:::what_1
+null
+
+Article247_3908.txt_3153:::15:::2277
+Article247_3908.txt_3153_2277:::X:::objective:::need:::knowand
+Article247_3908.txt_3153_2277::: And--but you need to know--and when you go back home, people--I can imagine the American people must be totally bumfuzzled 
+Article247_3908.txt_3153_2277:::X:::POSITIVE:::need:::need:::agent:::you_2
+Article247_3908.txt_3153_2277:::X:::POSITIVE:::knowand:::knowand:::agent:::you_2
+null
+

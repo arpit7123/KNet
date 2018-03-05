@@ -1,0 +1,357 @@
+ArticleIP_31912.txt_3153:::12:::28
+ArticleIP_31912.txt_3153_28:::X:::objective:::have:::take
+ArticleIP_31912.txt_3153_28::: Brad and Jennifer will have to take a number
+ArticleIP_31912.txt_3153_28:::X:::POSITIVE:::have:::have:::agent:::jennifer_3
+ArticleIP_31912.txt_3153_28:::X:::POSITIVE:::take:::take:::agent:::jennifer_3
+null
+
+ArticleIP_31912.txt_3153:::12:::28
+ArticleIP_31912.txt_3153_28:::X:::objective:::have:::take
+ArticleIP_31912.txt_3153_28::: Brad and Jennifer will have to take a number
+ArticleIP_31912.txt_3153_28:::X:::POSITIVE:::have:::have:::agent:::brad_1
+ArticleIP_31912.txt_3153_28:::X:::POSITIVE:::take:::take:::agent:::brad_1
+null
+
+ArticleIP_31912.txt_3153:::17:::52
+ArticleIP_31912.txt_3153_52:::X:::objective:::expect:::see
+ArticleIP_31912.txt_3153_52::: One couple we definitely don't expect to see reconciling anytime soon is Cybill Shepherd and her former fiance Robert Martin
+ArticleIP_31912.txt_3153_52:::X:::NEGETIVE:::expect:::expect:::agent:::we_3
+ArticleIP_31912.txt_3153_52:::X:::POSITIVE:::see:::see:::agent:::we_3
+null
+
+ArticleIP_31912.txt_3153:::17:::55
+ArticleIP_31912.txt_3153_55:::X:::objective:::presume:::speak
+ArticleIP_31912.txt_3153_55::: Keeping Tabs would never presume to speak for Ms
+ArticleIP_31912.txt_3153_55:::X:::NEGETIVE:::presume:::presume:::agent:::tabs_2
+ArticleIP_31912.txt_3153_55:::X:::POSITIVE:::speak:::speak:::agent:::tabs_2
+null
+
+ArticleIP_31939.txt_3153:::14:::60
+ArticleIP_31939.txt_3153_60:::X:::objective:::determine:::lose
+ArticleIP_31939.txt_3153_60::: Mixed reviews but a boffo box-office turnout for this teen sex comedy about four high-school seniors determined to lose their virginity
+ArticleIP_31939.txt_3153_60:::X:::POSITIVE:::determined:::determine:::agent:::reviews_2
+ArticleIP_31939.txt_3153_60:::X:::POSITIVE:::lose:::lose:::agent:::reviews_2
+null
+
+ArticleIP_31939.txt_3153:::19:::74
+ArticleIP_31939.txt_3153_74:::X:::next_event:::stop:::start
+ArticleIP_31939.txt_3153_74::: The climax is so implausible we stop caring and start scratching our heads
+ArticleIP_31939.txt_3153_74:::X:::POSITIVE:::stop:::stop:::agent:::we_6
+ArticleIP_31939.txt_3153_74:::X:::POSITIVE:::start:::start:::agent:::we_6
+null
+
+ArticleIP_31939.txt_3153:::47:::132
+ArticleIP_31939.txt_3153_132:::X:::objective:::fail:::sustain
+ArticleIP_31939.txt_3153_132::: simply fails to sustain interest for the entire album
+ArticleIP_31939.txt_3153_132:::X:::POSITIVE:::fails:::fail:::agent:::interest_5
+ArticleIP_31939.txt_3153_132:::X:::POSITIVE:::sustain:::sustain:::agent:::interest_5
+null
+
+ArticleIP_31939.txt_3153:::47:::133
+ArticleIP_31939.txt_3153_133:::X:::next_event:::click:::find
+ArticleIP_31939.txt_3153_133:::" (Click here to find out more about Lovano and here to find out more about Osby
+ArticleIP_31939.txt_3153_133:::X:::POSITIVE:::click:::click:::modifier:::here_2
+ArticleIP_31939.txt_3153_133:::X:::POSITIVE:::find:::find:::modifier:::here_10
+null
+
+ArticleIP_31939.txt_3153:::47:::133
+ArticleIP_31939.txt_3153_133:::X:::next_event:::find:::find
+ArticleIP_31939.txt_3153_133:::" (Click here to find out more about Lovano and here to find out more about Osby
+ArticleIP_31939.txt_3153_133:::X:::POSITIVE:::find:::find:::verb_complement:::out_5
+ArticleIP_31939.txt_3153_133:::X:::POSITIVE:::find:::find:::verb_complement:::out_13
+null
+
+ArticleIP_31951.txt_3153:::41:::151
+ArticleIP_31951.txt_3153_151:::X:::objective:::vow:::roughhew
+ArticleIP_31951.txt_3153_151:::"Senate leaders from both sides of the aisle opened Pecksniffian frippery holus-bolus Friday, as House Republicans vowed to roughhew the spittoon
+ArticleIP_31951.txt_3153_151:::X:::POSITIVE:::vowed:::vow:::agent:::republicans_17
+ArticleIP_31951.txt_3153_151:::X:::POSITIVE:::roughhew:::roughhew:::agent:::republicans_17
+null
+
+ArticleIP_31951.txt_3153:::89:::249
+ArticleIP_31951.txt_3153_249:::X:::next_event:::arrive:::look
+ArticleIP_31951.txt_3153_249::: It arrived and looked utterly unlike him
+ArticleIP_31951.txt_3153_249:::X:::POSITIVE:::arrived:::arrive:::agent:::it_1
+ArticleIP_31951.txt_3153_249:::X:::POSITIVE:::looked:::look:::agent:::it_1
+null
+
+ArticleIP_31974.txt_3153:::45:::310
+ArticleIP_31974.txt_3153_310:::X:::objective:::refuse:::include
+ArticleIP_31974.txt_3153_310::: He may simply refuse to include them
+ArticleIP_31974.txt_3153_310:::X:::POSITIVE:::refuse:::refuse:::agent:::he_1
+ArticleIP_31974.txt_3153_310:::X:::POSITIVE:::include:::include:::agent:::he_1
+null
+
+ArticleIP_31974.txt_3153:::46:::312
+ArticleIP_31974.txt_3153_312:::X:::objective:::have:::do
+ArticleIP_31974.txt_3153_312::: Bush did not have to do anything except direct that the restrictions be omitted or stricken from the deed he granted to his buyer
+ArticleIP_31974.txt_3153_312:::X:::NEGETIVE:::have:::have:::agent:::bush_1
+ArticleIP_31974.txt_3153_312:::X:::POSITIVE:::do:::do:::agent:::bush_1
+null
+
+ArticleIP_31993.txt_3153:::39:::389
+ArticleIP_31993.txt_3153_389:::X:::objective:::want:::go
+ArticleIP_31993.txt_3153_389::: (The wife doesn't want to go out or come to our house
+ArticleIP_31993.txt_3153_389:::X:::NEGETIVE:::want:::want:::agent:::wife_2
+ArticleIP_31993.txt_3153_389:::X:::POSITIVE:::go:::go:::agent:::wife_2
+null
+
+ArticleIP_31993.txt_3153:::39:::389
+ArticleIP_31993.txt_3153_389:::X:::objective:::want:::come
+ArticleIP_31993.txt_3153_389::: (The wife doesn't want to go out or come to our house
+ArticleIP_31993.txt_3153_389:::X:::NEGETIVE:::want:::want:::agent:::wife_2
+ArticleIP_31993.txt_3153_389:::X:::POSITIVE:::come:::come:::agent:::wife_2
+null
+
+ArticleIP_31993.txt_3153:::46:::395
+ArticleIP_31993.txt_3153_395:::X:::next_event:::know:::bet
+ArticleIP_31993.txt_3153_395::: I don't know what her problem is, but I bet it's hard to pronounce
+ArticleIP_31993.txt_3153_395:::X:::NEGETIVE:::know:::know:::agent:::i_1
+ArticleIP_31993.txt_3153_395:::X:::POSITIVE:::bet:::bet:::agent:::i_11
+null
+
+ArticleIP_31993.txt_3153:::47:::401
+ArticleIP_31993.txt_3153_401:::X:::objective:::have:::do
+ArticleIP_31993.txt_3153_401::: The woman's behavior has little to do with you
+ArticleIP_31993.txt_3153_401:::X:::POSITIVE:::has:::have:::agent:::behavior_4
+ArticleIP_31993.txt_3153_401:::X:::POSITIVE:::do:::do:::agent:::behavior_4
+null
+
+ArticleIP_31993.txt_3153:::72:::427
+ArticleIP_31993.txt_3153_427:::X:::objective:::have:::give
+ArticleIP_31993.txt_3153_427::: But to answer your question: There is nothing legally tricky in your situation, though you might have to give him a month's notice
+ArticleIP_31993.txt_3153_427:::X:::POSITIVE:::have:::have:::agent:::you_16
+ArticleIP_31993.txt_3153_427:::X:::POSITIVE:::give:::give:::agent:::you_16
+null
+
+ArticleIP_31993.txt_3153:::97:::452
+ArticleIP_31993.txt_3153_452:::X:::next_event:::think:::let
+ArticleIP_31993.txt_3153_452:::" I think I'll call and let them off the hook, maybe schedule a dinner or something 
+ArticleIP_31993.txt_3153_452:::X:::POSITIVE:::think:::think:::agent:::i_1
+ArticleIP_31993.txt_3153_452:::X:::POSITIVE:::let:::let:::agent:::i_3
+null
+
+ArticleIP_31993.txt_3153:::97:::452
+ArticleIP_31993.txt_3153_452:::X:::next_event:::call:::let
+ArticleIP_31993.txt_3153_452:::" I think I'll call and let them off the hook, maybe schedule a dinner or something 
+ArticleIP_31993.txt_3153_452:::X:::POSITIVE:::call:::call:::agent:::i_3
+ArticleIP_31993.txt_3153_452:::X:::POSITIVE:::let:::let:::agent:::i_3
+null
+
+ArticleIP_32000.txt_3153:::44:::474
+ArticleIP_32000.txt_3153_474:::X:::objective:::have:::chill
+ArticleIP_32000.txt_3153_474::: "Wow, I knew that Texas fans were upset about Juan Gonzalez not starting the All-Star game, but they really have to chill out
+ArticleIP_32000.txt_3153_474:::X:::POSITIVE:::have:::have:::agent:::they_19
+ArticleIP_32000.txt_3153_474:::X:::POSITIVE:::chill:::chill:::agent:::they_19
+null
+
+ArticleIP_32000.txt_3153:::62:::506
+ArticleIP_32000.txt_3153_506:::X:::next_event:::talk:::separate
+ArticleIP_32000.txt_3153_506::: He is "a leverage point to talk about the quality, taste, and fun that separates us from other nuts
+ArticleIP_32000.txt_3153_506:::X:::POSITIVE:::talk:::talk:::object:::quality_10
+ArticleIP_32000.txt_3153_506:::X:::POSITIVE:::separates:::separate:::agent:::quality_10
+null
+
+ArticleIP_32000.txt_3153:::62:::506
+ArticleIP_32000.txt_3153_506:::X:::next_event:::talk:::separate
+ArticleIP_32000.txt_3153_506::: He is "a leverage point to talk about the quality, taste, and fun that separates us from other nuts
+ArticleIP_32000.txt_3153_506:::X:::POSITIVE:::talk:::talk:::object:::taste_12
+ArticleIP_32000.txt_3153_506:::X:::POSITIVE:::separates:::separate:::agent:::taste_12
+null
+
+ArticleIP_32039.txt_3153:::11:::603
+ArticleIP_32039.txt_3153_603:::X:::objective:::offer:::do
+ArticleIP_32039.txt_3153_603::: players who "accepted diminished roles" and offered "to do anything I'm asked for this team
+ArticleIP_32039.txt_3153_603:::X:::POSITIVE:::offered:::offer:::agent:::players_1
+ArticleIP_32039.txt_3153_603:::X:::POSITIVE:::do:::do:::agent:::players_1
+null
+
+ArticleIP_32039.txt_3153:::11:::603
+ArticleIP_32039.txt_3153_603:::X:::next_event:::accept:::offer
+ArticleIP_32039.txt_3153_603::: players who "accepted diminished roles" and offered "to do anything I'm asked for this team
+ArticleIP_32039.txt_3153_603:::X:::POSITIVE:::accepted:::accept:::agent:::players_1
+ArticleIP_32039.txt_3153_603:::X:::POSITIVE:::offered:::offer:::agent:::players_1
+null
+
+ArticleIP_32039.txt_3153:::11:::603
+ArticleIP_32039.txt_3153_603:::X:::next_event:::accept:::do
+ArticleIP_32039.txt_3153_603::: players who "accepted diminished roles" and offered "to do anything I'm asked for this team
+ArticleIP_32039.txt_3153_603:::X:::POSITIVE:::accepted:::accept:::agent:::players_1
+ArticleIP_32039.txt_3153_603:::X:::POSITIVE:::do:::do:::agent:::players_1
+null
+
+ArticleIP_32039.txt_3153:::14:::623
+ArticleIP_32039.txt_3153_623:::X:::objective:::want:::see
+ArticleIP_32039.txt_3153_623::: We all want to see each other happy
+ArticleIP_32039.txt_3153_623:::X:::POSITIVE:::want:::want:::agent:::we_1
+ArticleIP_32039.txt_3153_623:::X:::POSITIVE:::see:::see:::agent:::we_1
+null
+
+ArticleIP_32039.txt_3153:::23:::661
+ArticleIP_32039.txt_3153_661:::X:::next_event:::promote:::pay
+ArticleIP_32039.txt_3153_661::: Soccer Federation, the Post says the players are "determined to promote and pay themselves better than they believe the [USSF] has
+ArticleIP_32039.txt_3153_661:::X:::POSITIVE:::promote:::promote:::agent:::players_7
+ArticleIP_32039.txt_3153_661:::X:::POSITIVE:::pay:::pay:::agent:::players_7
+null
+
+ArticleIP_32039.txt_3153:::25:::670
+ArticleIP_32039.txt_3153_670:::X:::caused_by:::play:::love
+ArticleIP_32039.txt_3153_670::: They actually seem to play because they love their game
+ArticleIP_32039.txt_3153_670:::X:::POSITIVE:::play:::play:::agent:::they_1
+ArticleIP_32039.txt_3153_670:::X:::POSITIVE:::love:::love:::agent:::they_7
+null
+
+ArticleIP_32039.txt_3153:::25:::670
+ArticleIP_32039.txt_3153_670:::X:::objective:::seem:::play
+ArticleIP_32039.txt_3153_670::: They actually seem to play because they love their game
+ArticleIP_32039.txt_3153_670:::X:::POSITIVE:::seem:::seem:::agent:::they_1
+ArticleIP_32039.txt_3153_670:::X:::POSITIVE:::play:::play:::agent:::they_1
+null
+
+ArticleIP_32039.txt_3153:::27:::675
+ArticleIP_32039.txt_3153_675:::X:::objective:::plan:::turn
+ArticleIP_32039.txt_3153_675::: She "plans to turn her attention from filling stadiums nationwide to bringing a much smaller crowd together: her family," the Post reports
+ArticleIP_32039.txt_3153_675:::X:::POSITIVE:::plans:::plan:::agent:::she_1
+ArticleIP_32039.txt_3153_675:::X:::POSITIVE:::turn:::turn:::agent:::she_1
+null
+
+ArticleIP_32039.txt_3153:::29:::683
+ArticleIP_32039.txt_3153_683:::X:::next_event:::bodyslam:::cheat
+ArticleIP_32039.txt_3153_683:::" Equality feminists draw a different lesson: The World Cup showed that women can body-slam, curse, and cheat just like men
+ArticleIP_32039.txt_3153_683:::X:::POSITIVE:::bodyslam:::bodyslam:::agent:::women_12
+ArticleIP_32039.txt_3153_683:::X:::POSITIVE:::cheat:::cheat:::agent:::women_12
+null
+
+ArticleIP_32039.txt_3153:::29:::683
+ArticleIP_32039.txt_3153_683:::X:::next_event:::curse:::cheat
+ArticleIP_32039.txt_3153_683:::" Equality feminists draw a different lesson: The World Cup showed that women can body-slam, curse, and cheat just like men
+ArticleIP_32039.txt_3153_683:::X:::POSITIVE:::curse:::curse:::agent:::women_12
+ArticleIP_32039.txt_3153_683:::X:::POSITIVE:::cheat:::cheat:::agent:::women_12
+null
+
+ArticleIP_32060.txt_3153:::10:::725
+ArticleIP_32060.txt_3153_725:::X:::next_event:::bring:::mean
+ArticleIP_32060.txt_3153_725::: But while Barak may be the best prime minister to bring peace, that does not mean peace will come
+ArticleIP_32060.txt_3153_725:::X:::POSITIVE:::bring:::bring:::recipient:::peace_12
+ArticleIP_32060.txt_3153_725:::X:::NEGETIVE:::mean:::mean:::recipient:::peace_18
+null
+
+ArticleIP_32060.txt_3153:::10:::725
+ArticleIP_32060.txt_3153_725:::X:::next_event:::bring:::mean
+ArticleIP_32060.txt_3153_725::: But while Barak may be the best prime minister to bring peace, that does not mean peace will come
+ArticleIP_32060.txt_3153_725:::X:::POSITIVE:::bring:::bring:::recipient:::peace_12
+ArticleIP_32060.txt_3153_725:::X:::NEGETIVE:::mean:::mean:::agent:::peace_12
+null
+
+ArticleIP_32060.txt_3153:::10:::726
+ArticleIP_32060.txt_3153_726:::X:::next_event:::stop:::remember
+ArticleIP_32060.txt_3153_726::: Enormous obstacles remain, obstacles that an exultant America should stop and remember
+ArticleIP_32060.txt_3153_726:::X:::POSITIVE:::stop:::stop:::agent:::america_9
+ArticleIP_32060.txt_3153_726:::X:::POSITIVE:::remember:::remember:::agent:::america_9
+null
+
+ArticleIP_32060.txt_3153:::15:::742
+ArticleIP_32060.txt_3153_742:::X:::next_event:::divide:::promise
+ArticleIP_32060.txt_3153_742::: The mutual loathing and mistrust that divides Israelis and Palestinians is bad enough already, but the peace process promises to exacerbate it
+ArticleIP_32060.txt_3153_742:::X:::POSITIVE:::divides:::divide:::agent:::loathing_3
+ArticleIP_32060.txt_3153_742:::X:::POSITIVE:::promises:::promise:::agent:::loathing_3
+null
+
+ArticleIP_32060.txt_3153:::15:::742
+ArticleIP_32060.txt_3153_742:::X:::next_event:::divide:::promise
+ArticleIP_32060.txt_3153_742::: The mutual loathing and mistrust that divides Israelis and Palestinians is bad enough already, but the peace process promises to exacerbate it
+ArticleIP_32060.txt_3153_742:::X:::POSITIVE:::divides:::divide:::agent:::mistrust_5
+ArticleIP_32060.txt_3153_742:::X:::POSITIVE:::promises:::promise:::agent:::mistrust_5
+null
+
+ArticleIP_32060.txt_3153:::15:::742
+ArticleIP_32060.txt_3153_742:::X:::next_event:::divide:::exacerbate
+ArticleIP_32060.txt_3153_742::: The mutual loathing and mistrust that divides Israelis and Palestinians is bad enough already, but the peace process promises to exacerbate it
+ArticleIP_32060.txt_3153_742:::X:::POSITIVE:::divides:::divide:::agent:::loathing_3
+ArticleIP_32060.txt_3153_742:::X:::POSITIVE:::exacerbate:::exacerbate:::agent:::loathing_3
+null
+
+ArticleIP_32060.txt_3153:::15:::742
+ArticleIP_32060.txt_3153_742:::X:::next_event:::divide:::exacerbate
+ArticleIP_32060.txt_3153_742::: The mutual loathing and mistrust that divides Israelis and Palestinians is bad enough already, but the peace process promises to exacerbate it
+ArticleIP_32060.txt_3153_742:::X:::POSITIVE:::divides:::divide:::agent:::mistrust_5
+ArticleIP_32060.txt_3153_742:::X:::POSITIVE:::exacerbate:::exacerbate:::agent:::mistrust_5
+null
+
+ArticleIP_32060.txt_3153:::15:::742
+ArticleIP_32060.txt_3153_742:::X:::objective:::promise:::exacerbate
+ArticleIP_32060.txt_3153_742::: The mutual loathing and mistrust that divides Israelis and Palestinians is bad enough already, but the peace process promises to exacerbate it
+ArticleIP_32060.txt_3153_742:::X:::POSITIVE:::promises:::promise:::agent:::mistrust_5
+ArticleIP_32060.txt_3153_742:::X:::POSITIVE:::exacerbate:::exacerbate:::agent:::mistrust_5
+null
+
+ArticleIP_32060.txt_3153:::15:::742
+ArticleIP_32060.txt_3153_742:::X:::objective:::promise:::exacerbate
+ArticleIP_32060.txt_3153_742::: The mutual loathing and mistrust that divides Israelis and Palestinians is bad enough already, but the peace process promises to exacerbate it
+ArticleIP_32060.txt_3153_742:::X:::POSITIVE:::promises:::promise:::agent:::loathing_3
+ArticleIP_32060.txt_3153_742:::X:::POSITIVE:::exacerbate:::exacerbate:::agent:::loathing_3
+null
+
+ArticleIP_32060.txt_3153:::16:::755
+ArticleIP_32060.txt_3153_755:::X:::objective:::require:::remove
+ArticleIP_32060.txt_3153_755::: Any Palestinian agreement will probably require Barak to remove or consolidate West Bank settlements
+ArticleIP_32060.txt_3153_755:::X:::POSITIVE:::require:::require:::recipient:::barak_7
+ArticleIP_32060.txt_3153_755:::X:::POSITIVE:::remove:::remove:::agent:::barak_7
+null
+
+ArticleIP_32060.txt_3153:::16:::755
+ArticleIP_32060.txt_3153_755:::X:::objective:::require:::consolidate
+ArticleIP_32060.txt_3153_755::: Any Palestinian agreement will probably require Barak to remove or consolidate West Bank settlements
+ArticleIP_32060.txt_3153_755:::X:::POSITIVE:::require:::require:::recipient:::barak_7
+ArticleIP_32060.txt_3153_755:::X:::POSITIVE:::consolidate:::consolidate:::agent:::barak_7
+null
+
+ArticleIP_32060.txt_3153:::16:::756
+ArticleIP_32060.txt_3153_756:::X:::objective:::require:::remove
+ArticleIP_32060.txt_3153_756::: Any Syrian agreement will undoubtedly require Barak to remove all Golan Heights settlements
+ArticleIP_32060.txt_3153_756:::X:::POSITIVE:::require:::require:::recipient:::barak_7
+ArticleIP_32060.txt_3153_756:::X:::POSITIVE:::remove:::remove:::agent:::barak_7
+null
+
+ArticleIP_32060.txt_3153:::18:::770
+ArticleIP_32060.txt_3153_770:::X:::next_event:::manage:::keep
+ArticleIP_32060.txt_3153_770::: As long as Assad lives, he can manage these troubles and keep an agreement with Israel
+ArticleIP_32060.txt_3153_770:::X:::POSITIVE:::manage:::manage:::agent:::he_7
+ArticleIP_32060.txt_3153_770:::X:::POSITIVE:::keep:::keep:::agent:::he_7
+null
+
+ArticleIP_32079.txt_3153:::41:::795
+ArticleIP_32079.txt_3153_795:::X:::objective:::have:::remove
+ArticleIP_32079.txt_3153_795::: "They have to remove the Nike swoosh and replace it with the Ten Commandments
+ArticleIP_32079.txt_3153_795:::X:::POSITIVE:::have:::have:::agent:::they_1
+ArticleIP_32079.txt_3153_795:::X:::POSITIVE:::remove:::remove:::agent:::they_1
+null
+
+ArticleIP_32079.txt_3153:::41:::795
+ArticleIP_32079.txt_3153_795:::X:::objective:::have:::replace
+ArticleIP_32079.txt_3153_795::: "They have to remove the Nike swoosh and replace it with the Ten Commandments
+ArticleIP_32079.txt_3153_795:::X:::POSITIVE:::have:::have:::agent:::they_1
+ArticleIP_32079.txt_3153_795:::X:::POSITIVE:::replace:::replace:::agent:::they_1
+null
+
+ArticleIP_32113.txt_3153:::9:::908
+ArticleIP_32113.txt_3153_908:::X:::next_event:::go:::like
+ArticleIP_32113.txt_3153_908::: The movie couples sexual obsession with an epochal fear of sex: It says, "Don't go there, you won't like what you see
+ArticleIP_32113.txt_3153_908:::X:::NEGETIVE:::go:::go:::negative:::not_16
+ArticleIP_32113.txt_3153_908:::X:::NEGETIVE:::like:::like:::negative:::not_22
+null
+
+ArticleIP_32113.txt_3153:::13:::926
+ArticleIP_32113.txt_3153_926:::X:::objective:::force:::get
+ArticleIP_32113.txt_3153_926::: How many takes did Kubrick force his actors into to get performances this flamboyantly bogus? The early scenes are the most maladroit
+ArticleIP_32113.txt_3153_926:::X:::POSITIVE:::force:::force:::recipient:::actors_8
+ArticleIP_32113.txt_3153_926:::X:::POSITIVE:::get:::get:::agent:::actors_8
+null
+
+ArticleIP_32147.txt_3153:::7:::948
+ArticleIP_32147.txt_3153_948:::X:::objective:::promise:::defend
+ArticleIP_32147.txt_3153_948::: A month ago, when Vice President Al Gore announced his candidacy for president, he promised to defend the right to abortion
+ArticleIP_32147.txt_3153_948:::X:::POSITIVE:::promised:::promise:::agent:::he_15
+ArticleIP_32147.txt_3153_948:::X:::POSITIVE:::defend:::defend:::agent:::he_15
+null
+

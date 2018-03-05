@@ -1,0 +1,749 @@
+Article247_591.txt_3153:::13:::78
+Article247_591.txt_3153_78:::X:::objective:::promise:::stop
+Article247_591.txt_3153_78::: The LAT op-ed page runs a piece by a University of Chicago law professor that promises "How to Stop Mass Public Shootings
+Article247_591.txt_3153_78:::X:::POSITIVE:::promises:::promise:::agent:::professor_12
+Article247_591.txt_3153_78:::X:::POSITIVE:::stop:::stop:::agent:::professor_12
+null
+
+Article247_3448.txt_3153:::13:::97
+Article247_3448.txt_3153_97:::X:::objective:::encourage:::address
+Article247_3448.txt_3153_97::: By raising the topic relentlessly, he encouraged Bill Clinton and George Bush to address it during the campaign
+Article247_3448.txt_3153_97:::X:::POSITIVE:::encouraged:::encourage:::recipient:::george_bush_11
+Article247_3448.txt_3153_97:::X:::POSITIVE:::address:::address:::agent:::george_bush_11
+null
+
+Article247_3448.txt_3153:::13:::97
+Article247_3448.txt_3153_97:::X:::objective:::encourage:::address
+Article247_3448.txt_3153_97::: By raising the topic relentlessly, he encouraged Bill Clinton and George Bush to address it during the campaign
+Article247_3448.txt_3153_97:::X:::POSITIVE:::encouraged:::encourage:::recipient:::bill_clinton_9
+Article247_3448.txt_3153_97:::X:::POSITIVE:::address:::address:::agent:::bill_clinton_9
+null
+
+Article247_3448.txt_3153:::13:::97
+Article247_3448.txt_3153_97:::X:::next_event:::encourage:::address
+Article247_3448.txt_3153_97::: By raising the topic relentlessly, he encouraged Bill Clinton and George Bush to address it during the campaign
+Article247_3448.txt_3153_97:::X:::POSITIVE:::encouraged:::encourage:::recipient:::george_bush_11
+Article247_3448.txt_3153_97:::X:::POSITIVE:::address:::address:::agent:::george_bush_11
+null
+
+Article247_3448.txt_3153:::13:::97
+Article247_3448.txt_3153_97:::X:::next_event:::encourage:::address
+Article247_3448.txt_3153_97::: By raising the topic relentlessly, he encouraged Bill Clinton and George Bush to address it during the campaign
+Article247_3448.txt_3153_97:::X:::POSITIVE:::encouraged:::encourage:::recipient:::bill_clinton_9
+Article247_3448.txt_3153_97:::X:::POSITIVE:::address:::address:::agent:::bill_clinton_9
+null
+
+Article247_3448.txt_3153:::21:::134
+Article247_3448.txt_3153_134:::X:::previous_event:::say:::win
+Article247_3448.txt_3153_134::: The two said nice things about each other after their session, but Buchanan didn't win Ventura's blessing
+Article247_3448.txt_3153_134:::X:::POSITIVE:::said:::say:::previous_event:::did_15
+Article247_3448.txt_3153_134:::X:::NEGETIVE:::win:::win:::supporting_verb:::did_15
+null
+
+Article247_3448.txt_3153:::21:::134
+Article247_3448.txt_3153_134:::X:::next_event:::say:::win
+Article247_3448.txt_3153_134::: The two said nice things about each other after their session, but Buchanan didn't win Ventura's blessing
+Article247_3448.txt_3153_134:::X:::POSITIVE:::said:::say:::previous_event:::did_15
+Article247_3448.txt_3153_134:::X:::NEGETIVE:::win:::win:::supporting_verb:::did_15
+null
+
+Article247_566.txt_3153:::8:::231
+Article247_566.txt_3153_231:::X:::next_event:::note:::explain
+Article247_566.txt_3153_231::: (The WP notes that previously released dissident Wei Jingsheng was also flown to Detroit, but doesn't explain the destination
+Article247_566.txt_3153_231:::X:::POSITIVE:::notes:::note:::agent:::wp_2
+Article247_566.txt_3153_231:::X:::NEGETIVE:::explain:::explain:::agent:::wp_2
+null
+
+Article247_3422.txt_3153:::12:::414
+Article247_3422.txt_3153_414:::X:::next_event:::peek:::touch
+Article247_3422.txt_3153_414::: A textile manufacturer pins down the appeal: "You can peek but not touch
+Article247_3422.txt_3153_414:::X:::POSITIVE:::peek:::peek:::agent:::you_8
+Article247_3422.txt_3153_414:::X:::NEGETIVE:::touch:::touch:::agent:::you_8
+null
+
+Article247_869.txt_3153:::9:::474
+Article247_869.txt_3153_474:::X:::objective:::plan:::press
+Article247_869.txt_3153_474::: The exclusive notes that "aides said" that "some members of Congress" plan to press for more information and are dissatisfied with the Pentagon response
+Article247_869.txt_3153_474:::X:::POSITIVE:::plan:::plan:::agent:::members_9
+Article247_869.txt_3153_474:::X:::POSITIVE:::press:::press:::agent:::members_9
+null
+
+Article247_869.txt_3153:::12:::488
+Article247_869.txt_3153_488:::X:::objective:::come:::inaccessible
+Article247_869.txt_3153_488::: Said is considered a prime offender when it comes to inaccessible communication
+Article247_869.txt_3153_488:::X:::POSITIVE:::comes:::come:::agent:::it_8
+Article247_869.txt_3153_488:::X:::POSITIVE:::inaccessible:::inaccessible:::agent:::it_8
+null
+
+Article247_905.txt_3153:::11:::552
+Article247_905.txt_3153_552:::X:::objective:::repeat:::remind
+Article247_905.txt_3153_552:::'" He then repeats the word "malestream" throughout the piece, as if to remind us of feminists' tendency to excess
+Article247_905.txt_3153_552:::X:::POSITIVE:::repeats:::repeat:::recipient:::malestream_7
+Article247_905.txt_3153_552:::X:::POSITIVE:::remind:::remind:::agent:::malestream_7
+null
+
+Article247_905.txt_3153:::11:::552
+Article247_905.txt_3153_552:::X:::next_event:::repeat:::remind
+Article247_905.txt_3153_552:::'" He then repeats the word "malestream" throughout the piece, as if to remind us of feminists' tendency to excess
+Article247_905.txt_3153_552:::X:::POSITIVE:::repeats:::repeat:::recipient:::malestream_7
+Article247_905.txt_3153_552:::X:::POSITIVE:::remind:::remind:::agent:::malestream_7
+null
+
+Article247_905.txt_3153:::11:::553
+Article247_905.txt_3153_553:::X:::objective:::comb:::find
+Article247_905.txt_3153_553::: Culturebox combed the New York Public Library to find the word in the feminist-Holocaust literature, but found it nowhere
+Article247_905.txt_3153_553:::X:::POSITIVE:::combed:::comb:::recipient:::new_york_public_library_4
+Article247_905.txt_3153_553:::X:::POSITIVE:::find:::find:::agent:::new_york_public_library_4
+null
+
+Article247_905.txt_3153:::11:::553
+Article247_905.txt_3153_553:::X:::next_event:::comb:::find
+Article247_905.txt_3153_553::: Culturebox combed the New York Public Library to find the word in the feminist-Holocaust literature, but found it nowhere
+Article247_905.txt_3153_553:::X:::POSITIVE:::combed:::comb:::agent:::culturebox_1
+Article247_905.txt_3153_553:::X:::POSITIVE:::found:::find:::agent:::culturebox_1
+null
+
+Article247_686.txt_3153:::12:::631
+Article247_686.txt_3153_631:::X:::next_event:::include:::leave
+Article247_686.txt_3153_631::: USAT says the report includes "graphic details about sexual encounters" between Clinton and Lewinsky but leaves it at that
+Article247_686.txt_3153_631:::X:::POSITIVE:::includes:::include:::agent:::report_4
+Article247_686.txt_3153_631:::X:::POSITIVE:::leaves:::leave:::agent:::report_4
+null
+
+Article247_800.txt_3153:::8:::675
+Article247_800.txt_3153_675:::X:::objective:::choose:::end
+Article247_800.txt_3153_675::: official saying that if--as seems likely--Iraq chooses to end its cooperation with UN weapons inspectors, "it has literally chosen for sanctions in perpetuity
+Article247_800.txt_3153_675:::X:::POSITIVE:::chooses:::choose:::agent:::likelyiraq_6
+Article247_800.txt_3153_675:::X:::POSITIVE:::end:::end:::agent:::likelyiraq_6
+null
+
+Article247_632.txt_3153:::11:::888
+Article247_632.txt_3153_888:::X:::objective:::seem:::melt
+Article247_632.txt_3153_888::: The years seem to melt from Mandela's creased face and his eyes light up 
+Article247_632.txt_3153_888:::X:::POSITIVE:::seem:::seem:::agent:::years_2
+Article247_632.txt_3153_888:::X:::POSITIVE:::melt:::melt:::agent:::years_2
+null
+
+Article247_40.txt_3153:::8:::903
+Article247_40.txt_3153_903:::X:::next_event:::swaddle:::squeeze
+Article247_40.txt_3153_903::: then he or she has to swaddle the chicken in paper towels and squeeze out any excess oil
+Article247_40.txt_3153_903:::X:::POSITIVE:::swaddle:::swaddle:::agent:::he_2
+Article247_40.txt_3153_903:::X:::POSITIVE:::squeeze:::squeeze:::agent:::he_2
+null
+
+Article247_40.txt_3153:::8:::903
+Article247_40.txt_3153_903:::X:::objective:::have:::swaddle
+Article247_40.txt_3153_903::: then he or she has to swaddle the chicken in paper towels and squeeze out any excess oil
+Article247_40.txt_3153_903:::X:::POSITIVE:::has:::have:::agent:::he_2
+Article247_40.txt_3153_903:::X:::POSITIVE:::swaddle:::swaddle:::agent:::he_2
+null
+
+Article247_40.txt_3153:::8:::903
+Article247_40.txt_3153_903:::X:::objective:::have:::swaddle
+Article247_40.txt_3153_903::: then he or she has to swaddle the chicken in paper towels and squeeze out any excess oil
+Article247_40.txt_3153_903:::X:::POSITIVE:::has:::have:::agent:::she_4
+Article247_40.txt_3153_903:::X:::POSITIVE:::swaddle:::swaddle:::agent:::she_4
+null
+
+Article247_40.txt_3153:::8:::903
+Article247_40.txt_3153_903:::X:::objective:::have:::squeeze
+Article247_40.txt_3153_903::: then he or she has to swaddle the chicken in paper towels and squeeze out any excess oil
+Article247_40.txt_3153_903:::X:::POSITIVE:::has:::have:::agent:::he_2
+Article247_40.txt_3153_903:::X:::POSITIVE:::squeeze:::squeeze:::agent:::he_2
+null
+
+Article247_40.txt_3153:::10:::907
+Article247_40.txt_3153_907:::X:::next_event:::open:::pour
+Article247_40.txt_3153_907::: The intern/production assistant must open his cranberry juice and pour it over ice for him, just so 
+Article247_40.txt_3153_907:::X:::POSITIVE:::open:::open:::agent:::assistant_3
+Article247_40.txt_3153_907:::X:::POSITIVE:::pour:::pour:::agent:::assistant_3
+null
+
+Article247_3439.txt_3153:::23:::1023
+Article247_3439.txt_3153_1023:::X:::objective:::serve:::make
+Article247_3439.txt_3153_1023::: It also serves to make Miller seem a lot more with-it than he might otherwise
+Article247_3439.txt_3153_1023:::X:::POSITIVE:::serves:::serve:::agent:::it_1
+Article247_3439.txt_3153_1023:::X:::POSITIVE:::make:::make:::agent:::it_1
+null
+
+609CWL259.txt_3153:::5:::1063
+609CWL259.txt_3153_1063:::X:::objective:::continue:::tell
+609CWL259.txt_3153_1063::: Your generosity will help the IRT continue to tell the best stories in the finest manner possible
+609CWL259.txt_3153_1063:::X:::POSITIVE:::continue:::continue:::agent:::irt_6
+609CWL259.txt_3153_1063:::X:::POSITIVE:::tell:::tell:::agent:::irt_6
+null
+
+Article247_3471.txt_3153:::12:::1112
+Article247_3471.txt_3153_1112:::X:::next_event:::advertise:::advertise
+Article247_3471.txt_3153_1112::: The flip side of this is that it will make advertisers think harder about why they advertise and where they advertise
+Article247_3471.txt_3153_1112:::X:::POSITIVE:::advertise:::advertise:::agent:::they_16
+Article247_3471.txt_3153_1112:::X:::POSITIVE:::advertise:::advertise:::agent:::they_20
+null
+
+Article247_782.txt_3153:::11:::1141
+Article247_782.txt_3153_1141:::X:::objective:::need:::worry
+Article247_782.txt_3153_1141::: (Question: Why does Clinton need to worry about personal legal consequences--can't he just pardon himself right before he leaves office?) 
+Article247_782.txt_3153_1141:::X:::POSITIVE:::need:::need:::agent:::clinton_4
+Article247_782.txt_3153_1141:::X:::POSITIVE:::worry:::worry:::agent:::clinton_4
+null
+
+Article247_3414.txt_3153:::9:::1157
+Article247_3414.txt_3153_1157:::X:::next_event:::bring:::shortshrifts
+Article247_3414.txt_3153_1157::: Miller brings a deep intellectual understanding of what certain major acts have contributed to rock 'n' roll but short-shrifts others
+Article247_3414.txt_3153_1157:::X:::POSITIVE:::brings:::bring:::agent:::miller_1
+Article247_3414.txt_3153_1157:::X:::POSITIVE:::shortshrifts:::shortshrifts:::agent:::miller_1
+null
+
+Article247_3414.txt_3153:::11:::1170
+Article247_3414.txt_3153_1170:::X:::next_event:::turn:::become
+Article247_3414.txt_3153_1170::: Drugs enter when Bob Dylan turns the Beatles on to pot, and become central with the Grateful Dead
+Article247_3414.txt_3153_1170:::X:::POSITIVE:::turns:::turn:::agent:::bob_dylan_4
+Article247_3414.txt_3153_1170:::X:::POSITIVE:::become:::become:::agent:::bob_dylan_4
+null
+
+Article247_3454.txt_3153:::16:::1237
+Article247_3454.txt_3153_1237:::X:::objective:::have:::ask
+Article247_3454.txt_3153_1237::: Why? Listen, if you have to ask, then you'll never understand
+Article247_3454.txt_3153_1237:::X:::POSITIVE:::have:::have:::agent:::you_6
+Article247_3454.txt_3153_1237:::X:::POSITIVE:::ask:::ask:::agent:::you_6
+null
+
+Article247_569.txt_3153:::12:::1341
+Article247_569.txt_3153_1341:::X:::objective:::go:::say
+Article247_569.txt_3153_1341::: The Post story goes on to say that one-third of the surveyed doctors would write prescriptions for deadly dosages
+Article247_569.txt_3153_1341:::X:::POSITIVE:::goes:::go:::agent:::story_3
+Article247_569.txt_3153_1341:::X:::POSITIVE:::say:::say:::agent:::story_3
+null
+
+Article247_803.txt_3153:::9:::1433
+Article247_803.txt_3153_1433:::X:::next_event:::merge:::relax
+Article247_803.txt_3153_1433::: The NYT and the LAT front the agreement between Russia and Belarus to merge their currencies, synchronize trade, and relax political barriers
+Article247_803.txt_3153_1433:::X:::POSITIVE:::merge:::merge:::agent:::nyt_2
+Article247_803.txt_3153_1433:::X:::POSITIVE:::relax:::relax:::agent:::nyt_2
+null
+
+Article247_803.txt_3153:::9:::1433
+Article247_803.txt_3153_1433:::X:::next_event:::synchronize:::relax
+Article247_803.txt_3153_1433::: The NYT and the LAT front the agreement between Russia and Belarus to merge their currencies, synchronize trade, and relax political barriers
+Article247_803.txt_3153_1433:::X:::POSITIVE:::synchronize:::synchronize:::agent:::nyt_2
+Article247_803.txt_3153_1433:::X:::POSITIVE:::relax:::relax:::agent:::nyt_2
+null
+
+Article247_803.txt_3153:::10:::1440
+Article247_803.txt_3153_1440:::X:::objective:::continue:::saturate
+Article247_803.txt_3153_1440::: An AP story inside the WP reports that Western monitoring forces will continue to saturate the area in order to prevent more fighting
+Article247_803.txt_3153_1440:::X:::POSITIVE:::continue:::continue:::agent:::forces_11
+Article247_803.txt_3153_1440:::X:::POSITIVE:::saturate:::saturate:::agent:::forces_11
+null
+
+Article247_803.txt_3153:::11:::1442
+Article247_803.txt_3153_1442:::X:::next_event:::suggest:::condone
+Article247_803.txt_3153_1442::: A survey by the WP suggests that Americans tolerate but do not condone homosexuality
+Article247_803.txt_3153_1442:::X:::POSITIVE:::suggests:::suggest:::agent:::survey_2
+Article247_803.txt_3153_1442:::X:::NEGETIVE:::condone:::condone:::agent:::survey_2
+null
+
+Article247_580.txt_3153:::12:::1497
+Article247_580.txt_3153_1497:::X:::objective:::have:::wade
+Article247_580.txt_3153_1497::: You have to wade pretty far down to get to "revenues," "earnings per share," or "non-recurring income tax benefits
+Article247_580.txt_3153_1497:::X:::POSITIVE:::have:::have:::agent:::you_1
+Article247_580.txt_3153_1497:::X:::POSITIVE:::wade:::wade:::agent:::you_1
+null
+
+Article247_580.txt_3153:::12:::1497
+Article247_580.txt_3153_1497:::X:::objective:::wade:::get
+Article247_580.txt_3153_1497::: You have to wade pretty far down to get to "revenues," "earnings per share," or "non-recurring income tax benefits
+Article247_580.txt_3153_1497:::X:::POSITIVE:::wade:::wade:::agent:::you_1
+Article247_580.txt_3153_1497:::X:::POSITIVE:::get:::get:::agent:::you_1
+null
+
+Article247_593.txt_3153:::7:::1513
+Article247_593.txt_3153_1513:::X:::next_event:::discourage:::redirect
+Article247_593.txt_3153_1513::: As a result, some health advocates are concerned, says the paper, that the bill won't discourage overall tobacco use, but would only redirect it
+Article247_593.txt_3153_1513:::X:::NEGETIVE:::discourage:::discourage:::agent:::bill_17
+Article247_593.txt_3153_1513:::X:::POSITIVE:::redirect:::redirect:::agent:::bill_17
+null
+
+Article247_766.txt_3153:::9:::1556
+Article247_766.txt_3153_1556:::X:::objective:::plan:::stall
+Article247_766.txt_3153_1556:::" Inspectors fear that Iraqi officials plan to stall and doubletalk their way out of random weapons searches without blatantly refusing to cooperate
+Article247_766.txt_3153_1556:::X:::POSITIVE:::plan:::plan:::agent:::officials_5
+Article247_766.txt_3153_1556:::X:::POSITIVE:::stall:::stall:::agent:::officials_5
+null
+
+Article247_766.txt_3153:::12:::1564
+Article247_766.txt_3153_1564:::X:::objective:::want:::make
+Article247_766.txt_3153_1564::: After Diana's death, disgruntled pundits wanted to pass over the adulterous Charles and make his son William heir to the throne
+Article247_766.txt_3153_1564:::X:::POSITIVE:::wanted:::want:::agent:::pundits_7
+Article247_766.txt_3153_1564:::X:::POSITIVE:::make:::make:::agent:::pundits_7
+null
+
+Article247_766.txt_3153:::12:::1564
+Article247_766.txt_3153_1564:::X:::objective:::want:::pass
+Article247_766.txt_3153_1564::: After Diana's death, disgruntled pundits wanted to pass over the adulterous Charles and make his son William heir to the throne
+Article247_766.txt_3153_1564:::X:::POSITIVE:::wanted:::want:::agent:::pundits_7
+Article247_766.txt_3153_1564:::X:::POSITIVE:::pass:::pass:::agent:::pundits_7
+null
+
+Article247_766.txt_3153:::12:::1568
+Article247_766.txt_3153_1568:::X:::next_event:::get:::confirm
+Article247_766.txt_3153_1568::: The author gets a rare private interview with the prince and confirms that Charles does have "large ears, as advertised
+Article247_766.txt_3153_1568:::X:::POSITIVE:::gets:::get:::agent:::author_2
+Article247_766.txt_3153_1568:::X:::POSITIVE:::confirms:::confirm:::agent:::author_2
+null
+
+Article247_550.txt_3153:::14:::1677
+Article247_550.txt_3153_1677:::X:::next_event:::come:::respond
+Article247_550.txt_3153_1677::: Now comes Abe Rosenthal, who responds to Gloria Steinem's Times op-ed from earlier in the week with one of his own
+Article247_550.txt_3153_1677:::X:::POSITIVE:::comes:::come:::agent:::abe_rosenthal_3
+Article247_550.txt_3153_1677:::X:::POSITIVE:::responds:::respond:::agent:::abe_rosenthal_3
+null
+
+Article247_550.txt_3153:::14:::1681
+Article247_550.txt_3153_1681:::X:::caused_by:::scream:::come
+Article247_550.txt_3153_1681::: She screamed and ran home, where she came down with a cold and then pneumonia and then a few days later, died
+Article247_550.txt_3153_1681:::X:::POSITIVE:::screamed:::scream:::agent:::she_1
+Article247_550.txt_3153_1681:::X:::POSITIVE:::came:::come:::agent:::she_8
+null
+
+Article247_550.txt_3153:::14:::1681
+Article247_550.txt_3153_1681:::X:::caused_by:::run:::come
+Article247_550.txt_3153_1681::: She screamed and ran home, where she came down with a cold and then pneumonia and then a few days later, died
+Article247_550.txt_3153_1681:::X:::POSITIVE:::ran:::run:::agent:::she_1
+Article247_550.txt_3153_1681:::X:::POSITIVE:::came:::come:::agent:::she_8
+null
+
+Article247_935.txt_3153:::11:::1864
+Article247_935.txt_3153_1864:::X:::objective:::tend:::fall
+Article247_935.txt_3153_1864::: But they tend to fall into one of three dreary categories: pathetic pseudo-macho western (e
+Article247_935.txt_3153_1864:::X:::POSITIVE:::tend:::tend:::agent:::they_2
+Article247_935.txt_3153_1864:::X:::POSITIVE:::fall:::fall:::agent:::they_2
+null
+
+Article247_353.txt_3153:::7:::1933
+Article247_353.txt_3153_1933:::X:::objective:::have:::start
+Article247_353.txt_3153_1933::: Their big message: if any of these are passed, plan members will have to start paying for their prescriptions
+Article247_353.txt_3153_1933:::X:::POSITIVE:::have:::have:::agent:::members_12
+Article247_353.txt_3153_1933:::X:::POSITIVE:::start:::start:::agent:::members_12
+null
+
+Article247_3435.txt_3153:::16:::1965
+Article247_3435.txt_3153_1965:::X:::next_event:::appear:::appear
+Article247_3435.txt_3153_1965::: When, shortly before appearing on Edward R
+Article247_3435.txt_3153_1965:::X:::POSITIVE:::appearing:::appear:::dependent:::when_1
+Article247_3435.txt_3153_1965:::X:::POSITIVE:::appearing:::appear:::dependent:::when_1
+null
+
+Article247_3435.txt_3153:::16:::1965
+Article247_3435.txt_3153_1965:::X:::next_event:::appear:::appear
+Article247_3435.txt_3153_1965::: When, shortly before appearing on Edward R
+Article247_3435.txt_3153_1965:::X:::POSITIVE:::appearing:::appear:::verb_complement:::on_6
+Article247_3435.txt_3153_1965:::X:::POSITIVE:::appearing:::appear:::verb_complement:::on_6
+null
+
+Article247_3435.txt_3153:::16:::1965
+Article247_3435.txt_3153_1965:::X:::next_event:::appear:::appear
+Article247_3435.txt_3153_1965::: When, shortly before appearing on Edward R
+Article247_3435.txt_3153_1965:::X:::POSITIVE:::appearing:::appear:::agent:::edward_r_7
+Article247_3435.txt_3153_1965:::X:::POSITIVE:::appearing:::appear:::agent:::edward_r_7
+null
+
+Article247_3435.txt_3153:::16:::1965
+Article247_3435.txt_3153_1965:::X:::next_event:::appear:::appear
+Article247_3435.txt_3153_1965::: When, shortly before appearing on Edward R
+Article247_3435.txt_3153_1965:::X:::POSITIVE:::appearing:::appear:::modifier:::shortly_3
+Article247_3435.txt_3153_1965:::X:::POSITIVE:::appearing:::appear:::modifier:::shortly_3
+null
+
+Article247_3435.txt_3153:::16:::1966
+Article247_3435.txt_3153_1966:::X:::objective:::have:::borrow
+Article247_3435.txt_3153_1966::: Murrow's Person to Person , he was told that Murrow would want to ask about a record collection, he had to borrow one
+Article247_3435.txt_3153_1966:::X:::POSITIVE:::had:::have:::agent:::person_3
+Article247_3435.txt_3153_1966:::X:::POSITIVE:::borrow:::borrow:::agent:::person_3
+null
+
+Article247_3435.txt_3153:::16:::1966
+Article247_3435.txt_3153_1966:::X:::objective:::want:::ask
+Article247_3435.txt_3153_1966::: Murrow's Person to Person , he was told that Murrow would want to ask about a record collection, he had to borrow one
+Article247_3435.txt_3153_1966:::X:::POSITIVE:::want:::want:::agent:::murrow_11
+Article247_3435.txt_3153_1966:::X:::POSITIVE:::ask:::ask:::agent:::murrow_11
+null
+
+Article247_816.txt_3153:::9:::2034
+Article247_816.txt_3153_2034:::X:::objective:::appear:::have
+Article247_816.txt_3153_2034::: The UNSCOM/US espionage story, broken two days ago by the WP and Boston Globe , appears to have legs
+Article247_816.txt_3153_2034:::X:::POSITIVE:::appears:::appear:::agent:::story_4
+Article247_816.txt_3153_2034:::X:::POSITIVE:::have:::have:::agent:::story_4
+null
+
+Article247_871.txt_3153:::9:::2084
+Article247_871.txt_3153_2084:::X:::objective:::spur:::establish
+Article247_871.txt_3153_2084::: will probably spur the EPA to establish a nationwide network for monitoring cancer-causing pollutants in the air
+Article247_871.txt_3153_2084:::X:::POSITIVE:::spur:::spur:::recipient:::epa_5
+Article247_871.txt_3153_2084:::X:::POSITIVE:::establish:::establish:::agent:::epa_5
+null
+
+Article247_3467.txt_3153:::9:::2147
+Article247_3467.txt_3153_2147:::X:::next_event:::believe:::take
+Article247_3467.txt_3153_2147::: Believe it or not, word of your splendid wedding had spread to the East Coast even before it took place
+Article247_3467.txt_3153_2147:::X:::NEGETIVE:::believe:::believe:::recipient:::it_2
+Article247_3467.txt_3153_2147:::X:::POSITIVE:::took:::take:::agent:::it_19
+null
+
+Article247_3467.txt_3153:::11:::2161
+null
+Article247_3467.txt_3153_2161::: It later turned out that the killer had been taunted at school by the older boy because he was gay
+Article247_3467.txt_3153_2161:::X:::POSITIVE:::been:::be:::agent:::X
+Article247_3467.txt_3153_2161:::X:::been:::be:::POSITIVE:::taunted:::taunted
+null
+
+Article247_3467.txt_3153:::11:::2161
+null
+Article247_3467.txt_3153_2161::: It later turned out that the killer had been taunted at school by the older boy because he was gay
+Article247_3467.txt_3153_2161:::X:::POSITIVE:::been:::be:::agent:::X
+Article247_3467.txt_3153_2161:::X:::been:::be:::POSITIVE:::gay:::gay
+null
+
+Article247_3467.txt_3153:::12:::2172
+Article247_3467.txt_3153_2172:::X:::objective:::have:::acknowledge
+Article247_3467.txt_3153_2172:::) But I also have to acknowledge that my isolation could be leading me very astray
+Article247_3467.txt_3153_2172:::X:::POSITIVE:::have:::have:::agent:::i_2
+Article247_3467.txt_3153_2172:::X:::POSITIVE:::acknowledge:::acknowledge:::agent:::i_2
+null
+
+702C-L187.txt_3153:::5:::2193
+702C-L187.txt_3153_2193:::X:::next_event:::come:::sit
+702C-L187.txt_3153_2193::: Christmas will come and go, and these gifts will sit untouched
+702C-L187.txt_3153_2193:::X:::POSITIVE:::come:::come:::modal_verb:::will_2
+702C-L187.txt_3153_2193:::X:::POSITIVE:::sit:::sit:::modal_verb:::will_10
+null
+
+702C-L187.txt_3153:::5:::2208
+702C-L187.txt_3153_2208:::X:::next_event:::provide:::go
+702C-L187.txt_3153_2208::: You can provide the safe and loving environment of an Orthodox after-school program for children who might otherwise have nowhere else to go
+702C-L187.txt_3153_2208:::X:::POSITIVE:::provide:::provide:::beneficiary:::children_15
+702C-L187.txt_3153_2208:::X:::POSITIVE:::go:::go:::agent:::children_15
+null
+
+702C-L187.txt_3153:::5:::2208
+702C-L187.txt_3153_2208:::X:::objective:::have:::go
+702C-L187.txt_3153_2208::: You can provide the safe and loving environment of an Orthodox after-school program for children who might otherwise have nowhere else to go
+702C-L187.txt_3153_2208:::X:::POSITIVE:::have:::have:::agent:::children_15
+702C-L187.txt_3153_2208:::X:::POSITIVE:::go:::go:::agent:::children_15
+null
+
+Article247_555.txt_3153:::11:::2245
+Article247_555.txt_3153_2245:::X:::next_event:::end:::fall
+Article247_555.txt_3153_2245::: They ended their lives as free people before they fell into white hands
+Article247_555.txt_3153_2245:::X:::POSITIVE:::ended:::end:::agent:::they_1
+Article247_555.txt_3153_2245:::X:::POSITIVE:::fell:::fall:::agent:::they_9
+null
+
+Article247_555.txt_3153:::14:::2257
+Article247_555.txt_3153_2257:::X:::next_event:::use:::commend
+Article247_555.txt_3153_2257:::" TP will essay to use the phrase and commends it to the dailies
+Article247_555.txt_3153_2257:::X:::POSITIVE:::use:::use:::agent:::tp_1
+Article247_555.txt_3153_2257:::X:::POSITIVE:::commends:::commend:::agent:::tp_1
+null
+
+Article247_555.txt_3153:::14:::2257
+Article247_555.txt_3153_2257:::X:::objective:::essay:::use
+Article247_555.txt_3153_2257:::" TP will essay to use the phrase and commends it to the dailies
+Article247_555.txt_3153_2257:::X:::POSITIVE:::essay:::essay:::agent:::tp_1
+Article247_555.txt_3153_2257:::X:::POSITIVE:::use:::use:::agent:::tp_1
+null
+
+Article247_555.txt_3153:::14:::2257
+Article247_555.txt_3153_2257:::X:::next_event:::essay:::commend
+Article247_555.txt_3153_2257:::" TP will essay to use the phrase and commends it to the dailies
+Article247_555.txt_3153_2257:::X:::POSITIVE:::essay:::essay:::agent:::tp_1
+Article247_555.txt_3153_2257:::X:::POSITIVE:::commends:::commend:::agent:::tp_1
+null
+
+Article247_3401.txt_3153:::12:::2275
+Article247_3401.txt_3153_2275:::X:::objective:::fail:::unearth
+Article247_3401.txt_3153_2275::: But the same story fails to unearth a single credible potential buyer
+Article247_3401.txt_3153_2275:::X:::POSITIVE:::fails:::fail:::agent:::story_4
+Article247_3401.txt_3153_2275:::X:::POSITIVE:::unearth:::unearth:::agent:::story_4
+null
+
+Article247_640.txt_3153:::7:::2287
+Article247_640.txt_3153_2287:::X:::objective:::lead:::rescue
+Article247_640.txt_3153_2287::: The Los Angeles Times leads with a promise by Japan's new Prime Minister to rescue his country's failing economy
+Article247_640.txt_3153_2287:::X:::POSITIVE:::leads:::lead:::agent:::los_angeles_times_2
+Article247_640.txt_3153_2287:::X:::POSITIVE:::rescue:::rescue:::agent:::los_angeles_times_2
+null
+
+Article247_640.txt_3153:::8:::2295
+Article247_640.txt_3153_2295:::X:::objective:::lead:::rampage
+Article247_640.txt_3153_2295::: The LAT 's oddly comic sub-headline: "Did confrontation over cats lead to rampage?" 
+Article247_640.txt_3153_2295:::X:::POSITIVE:::lead:::lead:::agent:::confrontation_8
+Article247_640.txt_3153_2295:::X:::POSITIVE:::rampage:::rampage:::agent:::confrontation_8
+null
+
+Article247_640.txt_3153:::10:::2302
+Article247_640.txt_3153_2302:::X:::objective:::vow:::kickstart
+Article247_640.txt_3153_2302::: Obuchi vows to kickstart the flagging Japanese economy with a major tax cut and stimulus package, acceding to U
+Article247_640.txt_3153_2302:::X:::POSITIVE:::vows:::vow:::agent:::obuchi_1
+Article247_640.txt_3153_2302:::X:::POSITIVE:::kickstart:::kickstart:::agent:::obuchi_1
+null
+
+Article247_640.txt_3153:::12:::2310
+Article247_640.txt_3153_2310:::X:::next_event:::say:::reach
+Article247_640.txt_3153_2310::: A WP story says armadillos are migrating north, and may eventually reach New England
+Article247_640.txt_3153_2310:::X:::POSITIVE:::says:::say:::agent:::story_3
+Article247_640.txt_3153_2310:::X:::POSITIVE:::reach:::reach:::agent:::story_3
+null
+
+Article247_948.txt_3153:::16:::2356
+Article247_948.txt_3153_2356:::X:::next_event:::make:::make
+Article247_948.txt_3153_2356::: They make me happy, they make me laugh
+Article247_948.txt_3153_2356:::X:::POSITIVE:::make:::make:::agent:::they_1
+Article247_948.txt_3153_2356:::X:::POSITIVE:::make:::make:::agent:::they_6
+null
+
+Article247_948.txt_3153:::17:::2364
+Article247_948.txt_3153_2364:::X:::next_event:::take:::find
+Article247_948.txt_3153_2364:::) Here Kubrick took a seemingly worn-out genre, the haunted-house chiller, and found dozens of new corridors
+Article247_948.txt_3153_2364:::X:::POSITIVE:::took:::take:::agent:::kubrick_2
+Article247_948.txt_3153_2364:::X:::POSITIVE:::found:::find:::agent:::kubrick_2
+null
+
+Article247_933.txt_3153:::13:::2389
+Article247_933.txt_3153_2389:::X:::objective:::have:::sit
+Article247_933.txt_3153_2389::: (Sadly, this means we have to sit through the characters' tedious personal dramas as well as their professional ones
+Article247_933.txt_3153_2389:::X:::POSITIVE:::have:::have:::agent:::we_5
+Article247_933.txt_3153_2389:::X:::POSITIVE:::sit:::sit:::agent:::we_5
+null
+
+Article247_3475.txt_3153:::8:::2421
+Article247_3475.txt_3153_2421:::X:::next_event:::go:::long
+Article247_3475.txt_3153_2421::: The only problem is that not everybody goes to cocktail parties, or even longs to be up on the latest thing
+Article247_3475.txt_3153_2421:::X:::POSITIVE:::goes:::go:::agent:::everybody_7
+Article247_3475.txt_3153_2421:::X:::POSITIVE:::longs:::long:::agent:::everybody_7
+null
+
+Article247_791.txt_3153:::8:::2521
+Article247_791.txt_3153_2521:::X:::objective:::claim:::represent
+Article247_791.txt_3153_2521::: The paper's lead editorial proclaims that "A Congress so out of step with the people it claims to represent 
+Article247_791.txt_3153_2521:::X:::POSITIVE:::claims:::claim:::agent:::congress_9
+Article247_791.txt_3153_2521:::X:::POSITIVE:::represent:::represent:::agent:::congress_9
+null
+
+Article247_791.txt_3153:::13:::2543
+Article247_791.txt_3153_2543:::X:::next_event:::wear:::blackleather
+Article247_791.txt_3153_2543::: They are supposed to wear matching cotton shirts and shorts and black-leather oxford shoes
+Article247_791.txt_3153_2543:::X:::POSITIVE:::wear:::wear:::agent:::they_1
+Article247_791.txt_3153_2543:::X:::POSITIVE:::blackleather:::blackleather:::agent:::they_1
+null
+
+Article247_885.txt_3153:::8:::2551
+Article247_885.txt_3153_2551:::X:::next_event:::want:::want
+Article247_885.txt_3153_2551::: Godzilla , though, wanted a PG-13 rating, which--by MPAA lore, if not regulation--limits a movie to one "fuck
+Article247_885.txt_3153_2551:::X:::POSITIVE:::wanted:::want:::modifier:::though_3
+Article247_885.txt_3153_2551:::X:::POSITIVE:::wanted:::want:::modifier:::though_3
+null
+
+Article247_885.txt_3153:::8:::2551
+Article247_885.txt_3153_2551:::X:::next_event:::want:::want
+Article247_885.txt_3153_2551::: Godzilla , though, wanted a PG-13 rating, which--by MPAA lore, if not regulation--limits a movie to one "fuck
+Article247_885.txt_3153_2551:::X:::POSITIVE:::wanted:::want:::agent:::godzilla_1
+Article247_885.txt_3153_2551:::X:::POSITIVE:::wanted:::want:::agent:::godzilla_1
+null
+
+Article247_885.txt_3153:::8:::2551
+Article247_885.txt_3153_2551:::X:::next_event:::want:::want
+Article247_885.txt_3153_2551::: Godzilla , though, wanted a PG-13 rating, which--by MPAA lore, if not regulation--limits a movie to one "fuck
+Article247_885.txt_3153_2551:::X:::POSITIVE:::wanted:::want:::recipient:::regulationlimits_16
+Article247_885.txt_3153_2551:::X:::POSITIVE:::wanted:::want:::recipient:::regulationlimits_16
+null
+
+Article247_885.txt_3153:::8:::2551
+Article247_885.txt_3153_2551:::X:::next_event:::want:::want
+Article247_885.txt_3153_2551::: Godzilla , though, wanted a PG-13 rating, which--by MPAA lore, if not regulation--limits a movie to one "fuck
+Article247_885.txt_3153_2551:::X:::POSITIVE:::wanted:::want:::destination:::fuck_21
+Article247_885.txt_3153_2551:::X:::POSITIVE:::wanted:::want:::destination:::fuck_21
+null
+
+Article247_885.txt_3153:::8:::2551
+Article247_885.txt_3153_2551:::X:::next_event:::want:::want
+Article247_885.txt_3153_2551::: Godzilla , though, wanted a PG-13 rating, which--by MPAA lore, if not regulation--limits a movie to one "fuck
+Article247_885.txt_3153_2551:::X:::POSITIVE:::wanted:::want:::recipient:::rating_8
+Article247_885.txt_3153_2551:::X:::POSITIVE:::wanted:::want:::recipient:::rating_8
+null
+
+Article247_660.txt_3153:::7:::2579
+Article247_660.txt_3153_2579:::X:::next_event:::admit:::admit
+Article247_660.txt_3153_2579::: he will admit to sexual relations with Monica Lewinsky, but will not admit to perjury
+Article247_660.txt_3153_2579:::X:::POSITIVE:::admit:::admit:::modal_verb:::will_2
+Article247_660.txt_3153_2579:::X:::NEGETIVE:::admit:::admit:::modal_verb:::will_11
+null
+
+Article247_660.txt_3153:::7:::2579
+Article247_660.txt_3153_2579:::X:::next_event:::admit:::admit
+Article247_660.txt_3153_2579::: he will admit to sexual relations with Monica Lewinsky, but will not admit to perjury
+Article247_660.txt_3153_2579:::X:::POSITIVE:::admit:::admit:::agent:::he_1
+Article247_660.txt_3153_2579:::X:::NEGETIVE:::admit:::admit:::agent:::he_1
+null
+
+Article247_660.txt_3153:::10:::2594
+Article247_660.txt_3153_2594:::X:::objective:::prepare:::counter
+Article247_660.txt_3153_2594::: embassy there was closed yesterday, and the last American diplomats were evacuated as the teetering Congoese government prepares to counter advances from Rwanda-backed rebels
+Article247_660.txt_3153_2594:::X:::POSITIVE:::prepares:::prepare:::agent:::government_18
+Article247_660.txt_3153_2594:::X:::POSITIVE:::counter:::counter:::agent:::government_18
+null
+
+Article247_3283.txt_3153:::10:::2645
+Article247_3283.txt_3153_2645:::X:::next_event:::use:::find
+Article247_3283.txt_3153_2645::: indeed, Chatterbox himself used Waldrop as a source from time to time, and always found his memory and powers of analysis razor-sharp
+Article247_3283.txt_3153_2645:::X:::POSITIVE:::used:::use:::agent:::chatterbox_3
+Article247_3283.txt_3153_2645:::X:::POSITIVE:::found:::find:::agent:::chatterbox_3
+null
+
+Article247_3283.txt_3153:::20:::2664
+Article247_3283.txt_3153_2664:::X:::next_event:::suppose:::unwrap
+Article247_3283.txt_3153_2664::: You know, suppose that Felt comes out and unwraps the whole thing
+Article247_3283.txt_3153_2664:::X:::POSITIVE:::suppose:::suppose:::agent:::you_1
+Article247_3283.txt_3153_2664:::X:::POSITIVE:::unwraps:::unwrap:::agent:::you_1
+null
+
+Article247_3283.txt_3153:::20:::2664
+Article247_3283.txt_3153_2664:::X:::next_event:::know:::suppose
+Article247_3283.txt_3153_2664::: You know, suppose that Felt comes out and unwraps the whole thing
+Article247_3283.txt_3153_2664:::X:::POSITIVE:::know:::know:::agent:::you_1
+Article247_3283.txt_3153_2664:::X:::POSITIVE:::suppose:::suppose:::agent:::you_1
+null
+
+Article247_3283.txt_3153:::20:::2664
+Article247_3283.txt_3153_2664:::X:::next_event:::know:::unwrap
+Article247_3283.txt_3153_2664::: You know, suppose that Felt comes out and unwraps the whole thing
+Article247_3283.txt_3153_2664:::X:::POSITIVE:::know:::know:::agent:::you_1
+Article247_3283.txt_3153_2664:::X:::POSITIVE:::unwraps:::unwrap:::agent:::you_1
+null
+
+Article247_81.txt_3153:::7:::2730
+Article247_81.txt_3153_2730:::X:::objective:::expect:::happen
+Article247_81.txt_3153_2730::: Journalism! Don't expect it to happen again
+Article247_81.txt_3153_2730:::X:::NEGETIVE:::expect:::expect:::recipient:::it_5
+Article247_81.txt_3153_2730:::X:::POSITIVE:::happen:::happen:::agent:::it_5
+null
+
+Article247_81.txt_3153:::9:::2733
+Article247_81.txt_3153_2733:::X:::objective:::know:::get
+Article247_81.txt_3153_2733:::" Meaning what? That Drudge has different [fewer?] First Amendment rights than Blumenthal? That Kalb knows how to get his name in the papers?
+Article247_81.txt_3153_2733:::X:::POSITIVE:::knows:::know:::agent:::kalb_17
+Article247_81.txt_3153_2733:::X:::POSITIVE:::get:::get:::agent:::kalb_17
+null
+
+Article247_575.txt_3153:::10:::2753
+Article247_575.txt_3153_2753:::X:::objective:::stand:::reap
+Article247_575.txt_3153_2753::: defense industry, which stands to "reap huge profits" from increased weapons sales to new NATO members
+Article247_575.txt_3153_2753:::X:::POSITIVE:::stands:::stand:::agent:::industry_2
+Article247_575.txt_3153_2753:::X:::POSITIVE:::reap:::reap:::agent:::industry_2
+null
+
+Article247_575.txt_3153:::10:::2753
+Article247_575.txt_3153_2753:::X:::objective:::stand:::reap
+Article247_575.txt_3153_2753::: defense industry, which stands to "reap huge profits" from increased weapons sales to new NATO members
+Article247_575.txt_3153_2753:::X:::POSITIVE:::stands:::stand:::agent:::industry_2
+Article247_575.txt_3153_2753:::X:::POSITIVE:::reap:::reap:::origin:::industry_2
+null
+
+Article247_575.txt_3153:::16:::2780
+Article247_575.txt_3153_2780:::X:::next_event:::get:::produce
+Article247_575.txt_3153_2780::: The Hubbell indictment gets lots of ink and produces the day's strangest quote
+Article247_575.txt_3153_2780:::X:::POSITIVE:::gets:::get:::agent:::indictment_3
+Article247_575.txt_3153_2780:::X:::POSITIVE:::produces:::produce:::agent:::indictment_3
+null
+
+Article247_602.txt_3153:::9:::2799
+Article247_602.txt_3153_2799:::X:::objective:::do:::improve
+Article247_602.txt_3153_2799::: USAT and the WP say Ford did it to improve fuel economy, but don't really get into Honda's motivation
+Article247_602.txt_3153_2799:::X:::POSITIVE:::did:::do:::recipient:::it_8
+Article247_602.txt_3153_2799:::X:::POSITIVE:::improve:::improve:::agent:::it_8
+null
+
+Article247_602.txt_3153:::9:::2799
+Article247_602.txt_3153_2799:::X:::next_event:::do:::get
+Article247_602.txt_3153_2799::: USAT and the WP say Ford did it to improve fuel economy, but don't really get into Honda's motivation
+Article247_602.txt_3153_2799:::X:::POSITIVE:::did:::do:::agent:::ford_6
+Article247_602.txt_3153_2799:::X:::NEGETIVE:::get:::get:::agent:::ford_6
+null
+
+Article247_556.txt_3153:::8:::2913
+Article247_556.txt_3153_2913:::X:::next_event:::run:::emphasize
+Article247_556.txt_3153_2913::: (The headline over the story at USAT , which runs it as its top-of-the-front-page "talker," emphasizes the "big risk
+Article247_556.txt_3153_2913:::X:::POSITIVE:::runs:::run:::agent:::headline_2
+Article247_556.txt_3153_2913:::X:::POSITIVE:::emphasizes:::emphasize:::agent:::headline_2
+null
+
+Article247_556.txt_3153:::13:::2936
+Article247_556.txt_3153_2936:::X:::objective:::have:::wait
+Article247_556.txt_3153_2936::: The reader has to wait until the tenth paragraph to learn that former Rep
+Article247_556.txt_3153_2936:::X:::POSITIVE:::has:::have:::agent:::reader_2
+Article247_556.txt_3153_2936:::X:::POSITIVE:::wait:::wait:::agent:::reader_2
+null
+
+Article247_556.txt_3153:::13:::2936
+Article247_556.txt_3153_2936:::X:::objective:::have:::learn
+Article247_556.txt_3153_2936::: The reader has to wait until the tenth paragraph to learn that former Rep
+Article247_556.txt_3153_2936:::X:::POSITIVE:::has:::have:::agent:::reader_2
+Article247_556.txt_3153_2936:::X:::POSITIVE:::learn:::learn:::agent:::reader_2
+null
+
+Article247_584.txt_3153:::7:::2945
+Article247_584.txt_3153_2945:::X:::objective:::urge:::test
+Article247_584.txt_3153_2945::: To head it off, Clinton telephoned Pakistan's prime minister to urge him not to test nukes too
+Article247_584.txt_3153_2945:::X:::POSITIVE:::urge:::urge:::recipient:::him_14
+Article247_584.txt_3153_2945:::X:::NEGETIVE:::test:::test:::agent:::him_14
+null
+
+Article247_584.txt_3153:::13:::2967
+Article247_584.txt_3153_2967:::X:::objective:::claim:::know
+Article247_584.txt_3153_2967::: But the paper doesn't claim to know how things turn out
+Article247_584.txt_3153_2967:::X:::NEGETIVE:::claim:::claim:::agent:::paper_3
+Article247_584.txt_3153_2967:::X:::POSITIVE:::know:::know:::agent:::paper_3
+null
+
+Article247_906.txt_3153:::24:::3048
+Article247_906.txt_3153_3048:::X:::next_event:::fill:::fill
+Article247_906.txt_3153_3048::: and beside the table a metal container filled with empty racks
+Article247_906.txt_3153_3048:::X:::POSITIVE:::filled:::fill:::agent:::container_7
+Article247_906.txt_3153_3048:::X:::POSITIVE:::filled:::fill:::agent:::container_7
+null
+
+Article247_906.txt_3153:::24:::3048
+Article247_906.txt_3153_3048:::X:::next_event:::fill:::fill
+Article247_906.txt_3153_3048::: and beside the table a metal container filled with empty racks
+Article247_906.txt_3153_3048:::X:::POSITIVE:::filled:::fill:::raw_material:::racks_11
+Article247_906.txt_3153_3048:::X:::POSITIVE:::filled:::fill:::raw_material:::racks_11
+null
+
+Article247_906.txt_3153:::25:::3052
+Article247_906.txt_3153_3052:::X:::next_event:::look:::say
+Article247_906.txt_3153_3052::: He looked at her and said, "Monday morning
+Article247_906.txt_3153_3052:::X:::POSITIVE:::looked:::look:::agent:::he_1
+Article247_906.txt_3153_3052:::X:::POSITIVE:::said:::say:::agent:::he_1
+null
+
+Article247_906.txt_3153:::25:::3053
+Article247_906.txt_3153_3053:::X:::next_event:::thank:::drive
+Article247_906.txt_3153_3053:::" She thanked him and drove home
+Article247_906.txt_3153_3053:::X:::POSITIVE:::thanked:::thank:::agent:::she_1
+Article247_906.txt_3153_3053:::X:::POSITIVE:::drove:::drive:::agent:::she_1
+null
+
+Article247_830.txt_3153:::7:::3057
+Article247_830.txt_3153_3057:::X:::next_event:::use:::run
+Article247_830.txt_3153_3057::: The Washington Post doesn't use a banner, but instead runs separate headlines over its Social Security lead and first-day-of-Clinton's-defense impeachment off-lead
+Article247_830.txt_3153_3057:::X:::NEGETIVE:::use:::use:::agent:::post_3
+Article247_830.txt_3153_3057:::X:::POSITIVE:::runs:::run:::agent:::post_3
+null
+
+Article247_3280.txt_3153:::12:::3154
+Article247_3280.txt_3153_3154:::X:::objective:::have:::revise
+Article247_3280.txt_3153_3154::: It seems that the experts will have to revise their casualty numbers for both the Kosovo conflict and the Littleton shootings
+Article247_3280.txt_3153_3154:::X:::POSITIVE:::have:::have:::agent:::experts_5
+Article247_3280.txt_3153_3154:::X:::POSITIVE:::revise:::revise:::agent:::experts_5
+null
+

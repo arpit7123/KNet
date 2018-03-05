@@ -1,0 +1,1190 @@
+513C-L166.txt_3153:::5:::4
+513C-L166.txt_3153_4:::X:::objective:::have:::thank
+513C-L166.txt_3153_4::: It was all of those positive influences that I have to thank for opening my eyes to dentistry as a profession
+513C-L166.txt_3153_4:::X:::POSITIVE:::have:::have:::agent:::i_9
+513C-L166.txt_3153_4:::X:::POSITIVE:::thank:::thank:::agent:::i_9
+null
+
+513C-L166.txt_3153:::5:::8
+null
+513C-L166.txt_3153_8::: Unfortunately these improvements are costly, so additional funds are necessary
+513C-L166.txt_3153_8:::X:::POSITIVE:::are:::be:::agent:::X
+513C-L166.txt_3153_8:::X:::are:::be:::POSITIVE:::costly:::costly
+null
+
+513C-L166.txt_3153:::5:::8
+null
+513C-L166.txt_3153_8::: Unfortunately these improvements are costly, so additional funds are necessary
+513C-L166.txt_3153_8:::X:::POSITIVE:::are:::be:::agent:::X
+513C-L166.txt_3153_8:::X:::are:::be:::POSITIVE:::necessary:::necessary
+null
+
+513C-L166.txt_3153:::5:::14
+513C-L166.txt_3153_14:::X:::objective:::like:::thank
+513C-L166.txt_3153_14::: On behalf of all IUSD students, I would like to personally thank you for your past support of dental education
+513C-L166.txt_3153_14:::X:::POSITIVE:::like:::like:::agent:::i_8
+513C-L166.txt_3153_14:::X:::POSITIVE:::thank:::thank:::agent:::i_8
+null
+
+513C-L168.txt_3153:::5:::43
+513C-L168.txt_3153_43:::X:::objective:::continue:::keep
+513C-L168.txt_3153_43::: I will continue to keep you informed of the progress on this project
+513C-L168.txt_3153_43:::X:::POSITIVE:::continue:::continue:::agent:::i_1
+513C-L168.txt_3153_43:::X:::POSITIVE:::keep:::keep:::agent:::i_1
+null
+
+513C-L168.txt_3153:::5:::44
+513C-L168.txt_3153_44:::X:::objective:::like:::contact
+513C-L168.txt_3153_44::: and if there are any other individuals you would like me to contact, I will be happy to do so
+513C-L168.txt_3153_44:::X:::POSITIVE:::like:::like:::recipient:::me_11
+513C-L168.txt_3153_44:::X:::POSITIVE:::contact:::contact:::agent:::me_11
+null
+
+406CUL293.txt_3153:::5:::60
+406CUL293.txt_3153_60:::X:::objective:::continue:::meet
+406CUL293.txt_3153_60::: Your gift encourages us to continue to meet the varied international needs of our city with challenging and interesting programs and services
+406CUL293.txt_3153_60:::X:::POSITIVE:::continue:::continue:::agent:::us_4
+406CUL293.txt_3153_60:::X:::POSITIVE:::meet:::meet:::agent:::us_4
+null
+
+406CUL293.txt_3153:::5:::60
+406CUL293.txt_3153_60:::X:::objective:::encourage:::continue
+406CUL293.txt_3153_60::: Your gift encourages us to continue to meet the varied international needs of our city with challenging and interesting programs and services
+406CUL293.txt_3153_60:::X:::POSITIVE:::encourages:::encourage:::recipient:::us_4
+406CUL293.txt_3153_60:::X:::POSITIVE:::continue:::continue:::agent:::us_4
+null
+
+401CVL005.txt_3153:::6:::87
+401CVL005.txt_3153_87:::X:::next_event:::highlight:::help
+401CVL005.txt_3153_87::: Our annual report highlights a few of our successes during the past year and the partners who helped make them happen
+401CVL005.txt_3153_87:::X:::POSITIVE:::highlights:::highlight:::prep_during:::partners_16
+401CVL005.txt_3153_87:::X:::POSITIVE:::helped:::help:::agent:::partners_16
+null
+
+401CVL006.txt_3153:::5:::142
+401CVL006.txt_3153_142:::X:::next_event:::need:::enable
+401CVL006.txt_3153_142::: We need your help to continue our work, particularly as we enable area families with low incomes to become home owners
+401CVL006.txt_3153_142:::X:::POSITIVE:::need:::need:::agent:::we_1
+401CVL006.txt_3153_142:::X:::POSITIVE:::enable:::enable:::agent:::we_12
+null
+
+401CVL006.txt_3153:::5:::142
+401CVL006.txt_3153_142:::X:::objective:::need:::continue
+401CVL006.txt_3153_142::: We need your help to continue our work, particularly as we enable area families with low incomes to become home owners
+401CVL006.txt_3153_142:::X:::POSITIVE:::need:::need:::recipient:::help_4
+401CVL006.txt_3153_142:::X:::POSITIVE:::continue:::continue:::agent:::help_4
+null
+
+401CVL006.txt_3153:::5:::149
+401CVL006.txt_3153_149:::X:::objective:::continue:::rebuild
+401CVL006.txt_3153_149::: Please join us as we continue to rebuild this historic neighborhood into a place of pride and community strength
+401CVL006.txt_3153_149:::X:::POSITIVE:::continue:::continue:::agent:::we_5
+401CVL006.txt_3153_149:::X:::POSITIVE:::rebuild:::rebuild:::agent:::we_5
+null
+
+516CZL212.txt_3153:::5:::165
+516CZL212.txt_3153_165:::X:::next_event:::help:::assure
+516CZL212.txt_3153_165:::The IUPUI Campus Campaign celebrates our partnership and helps us, as individual members of that partnership, to assure the future
+516CZL212.txt_3153_165:::X:::POSITIVE:::helps:::help:::recipient:::us_10
+516CZL212.txt_3153_165:::X:::POSITIVE:::assure:::assure:::agent:::us_10
+null
+
+516CZL212.txt_3153:::5:::165
+516CZL212.txt_3153_165:::X:::next_event:::celebrate:::help
+516CZL212.txt_3153_165:::The IUPUI Campus Campaign celebrates our partnership and helps us, as individual members of that partnership, to assure the future
+516CZL212.txt_3153_165:::X:::POSITIVE:::celebrates:::celebrate:::agent:::campaign_4
+516CZL212.txt_3153_165:::X:::POSITIVE:::helps:::help:::agent:::campaign_4
+null
+
+516CZL212.txt_3153:::5:::165
+516CZL212.txt_3153_165:::X:::objective:::help:::assure
+516CZL212.txt_3153_165:::The IUPUI Campus Campaign celebrates our partnership and helps us, as individual members of that partnership, to assure the future
+516CZL212.txt_3153_165:::X:::POSITIVE:::helps:::help:::recipient:::us_10
+516CZL212.txt_3153_165:::X:::POSITIVE:::assure:::assure:::agent:::us_10
+null
+
+516CZL212.txt_3153:::5:::167
+516CZL212.txt_3153_167:::X:::objective:::volunteer:::help
+516CZL212.txt_3153_167::: A group of your colleagues recently volunteered to help set the priorities for this campaign
+516CZL212.txt_3153_167:::X:::POSITIVE:::volunteered:::volunteer:::agent:::group_2
+516CZL212.txt_3153_167:::X:::POSITIVE:::help:::help:::agent:::group_2
+null
+
+516CZL212.txt_3153:::5:::180
+516CZL212.txt_3153_180:::X:::objective:::choose:::do
+516CZL212.txt_3153_180::: We have the chance to shape the future of IUPUI by what we choose to do here
+516CZL212.txt_3153_180:::X:::POSITIVE:::choose:::choose:::recipient:::what_12
+516CZL212.txt_3153_180:::X:::POSITIVE:::do:::do:::agent:::what_12
+null
+
+513C-L161.txt_3153:::5:::189
+513C-L161.txt_3153_189:::X:::objective:::allow:::adjust
+513C-L161.txt_3153_189::: This allows donors to adjust their budget without losing any money they are already receiving
+513C-L161.txt_3153_189:::X:::POSITIVE:::allows:::allow:::recipient:::donors_3
+513C-L161.txt_3153_189:::X:::POSITIVE:::adjust:::adjust:::agent:::donors_3
+null
+
+513C-L161.txt_3153:::5:::193
+513C-L161.txt_3153_193:::X:::objective:::like:::help
+513C-L161.txt_3153_193::: If you would like to help us reach our goal, we have enclosed a pledge card for your convenience
+513C-L161.txt_3153_193:::X:::POSITIVE:::like:::like:::agent:::you_2
+513C-L161.txt_3153_193:::X:::POSITIVE:::help:::help:::agent:::you_2
+null
+
+513C-L161.txt_3153:::5:::197
+513C-L161.txt_3153_197:::X:::objective:::continue:::provide
+513C-L161.txt_3153_197::: Support from the Century Club helps us continue to provide a progressive learning and working environment for our students, faculty and staff
+513C-L161.txt_3153_197:::X:::POSITIVE:::continue:::continue:::agent:::us_6
+513C-L161.txt_3153_197:::X:::POSITIVE:::provide:::provide:::agent:::us_6
+null
+
+530C-L221.txt_3153:::6:::325
+530C-L221.txt_3153_325:::X:::next_event:::consider:::assume
+530C-L221.txt_3153_325::: As I consider the talented, loyal and resourceful leaders on these Boards, I assume few, if any, calls will be necessary
+530C-L221.txt_3153_325:::X:::POSITIVE:::consider:::consider:::agent:::i_2
+530C-L221.txt_3153_325:::X:::POSITIVE:::assume:::assume:::agent:::i_15
+null
+
+130CWL228.txt_3153:::5:::402
+130CWL228.txt_3153_402:::X:::objective:::need:::help
+130CWL228.txt_3153_402::: We need volunteers to help provide essential services to families whose lives are tragically changed by the loss of a baby
+130CWL228.txt_3153_402:::X:::POSITIVE:::need:::need:::recipient:::volunteers_3
+130CWL228.txt_3153_402:::X:::POSITIVE:::help:::help:::agent:::volunteers_3
+null
+
+513C-L150.txt_3153:::5:::417
+513C-L150.txt_3153_417:::X:::next_event:::make:::realize
+513C-L150.txt_3153_417::: This endowment is a fitting tribute to a man who made a difference, and will realize one of Steve's passions - supporting students
+513C-L150.txt_3153_417:::X:::POSITIVE:::made:::make:::agent:::man_9
+513C-L150.txt_3153_417:::X:::POSITIVE:::realize:::realize:::agent:::man_9
+null
+
+513C-L150.txt_3153:::5:::421
+513C-L150.txt_3153_421:::X:::objective:::wish:::make
+513C-L150.txt_3153_421::: You may use the attached form if you wish to make a gift
+513C-L150.txt_3153_421:::X:::POSITIVE:::wish:::wish:::agent:::you_8
+513C-L150.txt_3153_421:::X:::POSITIVE:::make:::make:::agent:::you_8
+null
+
+401CVL007.txt_3153:::5:::497
+401CVL007.txt_3153_497:::X:::objective:::hesitate:::call
+401CVL007.txt_3153_497::: If you have any questions or suggestions for SEND's programs, please do not hesitate to call me
+401CVL007.txt_3153_497:::X:::NEGETIVE:::hesitate:::hesitate:::agent:::please_13
+401CVL007.txt_3153_497:::X:::POSITIVE:::call:::call:::agent:::please_13
+null
+
+503C-L087.txt_3153:::5:::507
+503C-L087.txt_3153_507:::X:::next_event:::contribute:::support
+503C-L087.txt_3153_507::: Whatever you can contribute, you will be helping to support Geology at IUPUI
+503C-L087.txt_3153_507:::X:::POSITIVE:::contribute:::contribute:::agent:::you_2
+503C-L087.txt_3153_507:::X:::POSITIVE:::support:::support:::agent:::you_6
+null
+
+501C-L077.txt_3153:::5:::515
+501C-L077.txt_3153_515:::X:::next_event:::bring:::touch
+501C-L077.txt_3153_515::: These newest Scholars bring the number to ten--ten who, like Christa McAuliffe, will touch the future
+501C-L077.txt_3153_515:::X:::POSITIVE:::bring:::bring:::destination:::tenten_8
+501C-L077.txt_3153_515:::X:::POSITIVE:::touch:::touch:::agent:::tenten_8
+null
+
+513C-L182.txt_3153:::5:::547
+513C-L182.txt_3153_547:::X:::objective:::invite:::join
+513C-L182.txt_3153_547::: I am excited about this new program and invite you to join me in building a strong foundation for the project
+513C-L182.txt_3153_547:::X:::POSITIVE:::invite:::invite:::recipient:::you_10
+513C-L182.txt_3153_547:::X:::POSITIVE:::join:::join:::agent:::you_10
+null
+
+509C-L115.txt_3153:::5:::565
+509C-L115.txt_3153_565:::X:::objective:::struggle:::clear
+509C-L115.txt_3153_565::: Recently a project' arose that should be interesting to you as a former student who struggled to clear the financial hurdle of education
+509C-L115.txt_3153_565:::X:::POSITIVE:::struggled:::struggle:::agent:::student_15
+509C-L115.txt_3153_565:::X:::POSITIVE:::clear:::clear:::agent:::student_15
+null
+
+509C-L115.txt_3153:::5:::571
+509C-L115.txt_3153_571:::X:::next_event:::know:::determine
+509C-L115.txt_3153_571::: As you probably well know, the resources provided by such scholarships might well determine whether or not promising students can continue their education
+509C-L115.txt_3153_571:::X:::POSITIVE:::know:::know:::modifier:::well_4
+509C-L115.txt_3153_571:::X:::POSITIVE:::determine:::determine:::modifier:::well_14
+null
+
+504C-L099.txt_3153:::5:::593
+504C-L099.txt_3153_593:::X:::causes:::mean:::enjoy
+504C-L099.txt_3153_593::: Your contribution means so much to the students and public who enjoy our outreach programs and gallery exhibitions
+504C-L099.txt_3153_593:::X:::POSITIVE:::means:::mean:::destination:::public_10
+504C-L099.txt_3153_593:::X:::POSITIVE:::enjoy:::enjoy:::agent:::public_10
+null
+
+504C-L099.txt_3153:::5:::593
+504C-L099.txt_3153_593:::X:::causes:::mean:::enjoy
+504C-L099.txt_3153_593::: Your contribution means so much to the students and public who enjoy our outreach programs and gallery exhibitions
+504C-L099.txt_3153_593:::X:::POSITIVE:::means:::mean:::destination:::students_8
+504C-L099.txt_3153_593:::X:::POSITIVE:::enjoy:::enjoy:::agent:::students_8
+null
+
+513C-L165.txt_3153:::5:::681
+513C-L165.txt_3153_681:::X:::next_event:::consider:::help
+513C-L165.txt_3153_681::: We hope that you will consider supporting this special project and help us honor a man that has given us all so much
+513C-L165.txt_3153_681:::X:::POSITIVE:::consider:::consider:::agent:::you_4
+513C-L165.txt_3153_681:::X:::POSITIVE:::help:::help:::agent:::you_4
+null
+
+120CUL044.txt_3153:::6:::731
+120CUL044.txt_3153_731:::X:::next_event:::conflict:::conflict
+120CUL044.txt_3153_731::: and life skills (conflict resolution, peer pressure, decision-making)
+120CUL044.txt_3153_731:::X:::POSITIVE:::conflict:::conflict:::agent:::skills_3
+120CUL044.txt_3153_731:::X:::POSITIVE:::conflict:::conflict:::agent:::skills_3
+null
+
+535C-L205.txt_3153:::5:::771
+535C-L205.txt_3153_771:::X:::next_event:::require:::accommodate
+535C-L205.txt_3153_771::: Should you have extenuating circumstances, require special attention, or just need assistance, we'll do almost anything to accommodate you
+535C-L205.txt_3153_771:::X:::POSITIVE:::require:::require:::agent:::you_2
+535C-L205.txt_3153_771:::X:::POSITIVE:::accommodate:::accommodate:::recipient:::you_23
+null
+
+535C-L205.txt_3153:::5:::771
+535C-L205.txt_3153_771:::X:::next_event:::need:::accommodate
+535C-L205.txt_3153_771::: Should you have extenuating circumstances, require special attention, or just need assistance, we'll do almost anything to accommodate you
+535C-L205.txt_3153_771:::X:::POSITIVE:::need:::need:::agent:::you_2
+535C-L205.txt_3153_771:::X:::POSITIVE:::accommodate:::accommodate:::recipient:::you_23
+null
+
+513C-L164.txt_3153:::5:::786
+513C-L164.txt_3153_786:::X:::objective:::like:::extend
+513C-L164.txt_3153_786::: Now that you are of alumni status, I would like to extend an invitation to you to join our CENTURY CLUB
+513C-L164.txt_3153_786:::X:::POSITIVE:::like:::like:::agent:::i_9
+513C-L164.txt_3153_786:::X:::POSITIVE:::extend:::extend:::agent:::i_9
+null
+
+135CWL234.txt_3153:::5:::836
+135CWL234.txt_3153_836:::X:::objective:::hesitate:::email
+135CWL234.txt_3153_836::: If you have any questions, please don't hesitate to call or e-mail me
+135CWL234.txt_3153_836:::X:::NEGETIVE:::hesitate:::hesitate:::agent:::please_7
+135CWL234.txt_3153_836:::X:::POSITIVE:::email:::email:::agent:::please_7
+null
+
+135CWL234.txt_3153:::5:::836
+135CWL234.txt_3153_836:::X:::objective:::hesitate:::call
+135CWL234.txt_3153_836::: If you have any questions, please don't hesitate to call or e-mail me
+135CWL234.txt_3153_836:::X:::NEGETIVE:::hesitate:::hesitate:::agent:::please_7
+135CWL234.txt_3153_836:::X:::POSITIVE:::call:::call:::agent:::please_7
+null
+
+119CWL047.txt_3153:::5:::846
+119CWL047.txt_3153_846:::X:::objective:::continue:::need
+119CWL047.txt_3153_846::: Therefore, this age group continues to need more adult supervision and positive programs during after school hours
+119CWL047.txt_3153_846:::X:::POSITIVE:::continues:::continue:::agent:::group_5
+119CWL047.txt_3153_846:::X:::POSITIVE:::need:::need:::agent:::group_5
+null
+
+119CWL047.txt_3153:::5:::851
+119CWL047.txt_3153_851:::X:::objective:::allow:::qualify
+119CWL047.txt_3153_851::: Plan their high school program to allow them to qualify for future higher education, even if the current goals are vocational
+119CWL047.txt_3153_851:::X:::POSITIVE:::allow:::allow:::recipient:::them_8
+119CWL047.txt_3153_851:::X:::POSITIVE:::qualify:::qualify:::agent:::them_8
+null
+
+534C-L252.txt_3153:::5:::894
+534C-L252.txt_3153_894:::X:::next_event:::thank:::ask
+534C-L252.txt_3153_894::: Name, I am writing to thank you for your past gifts to the IUPUI University Libraries and to ask you to renew that support
+534C-L252.txt_3153_894:::X:::POSITIVE:::thank:::thank:::recipient:::you_8
+534C-L252.txt_3153_894:::X:::POSITIVE:::ask:::ask:::recipient:::you_19
+null
+
+534C-L252.txt_3153:::5:::894
+534C-L252.txt_3153_894:::X:::next_event:::thank:::renew
+534C-L252.txt_3153_894::: Name, I am writing to thank you for your past gifts to the IUPUI University Libraries and to ask you to renew that support
+534C-L252.txt_3153_894:::X:::POSITIVE:::thank:::thank:::recipient:::you_8
+534C-L252.txt_3153_894:::X:::POSITIVE:::renew:::renew:::agent:::you_19
+null
+
+534C-L252.txt_3153:::5:::894
+534C-L252.txt_3153_894:::X:::objective:::ask:::renew
+534C-L252.txt_3153_894::: Name, I am writing to thank you for your past gifts to the IUPUI University Libraries and to ask you to renew that support
+534C-L252.txt_3153_894:::X:::POSITIVE:::ask:::ask:::recipient:::you_19
+534C-L252.txt_3153_894:::X:::POSITIVE:::renew:::renew:::agent:::you_19
+null
+
+120CUL045.txt_3153:::5:::921
+120CUL045.txt_3153_921:::X:::next_event:::conflict:::conflict
+120CUL045.txt_3153_921::: and life skills (conflict resolution, peer pressure, decision-making)
+120CUL045.txt_3153_921:::X:::POSITIVE:::conflict:::conflict:::agent:::skills_3
+120CUL045.txt_3153_921:::X:::POSITIVE:::conflict:::conflict:::agent:::skills_3
+null
+
+308CUL226.txt_3153:::5:::974
+308CUL226.txt_3153_974:::X:::objective:::continue:::carry
+308CUL226.txt_3153_974::: It is only with the help of concerned citizens that we are able to continue to carry out our mission effectively
+308CUL226.txt_3153_974:::X:::POSITIVE:::continue:::continue:::agent:::we_11
+308CUL226.txt_3153_974:::X:::POSITIVE:::carry:::carry:::agent:::we_11
+null
+
+308CUL226.txt_3153:::5:::975
+308CUL226.txt_3153_975:::X:::next_event:::preserve:::protect
+308CUL226.txt_3153_975::: With the help of friends like you, ELM will be here to preserve and protect the Massachusetts environment for many years to come
+308CUL226.txt_3153_975:::X:::POSITIVE:::preserve:::preserve:::agent:::elm_9
+308CUL226.txt_3153_975:::X:::POSITIVE:::protect:::protect:::agent:::elm_9
+null
+
+530C-L214.txt_3153:::5:::1012
+530C-L214.txt_3153_1012:::X:::objective:::allow:::hire
+530C-L214.txt_3153_1012:::" "The Law Library's funding is insufficient to allow for appropriate collection development and maintenance, to hire a sufficient number of employees, especially professional librarians
+530C-L214.txt_3153_1012:::X:::POSITIVE:::allow:::allow:::agent:::funding_5
+530C-L214.txt_3153_1012:::X:::POSITIVE:::hire:::hire:::agent:::funding_5
+null
+
+530C-L214.txt_3153:::5:::1032
+530C-L214.txt_3153_1032:::X:::next_event:::respond:::provide
+530C-L214.txt_3153_1032::: It is our hope that all Board members will affirmatively respond and that each will provide some level of financial support for our school
+530C-L214.txt_3153_1032:::X:::POSITIVE:::respond:::respond:::modal_verb:::will_9
+530C-L214.txt_3153_1032:::X:::POSITIVE:::provide:::provide:::modal_verb:::will_15
+null
+
+509C-L116.txt_3153:::5:::1044
+509C-L116.txt_3153_1044:::X:::next_event:::stress:::linguistics
+509C-L116.txt_3153_1044::: The new requirements stress closer attention to individual learning between students and advisers and emphasize the connections among literary study, writing, and linguistics
+509C-L116.txt_3153_1044:::X:::POSITIVE:::stress:::stress:::agent:::requirements_3
+509C-L116.txt_3153_1044:::X:::POSITIVE:::linguistics:::linguistics:::agent:::requirements_3
+null
+
+509C-L116.txt_3153:::5:::1044
+509C-L116.txt_3153_1044:::X:::next_event:::emphasize:::linguistics
+509C-L116.txt_3153_1044::: The new requirements stress closer attention to individual learning between students and advisers and emphasize the connections among literary study, writing, and linguistics
+509C-L116.txt_3153_1044:::X:::POSITIVE:::emphasize:::emphasize:::agent:::requirements_3
+509C-L116.txt_3153_1044:::X:::POSITIVE:::linguistics:::linguistics:::agent:::requirements_3
+null
+
+504C-L102.txt_3153:::5:::1078
+504C-L102.txt_3153_1078:::X:::next_event:::choose:::enjoy
+504C-L102.txt_3153_1078::: However you choose to participate, I know you'll enjoy being a part of the Herron School of Art and Gallery
+504C-L102.txt_3153_1078:::X:::POSITIVE:::choose:::choose:::agent:::you_2
+504C-L102.txt_3153_1078:::X:::POSITIVE:::enjoy:::enjoy:::agent:::you_9
+null
+
+504C-L102.txt_3153:::5:::1078
+504C-L102.txt_3153_1078:::X:::next_event:::participate:::enjoy
+504C-L102.txt_3153_1078::: However you choose to participate, I know you'll enjoy being a part of the Herron School of Art and Gallery
+504C-L102.txt_3153_1078:::X:::POSITIVE:::participate:::participate:::agent:::you_2
+504C-L102.txt_3153_1078:::X:::POSITIVE:::enjoy:::enjoy:::agent:::you_9
+null
+
+504C-L102.txt_3153:::5:::1078
+504C-L102.txt_3153_1078:::X:::objective:::choose:::participate
+504C-L102.txt_3153_1078::: However you choose to participate, I know you'll enjoy being a part of the Herron School of Art and Gallery
+504C-L102.txt_3153_1078:::X:::POSITIVE:::choose:::choose:::agent:::you_2
+504C-L102.txt_3153_1078:::X:::POSITIVE:::participate:::participate:::agent:::you_2
+null
+
+514C-L132.txt_3153:::5:::1127
+514C-L132.txt_3153_1127:::X:::objective:::continue:::rise
+514C-L132.txt_3153_1127::: Despite our efforts at innovation and efficiency, however, the cost of providing a quality educational experience continues to rise
+514C-L132.txt_3153_1127:::X:::POSITIVE:::continues:::continue:::agent:::cost_12
+514C-L132.txt_3153_1127:::X:::POSITIVE:::rise:::rise:::agent:::cost_12
+null
+
+407CQL124.txt_3153:::5:::1173
+407CQL124.txt_3153_1173:::X:::objective:::cause:::cling
+407CQL124.txt_3153_1173::: The neuropathy and blindness caused him to cling to the center walls for balance and orientation
+407CQL124.txt_3153_1173:::X:::POSITIVE:::caused:::cause:::recipient:::him_6
+407CQL124.txt_3153_1173:::X:::POSITIVE:::cling:::cling:::agent:::him_6
+null
+
+407CQL124.txt_3153:::5:::1187
+407CQL124.txt_3153_1187:::X:::next_event:::change:::go
+407CQL124.txt_3153_1187::: But the "concrete baby", AKA "Spiderman", changed his mind and went skiing
+407CQL124.txt_3153_1187:::X:::POSITIVE:::changed:::change:::agent:::baby_4
+407CQL124.txt_3153_1187:::X:::POSITIVE:::went:::go:::agent:::baby_4
+null
+
+407CQL124.txt_3153:::5:::1204
+407CQL124.txt_3153_1204:::X:::objective:::have:::take
+407CQL124.txt_3153_1204::: The blurred vision, sever stomach cramps, headaches, constant fatigue, and vomiting would have to take a back seat to the war
+407CQL124.txt_3153_1204:::X:::POSITIVE:::have:::have:::agent:::vision_3
+407CQL124.txt_3153_1204:::X:::POSITIVE:::take:::take:::agent:::vision_3
+null
+
+407CQL124.txt_3153:::5:::1204
+407CQL124.txt_3153_1204:::X:::objective:::have:::take
+407CQL124.txt_3153_1204::: The blurred vision, sever stomach cramps, headaches, constant fatigue, and vomiting would have to take a back seat to the war
+407CQL124.txt_3153_1204:::X:::POSITIVE:::have:::have:::agent:::fatigue_12
+407CQL124.txt_3153_1204:::X:::POSITIVE:::take:::take:::agent:::fatigue_12
+null
+
+407CQL124.txt_3153:::5:::1204
+407CQL124.txt_3153_1204:::X:::objective:::have:::take
+407CQL124.txt_3153_1204::: The blurred vision, sever stomach cramps, headaches, constant fatigue, and vomiting would have to take a back seat to the war
+407CQL124.txt_3153_1204:::X:::POSITIVE:::have:::have:::agent:::cramps_7
+407CQL124.txt_3153_1204:::X:::POSITIVE:::take:::take:::agent:::cramps_7
+null
+
+407CQL124.txt_3153:::5:::1206
+407CQL124.txt_3153_1206:::X:::next_event:::think:::collapse
+407CQL124.txt_3153_1206::: Miyares heard explosions, thought they were mortars and collapsed
+407CQL124.txt_3153_1206:::X:::POSITIVE:::thought:::think:::agent:::miyares_1
+407CQL124.txt_3153_1206:::X:::POSITIVE:::collapsed:::collapse:::agent:::miyares_1
+null
+
+407CQL124.txt_3153:::5:::1206
+407CQL124.txt_3153_1206:::X:::next_event:::hear:::think
+407CQL124.txt_3153_1206::: Miyares heard explosions, thought they were mortars and collapsed
+407CQL124.txt_3153_1206:::X:::POSITIVE:::heard:::hear:::agent:::miyares_1
+407CQL124.txt_3153_1206:::X:::POSITIVE:::thought:::think:::agent:::miyares_1
+null
+
+407CQL124.txt_3153:::5:::1206
+407CQL124.txt_3153_1206:::X:::next_event:::hear:::collapse
+407CQL124.txt_3153_1206::: Miyares heard explosions, thought they were mortars and collapsed
+407CQL124.txt_3153_1206:::X:::POSITIVE:::heard:::hear:::agent:::miyares_1
+407CQL124.txt_3153_1206:::X:::POSITIVE:::collapsed:::collapse:::agent:::miyares_1
+null
+
+407CQL124.txt_3153:::5:::1221
+407CQL124.txt_3153_1221:::X:::objective:::like:::do
+407CQL124.txt_3153_1221::: He liked to do little league and soccer with him, and we did all the things families do
+407CQL124.txt_3153_1221:::X:::POSITIVE:::liked:::like:::agent:::he_1
+407CQL124.txt_3153_1221:::X:::POSITIVE:::do:::do:::agent:::he_1
+null
+
+407CQL124.txt_3153:::5:::1227
+407CQL124.txt_3153_1227:::X:::causes:::become:::go
+407CQL124.txt_3153_1227::: He became so frustrated with available jobs that he went into business for himself
+407CQL124.txt_3153_1227:::X:::POSITIVE:::became:::become:::agent:::he_1
+407CQL124.txt_3153_1227:::X:::POSITIVE:::went:::go:::agent:::he_9
+null
+
+407CQL124.txt_3153:::5:::1231
+407CQL124.txt_3153_1231:::X:::objective:::move:::open
+407CQL124.txt_3153_1231::: He moved on to open his own retail stores, restaurants, sales organizations, a manufacturing company and a public relations firm
+407CQL124.txt_3153_1231:::X:::POSITIVE:::moved:::move:::agent:::he_1
+407CQL124.txt_3153_1231:::X:::POSITIVE:::open:::open:::agent:::he_1
+null
+
+407CQL124.txt_3153:::5:::1235
+407CQL124.txt_3153_1235:::X:::next_event:::search:::benefit
+407CQL124.txt_3153_1235::: The more I searched for resources and assistance to benefit a blind businessperson, the more I couldn't find any
+407CQL124.txt_3153_1235:::X:::POSITIVE:::searched:::search:::agent:::i_3
+407CQL124.txt_3153_1235:::X:::POSITIVE:::benefit:::benefit:::agent:::i_3
+null
+
+407CQL124.txt_3153:::5:::1235
+407CQL124.txt_3153_1235:::X:::objective:::search:::benefit
+407CQL124.txt_3153_1235::: The more I searched for resources and assistance to benefit a blind businessperson, the more I couldn't find any
+407CQL124.txt_3153_1235:::X:::POSITIVE:::searched:::search:::agent:::i_3
+407CQL124.txt_3153_1235:::X:::POSITIVE:::benefit:::benefit:::agent:::i_3
+null
+
+407CQL124.txt_3153:::5:::1235
+407CQL124.txt_3153_1235:::X:::next_event:::search:::find
+407CQL124.txt_3153_1235::: The more I searched for resources and assistance to benefit a blind businessperson, the more I couldn't find any
+407CQL124.txt_3153_1235:::X:::POSITIVE:::searched:::search:::dependent:::more_2
+407CQL124.txt_3153_1235:::X:::NEGETIVE:::find:::find:::dependent:::more_16
+null
+
+407CQL124.txt_3153:::5:::1235
+407CQL124.txt_3153_1235:::X:::next_event:::search:::find
+407CQL124.txt_3153_1235::: The more I searched for resources and assistance to benefit a blind businessperson, the more I couldn't find any
+407CQL124.txt_3153_1235:::X:::POSITIVE:::searched:::search:::agent:::i_3
+407CQL124.txt_3153_1235:::X:::NEGETIVE:::find:::find:::agent:::i_17
+null
+
+407CQL124.txt_3153:::5:::1235
+407CQL124.txt_3153_1235:::X:::next_event:::benefit:::find
+407CQL124.txt_3153_1235::: The more I searched for resources and assistance to benefit a blind businessperson, the more I couldn't find any
+407CQL124.txt_3153_1235:::X:::POSITIVE:::benefit:::benefit:::agent:::i_3
+407CQL124.txt_3153_1235:::X:::NEGETIVE:::find:::find:::agent:::i_17
+null
+
+407CQL124.txt_3153:::5:::1284
+407CQL124.txt_3153_1284:::X:::next_event:::pool:::help
+407CQL124.txt_3153_1284::: I also car pool him around and help with his schedule
+407CQL124.txt_3153_1284:::X:::POSITIVE:::pool:::pool:::agent:::i_1
+407CQL124.txt_3153_1284:::X:::POSITIVE:::help:::help:::agent:::i_1
+null
+
+530C-L220.txt_3153:::5:::1321
+530C-L220.txt_3153_1321:::X:::objective:::share:::provide
+530C-L220.txt_3153_1321::: The Maennerchor Society brings together persons who share a desire to provide enduring and generous support for the law school
+530C-L220.txt_3153_1321:::X:::POSITIVE:::share:::share:::recipient:::desire_9
+530C-L220.txt_3153_1321:::X:::POSITIVE:::provide:::provide:::agent:::desire_9
+null
+
+530C-L220.txt_3153:::5:::1322
+530C-L220.txt_3153_1322:::X:::objective:::urge:::join
+530C-L220.txt_3153_1322::: I urge you to join the Maennerchor Society this year
+530C-L220.txt_3153_1322:::X:::POSITIVE:::urge:::urge:::recipient:::you_3
+530C-L220.txt_3153_1322:::X:::POSITIVE:::join:::join:::agent:::you_3
+null
+
+318C-L294.txt_3153:::5:::1334
+318C-L294.txt_3153_1334:::X:::objective:::take:::protect
+318C-L294.txt_3153_1334::: The simple fact is, unless you and I take steps now to protect our state, future generations will have nothing left to save
+318C-L294.txt_3153_1334:::X:::POSITIVE:::take:::take:::recipient:::steps_11
+318C-L294.txt_3153_1334:::X:::POSITIVE:::protect:::protect:::agent:::steps_11
+null
+
+318C-L294.txt_3153:::5:::1338
+318C-L294.txt_3153_1338:::X:::objective:::take:::get
+318C-L294.txt_3153_1338::: We can't forget the many hard-fought battles it took to get this far in the struggle to save natural areas and habitats
+318C-L294.txt_3153_1338:::X:::POSITIVE:::took:::take:::agent:::it_9
+318C-L294.txt_3153_1338:::X:::POSITIVE:::get:::get:::agent:::it_9
+null
+
+318C-L294.txt_3153:::5:::1345
+318C-L294.txt_3153_1345:::X:::objective:::continue:::test
+318C-L294.txt_3153_1345::: We will continue to test new ways to control invasive species that threaten many of our native plants and animals with extinction
+318C-L294.txt_3153_1345:::X:::POSITIVE:::continue:::continue:::agent:::we_1
+318C-L294.txt_3153_1345:::X:::POSITIVE:::test:::test:::agent:::we_1
+null
+
+303C-L189.txt_3153:::5:::1406
+303C-L189.txt_3153_1406:::X:::objective:::work:::protect
+303C-L189.txt_3153_1406::: As our state continues to develop, we must work harder to protect important natural areas for wildlife and recreation
+303C-L189.txt_3153_1406:::X:::POSITIVE:::work:::work:::agent:::we_8
+303C-L189.txt_3153_1406:::X:::POSITIVE:::protect:::protect:::agent:::we_8
+null
+
+303C-L189.txt_3153:::5:::1406
+303C-L189.txt_3153_1406:::X:::objective:::continue:::develop
+303C-L189.txt_3153_1406::: As our state continues to develop, we must work harder to protect important natural areas for wildlife and recreation
+303C-L189.txt_3153_1406:::X:::POSITIVE:::continues:::continue:::agent:::state_3
+303C-L189.txt_3153_1406:::X:::POSITIVE:::develop:::develop:::agent:::state_3
+null
+
+407CQL235.txt_3153:::5:::1423
+407CQL235.txt_3153_1423:::X:::next_event:::assist:::tell
+407CQL235.txt_3153_1423::: To better help us assist you, write, fax or E-mail and tell us more about yourself
+407CQL235.txt_3153_1423:::X:::POSITIVE:::assist:::assist:::agent:::us_4
+407CQL235.txt_3153_1423:::X:::POSITIVE:::tell:::tell:::agent:::us_4
+null
+
+407CQL235.txt_3153:::5:::1423
+407CQL235.txt_3153_1423:::X:::next_event:::assist:::tell
+407CQL235.txt_3153_1423::: To better help us assist you, write, fax or E-mail and tell us more about yourself
+407CQL235.txt_3153_1423:::X:::POSITIVE:::assist:::assist:::agent:::us_4
+407CQL235.txt_3153_1423:::X:::POSITIVE:::tell:::tell:::recipient:::us_15
+null
+
+407CQL235.txt_3153:::5:::1423
+407CQL235.txt_3153_1423:::X:::next_event:::write:::tell
+407CQL235.txt_3153_1423::: To better help us assist you, write, fax or E-mail and tell us more about yourself
+407CQL235.txt_3153_1423:::X:::POSITIVE:::write:::write:::agent:::us_4
+407CQL235.txt_3153_1423:::X:::POSITIVE:::tell:::tell:::agent:::us_4
+null
+
+407CQL235.txt_3153:::5:::1423
+407CQL235.txt_3153_1423:::X:::next_event:::write:::tell
+407CQL235.txt_3153_1423::: To better help us assist you, write, fax or E-mail and tell us more about yourself
+407CQL235.txt_3153_1423:::X:::POSITIVE:::write:::write:::agent:::us_4
+407CQL235.txt_3153_1423:::X:::POSITIVE:::tell:::tell:::recipient:::us_15
+null
+
+118CWL049.txt_3153:::5:::1462
+118CWL049.txt_3153_1462:::X:::next_event:::maintain:::support
+118CWL049.txt_3153_1462::: This money maintains the infrastructure that fosters and supports the development of effective relationships
+118CWL049.txt_3153_1462:::X:::POSITIVE:::maintains:::maintain:::recipient:::infrastructure_5
+118CWL049.txt_3153_1462:::X:::POSITIVE:::supports:::support:::agent:::infrastructure_5
+null
+
+118CWL049.txt_3153:::5:::1462
+118CWL049.txt_3153_1462:::X:::next_event:::foster:::support
+118CWL049.txt_3153_1462::: This money maintains the infrastructure that fosters and supports the development of effective relationships
+118CWL049.txt_3153_1462:::X:::POSITIVE:::fosters:::foster:::agent:::infrastructure_5
+118CWL049.txt_3153_1462:::X:::POSITIVE:::supports:::support:::agent:::infrastructure_5
+null
+
+513C-L142.txt_3153:::5:::1528
+513C-L142.txt_3153_1528:::X:::next_event:::attract:::retain
+513C-L142.txt_3153_1528::: Income from the endowment will enable IUSD to attract and retain an eminently qualified faculty member for the school
+513C-L142.txt_3153_1528:::X:::POSITIVE:::attract:::attract:::agent:::iusd_7
+513C-L142.txt_3153_1528:::X:::POSITIVE:::retain:::retain:::agent:::iusd_7
+null
+
+513C-L142.txt_3153:::5:::1528
+513C-L142.txt_3153_1528:::X:::objective:::enable:::retain
+513C-L142.txt_3153_1528::: Income from the endowment will enable IUSD to attract and retain an eminently qualified faculty member for the school
+513C-L142.txt_3153_1528:::X:::POSITIVE:::enable:::enable:::recipient:::iusd_7
+513C-L142.txt_3153_1528:::X:::POSITIVE:::retain:::retain:::agent:::iusd_7
+null
+
+513C-L142.txt_3153:::5:::1528
+513C-L142.txt_3153_1528:::X:::objective:::enable:::attract
+513C-L142.txt_3153_1528::: Income from the endowment will enable IUSD to attract and retain an eminently qualified faculty member for the school
+513C-L142.txt_3153_1528:::X:::POSITIVE:::enable:::enable:::recipient:::iusd_7
+513C-L142.txt_3153_1528:::X:::POSITIVE:::attract:::attract:::agent:::iusd_7
+null
+
+513C-L142.txt_3153:::5:::1528
+513C-L142.txt_3153_1528:::X:::next_event:::enable:::retain
+513C-L142.txt_3153_1528::: Income from the endowment will enable IUSD to attract and retain an eminently qualified faculty member for the school
+513C-L142.txt_3153_1528:::X:::POSITIVE:::enable:::enable:::recipient:::iusd_7
+513C-L142.txt_3153_1528:::X:::POSITIVE:::retain:::retain:::agent:::iusd_7
+null
+
+121CXL186.txt_3153:::5:::1549
+121CXL186.txt_3153_1549:::X:::objective:::allow:::use
+121CXL186.txt_3153_1549::: Our endowment allows us to use your money exclusively for cancer research, not administrative overhead
+121CXL186.txt_3153_1549:::X:::POSITIVE:::allows:::allow:::recipient:::us_4
+121CXL186.txt_3153_1549:::X:::POSITIVE:::use:::use:::agent:::us_4
+null
+
+505C-L095.txt_3153:::5:::1572
+505C-L095.txt_3153_1572:::X:::objective:::help:::respond
+505C-L095.txt_3153_1572::: Bepko with an important source of unrestricted funds to help him to respond to the challenges of a rapidly changing environment
+505C-L095.txt_3153_1572:::X:::POSITIVE:::help:::help:::recipient:::him_11
+505C-L095.txt_3153_1572:::X:::POSITIVE:::respond:::respond:::agent:::him_11
+null
+
+118CWL050.txt_3153:::5:::1588
+118CWL050.txt_3153_1588:::X:::objective:::feel:::make
+118CWL050.txt_3153_1588::: Philanthropy, "The urgency you feel to make changes is just the extent that change will be made
+118CWL050.txt_3153_1588:::X:::POSITIVE:::feel:::feel:::agent:::you_5
+118CWL050.txt_3153_1588:::X:::POSITIVE:::make:::make:::agent:::you_5
+null
+
+118CWL050.txt_3153:::5:::1591
+118CWL050.txt_3153_1591:::X:::caused_by:::change:::need
+118CWL050.txt_3153_1591::: Understand the world and change it where it needs to be changed
+118CWL050.txt_3153_1591:::X:::POSITIVE:::change:::change:::recipient:::it_6
+118CWL050.txt_3153_1591:::X:::POSITIVE:::needs:::need:::agent:::it_8
+null
+
+118CWL050.txt_3153:::5:::1598
+118CWL050.txt_3153_1598:::X:::next_event:::believe:::realize
+118CWL050.txt_3153_1598::: Thanks to our Big Sisters volunteers, these young people are self-confident, believe in themselves and are beginning to realize their full potential
+118CWL050.txt_3153_1598:::X:::POSITIVE:::believe:::believe:::agent:::thanks_1
+118CWL050.txt_3153_1598:::X:::POSITIVE:::realize:::realize:::agent:::thanks_1
+null
+
+118CWL050.txt_3153:::5:::1603
+118CWL050.txt_3153_1603:::X:::next_event:::have:::learn
+118CWL050.txt_3153_1603::: Not only did I have a lot of fun with my Big Sister, but I learned a lot from her too
+118CWL050.txt_3153_1603:::X:::POSITIVE:::have:::have:::agent:::i_4
+118CWL050.txt_3153_1603:::X:::POSITIVE:::learned:::learn:::agent:::i_16
+null
+
+118CWL050.txt_3153:::5:::1603
+118CWL050.txt_3153_1603:::X:::next_event:::have:::learn
+118CWL050.txt_3153_1603::: Not only did I have a lot of fun with my Big Sister, but I learned a lot from her too
+118CWL050.txt_3153_1603:::X:::POSITIVE:::have:::have:::recipient:::lot_7
+118CWL050.txt_3153_1603:::X:::POSITIVE:::learned:::learn:::recipient:::lot_19
+null
+
+530C-L213.txt_3153:::5:::1627
+530C-L213.txt_3153_1627:::X:::objective:::continue:::receive
+530C-L213.txt_3153_1627::: They will, however, together with Annual Fund contributions and other gifts, assure that students at the school continue to receive an excellent legal education
+530C-L213.txt_3153_1627:::X:::POSITIVE:::continue:::continue:::agent:::students_17
+530C-L213.txt_3153_1627:::X:::POSITIVE:::receive:::receive:::agent:::students_17
+null
+
+513C-L176.txt_3153:::5:::1657
+513C-L176.txt_3153_1657:::X:::next_event:::touch:::enhance
+513C-L176.txt_3153_1657::: Projects such as this touch the lives of others and enhance the education of the students
+513C-L176.txt_3153_1657:::X:::POSITIVE:::touch:::touch:::agent:::projects_1
+513C-L176.txt_3153_1657:::X:::POSITIVE:::enhance:::enhance:::agent:::projects_1
+null
+
+526C-L275.txt_3153:::5:::1686
+526C-L275.txt_3153_1686:::X:::objective:::wish:::contribute
+526C-L275.txt_3153_1686::: Any dollar amount you wish to contribute is fine
+526C-L275.txt_3153_1686:::X:::POSITIVE:::wish:::wish:::agent:::you_4
+526C-L275.txt_3153_1686:::X:::POSITIVE:::contribute:::contribute:::agent:::you_4
+null
+
+503C-L085.txt_3153:::5:::1722
+503C-L085.txt_3153_1722:::X:::objective:::intend:::keep
+503C-L085.txt_3153_1722::: To have achieved this commitment from the dean means our new efforts have already impressed him, and we intend to keep his attention
+503C-L085.txt_3153_1722:::X:::POSITIVE:::intend:::intend:::agent:::we_19
+503C-L085.txt_3153_1722:::X:::POSITIVE:::keep:::keep:::agent:::we_19
+null
+
+530C-L216.txt_3153:::5:::1786
+530C-L216.txt_3153_1786:::X:::objective:::continue:::rise
+530C-L216.txt_3153_1786::: and I don't need to tell you that costs continue to rise
+530C-L216.txt_3153_1786:::X:::POSITIVE:::continue:::continue:::agent:::costs_10
+530C-L216.txt_3153_1786:::X:::POSITIVE:::rise:::rise:::agent:::costs_10
+null
+
+530C-L216.txt_3153:::5:::1786
+530C-L216.txt_3153_1786:::X:::objective:::need:::tell
+530C-L216.txt_3153_1786::: and I don't need to tell you that costs continue to rise
+530C-L216.txt_3153_1786:::X:::NEGETIVE:::need:::need:::agent:::i_2
+530C-L216.txt_3153_1786:::X:::POSITIVE:::tell:::tell:::agent:::i_2
+null
+
+530C-L216.txt_3153:::5:::1796
+530C-L216.txt_3153_1796:::X:::causes:::need:::do
+530C-L216.txt_3153_1796::: We do need you, and so do our students
+530C-L216.txt_3153_1796:::X:::POSITIVE:::need:::need:::agent:::we_1
+530C-L216.txt_3153_1796:::X:::POSITIVE:::do:::do:::agent:::we_1
+null
+
+530C-L216.txt_3153:::5:::1796
+530C-L216.txt_3153_1796:::X:::next_event:::need:::do
+530C-L216.txt_3153_1796::: We do need you, and so do our students
+530C-L216.txt_3153_1796:::X:::POSITIVE:::need:::need:::agent:::we_1
+530C-L216.txt_3153_1796:::X:::POSITIVE:::do:::do:::agent:::we_1
+null
+
+513C-L177.txt_3153:::5:::1804
+513C-L177.txt_3153_1804:::X:::objective:::invite:::sponsor
+513C-L177.txt_3153_1804::: An Invitation to Sponsor a Bench We invite you to sponsor a bench
+513C-L177.txt_3153_1804:::X:::POSITIVE:::invite:::invite:::recipient:::you_9
+513C-L177.txt_3153_1804:::X:::POSITIVE:::sponsor:::sponsor:::agent:::you_9
+null
+
+533C-L248.txt_3153:::5:::1815
+533C-L248.txt_3153_1815:::X:::next_event:::leave:::join
+533C-L248.txt_3153_1815::: This year fifteen new graduates leave the University and join ranks with medical record practitioners throughout the world, thus increasing the links between I
+533C-L248.txt_3153_1815:::X:::POSITIVE:::leave:::leave:::agent:::graduates_5
+533C-L248.txt_3153_1815:::X:::POSITIVE:::join:::join:::agent:::graduates_5
+null
+
+533C-L248.txt_3153:::5:::1825
+533C-L248.txt_3153_1825:::X:::objective:::continue:::lend
+533C-L248.txt_3153_1825::: Ridley continues to lend support to the Medical Record Administration Program
+533C-L248.txt_3153_1825:::X:::POSITIVE:::continues:::continue:::agent:::ridley_1
+533C-L248.txt_3153_1825:::X:::POSITIVE:::lend:::lend:::agent:::ridley_1
+null
+
+533C-L248.txt_3153:::5:::1840
+533C-L248.txt_3153_1840:::X:::objective:::enter:::become
+533C-L248.txt_3153_1840::: Forty years ago one student, Betty Groh Tower, entered the Medical Record Administration Program to become our first graduate
+533C-L248.txt_3153_1840:::X:::POSITIVE:::entered:::enter:::recipient:::medical_record_administration_program_11
+533C-L248.txt_3153_1840:::X:::POSITIVE:::become:::become:::agent:::medical_record_administration_program_11
+null
+
+513C-L157.txt_3153:::5:::1940
+513C-L157.txt_3153_1940:::X:::objective:::help:::help
+513C-L157.txt_3153_1940::: I hope that you will help us to help students by making a tax deductible gift this year
+513C-L157.txt_3153_1940:::X:::POSITIVE:::help:::help:::recipient:::us_7
+513C-L157.txt_3153_1940:::X:::POSITIVE:::help:::help:::agent:::us_7
+null
+
+513C-L162.txt_3153:::5:::1947
+513C-L162.txt_3153_1947:::X:::objective:::want:::thank
+513C-L162.txt_3153_1947::: If you are one of the many individuals who have supported this scholarship in the past, I want to thank you for your help
+513C-L162.txt_3153_1947:::X:::POSITIVE:::want:::want:::agent:::i_18
+513C-L162.txt_3153_1947:::X:::POSITIVE:::thank:::thank:::agent:::i_18
+null
+
+302CZL188.txt_3153:::5:::2008
+302CZL188.txt_3153_2008:::X:::objective:::want:::join
+302CZL188.txt_3153_2008::: My hope is that you will want to join them
+302CZL188.txt_3153_2008:::X:::POSITIVE:::want:::want:::agent:::you_5
+302CZL188.txt_3153_2008:::X:::POSITIVE:::join:::join:::agent:::you_5
+null
+
+302CZL188.txt_3153:::5:::2014
+302CZL188.txt_3153_2014:::X:::next_event:::cancel:::owe
+302CZL188.txt_3153_2014::: Or you may cancel your membership and owe us nothing
+302CZL188.txt_3153_2014:::X:::POSITIVE:::cancel:::cancel:::agent:::you_2
+302CZL188.txt_3153_2014:::X:::POSITIVE:::owe:::owe:::agent:::you_2
+null
+
+302CZL188.txt_3153:::5:::2048
+302CZL188.txt_3153_2048:::X:::next_event:::save:::purchase
+302CZL188.txt_3153_2048::: To save this precious, historical land from developers, Audubon worked with a local bank and purchased this land for preservation
+302CZL188.txt_3153_2048:::X:::POSITIVE:::save:::save:::recipient:::land_7
+302CZL188.txt_3153_2048:::X:::POSITIVE:::purchased:::purchase:::recipient:::land_20
+null
+
+302CZL188.txt_3153:::5:::2078
+302CZL188.txt_3153_2078:::X:::next_event:::chapters:::chapters
+302CZL188.txt_3153_2078::: and Canada chapters
+302CZL188.txt_3153_2078:::X:::POSITIVE:::chapters:::chapters:::agent:::canada_2
+302CZL188.txt_3153_2078:::X:::POSITIVE:::chapters:::chapters:::agent:::canada_2
+null
+
+302CZL188.txt_3153:::5:::2090
+302CZL188.txt_3153_2090:::X:::objective:::wish:::become
+302CZL188.txt_3153_2090::: Later, after reviewing your free issue, you wish to become a permanent member, you may do so, simply by paying our bill
+302CZL188.txt_3153_2090:::X:::POSITIVE:::wish:::wish:::agent:::you_9
+302CZL188.txt_3153_2090:::X:::POSITIVE:::become:::become:::agent:::you_9
+null
+
+302CZL188.txt_3153:::5:::2090
+302CZL188.txt_3153_2090:::X:::objective:::wish:::become
+302CZL188.txt_3153_2090::: Later, after reviewing your free issue, you wish to become a permanent member, you may do so, simply by paying our bill
+302CZL188.txt_3153_2090:::X:::POSITIVE:::wish:::wish:::previous_event:::reviewing_4
+302CZL188.txt_3153_2090:::X:::POSITIVE:::become:::become:::previous_event:::reviewing_4
+null
+
+302CZL188.txt_3153:::5:::2091
+302CZL188.txt_3153_2091:::X:::next_event:::receive:::ship
+302CZL188.txt_3153_2091::: As soon as we receive your dues, we'll ship out your FREE CLOCK
+302CZL188.txt_3153_2091:::X:::POSITIVE:::receive:::receive:::agent:::we_4
+302CZL188.txt_3153_2091:::X:::POSITIVE:::ship:::ship:::agent:::we_9
+null
+
+302CZL188.txt_3153:::5:::2092
+302CZL188.txt_3153_2092:::X:::next_event:::cancel:::owe
+302CZL188.txt_3153_2092::: Or you may cancel your membership and owe nothing
+302CZL188.txt_3153_2092:::X:::POSITIVE:::cancel:::cancel:::agent:::you_2
+302CZL188.txt_3153_2092:::X:::POSITIVE:::owe:::owe:::agent:::you_2
+null
+
+302CZL188.txt_3153:::5:::2097
+302CZL188.txt_3153_2097:::X:::next_event:::reserve:::become
+302CZL188.txt_3153_2097::: Act today to reserve your FREE CLOCK and become a member of the National Audubon Society
+302CZL188.txt_3153_2097:::X:::POSITIVE:::reserve:::reserve:::agent:::today_2
+302CZL188.txt_3153_2097:::X:::POSITIVE:::become:::become:::agent:::today_2
+null
+
+504C-L089.txt_3153:::5:::2110
+504C-L089.txt_3153_2110:::X:::objective:::wish:::support
+504C-L089.txt_3153_2110::: Please identify whether you wish to support the General Scholarship Fund- or a particular scholarship (indicate name of this scholarship here): -VISITING ARTIST SERIES
+504C-L089.txt_3153_2110:::X:::POSITIVE:::wish:::wish:::agent:::you_4
+504C-L089.txt_3153_2110:::X:::POSITIVE:::support:::support:::agent:::you_4
+null
+
+513C-L178.txt_3153:::5:::2162
+513C-L178.txt_3153_2162:::X:::objective:::agree:::help
+513C-L178.txt_3153_2162::: We are hopeful that you will agree to help, also
+513C-L178.txt_3153_2162:::X:::POSITIVE:::agree:::agree:::agent:::you_5
+513C-L178.txt_3153_2162:::X:::POSITIVE:::help:::help:::agent:::you_5
+null
+
+504C-L107.txt_3153:::5:::2177
+504C-L107.txt_3153_2177:::X:::next_event:::renew:::join
+504C-L107.txt_3153_2177::: I hope you'll renew your donation to the Herron Gallery and join us for another year of terrific contemporary happenings
+504C-L107.txt_3153_2177:::X:::POSITIVE:::renew:::renew:::agent:::you_3
+504C-L107.txt_3153_2177:::X:::POSITIVE:::join:::join:::agent:::you_3
+null
+
+530C-L218.txt_3153:::5:::2191
+null
+530C-L218.txt_3153_2191::: The law school is limited in these recessionary times because it's impractical to raise tuition significantly to gain the difference from lost state appropriations
+530C-L218.txt_3153_2191:::X:::POSITIVE:::is:::be:::agent:::X
+530C-L218.txt_3153_2191:::X:::is:::be:::POSITIVE:::impractical:::impractical
+null
+
+530C-L218.txt_3153:::5:::2191
+null
+530C-L218.txt_3153_2191::: The law school is limited in these recessionary times because it's impractical to raise tuition significantly to gain the difference from lost state appropriations
+530C-L218.txt_3153_2191:::X:::POSITIVE:::is:::be:::agent:::X
+530C-L218.txt_3153_2191:::X:::is:::be:::POSITIVE:::limited:::limited
+null
+
+530C-L218.txt_3153:::5:::2200
+530C-L218.txt_3153_2200:::X:::objective:::share:::provide
+530C-L218.txt_3153_2200::: The Maennerchor Society brings together persons who share a desire to provide enduring and generous support for the law school
+530C-L218.txt_3153_2200:::X:::POSITIVE:::share:::share:::recipient:::desire_9
+530C-L218.txt_3153_2200:::X:::POSITIVE:::provide:::provide:::agent:::desire_9
+null
+
+517CWL088.txt_3153:::5:::2222
+517CWL088.txt_3153_2222:::X:::next_event:::urge:::make
+517CWL088.txt_3153_2222::: I urge you to think about Purdue and the commitment you can make to help us reach these goals
+517CWL088.txt_3153_2222:::X:::POSITIVE:::urge:::urge:::recipient:::you_3
+517CWL088.txt_3153_2222:::X:::POSITIVE:::make:::make:::agent:::you_11
+null
+
+517CWL088.txt_3153:::5:::2222
+517CWL088.txt_3153_2222:::X:::next_event:::urge:::help
+517CWL088.txt_3153_2222::: I urge you to think about Purdue and the commitment you can make to help us reach these goals
+517CWL088.txt_3153_2222:::X:::POSITIVE:::urge:::urge:::recipient:::you_3
+517CWL088.txt_3153_2222:::X:::POSITIVE:::help:::help:::agent:::you_11
+null
+
+517CWL088.txt_3153:::5:::2222
+517CWL088.txt_3153_2222:::X:::next_event:::think:::make
+517CWL088.txt_3153_2222::: I urge you to think about Purdue and the commitment you can make to help us reach these goals
+517CWL088.txt_3153_2222:::X:::POSITIVE:::think:::think:::agent:::you_3
+517CWL088.txt_3153_2222:::X:::POSITIVE:::make:::make:::agent:::you_11
+null
+
+517CWL088.txt_3153:::5:::2222
+517CWL088.txt_3153_2222:::X:::next_event:::think:::help
+517CWL088.txt_3153_2222::: I urge you to think about Purdue and the commitment you can make to help us reach these goals
+517CWL088.txt_3153_2222:::X:::POSITIVE:::think:::think:::agent:::you_3
+517CWL088.txt_3153_2222:::X:::POSITIVE:::help:::help:::agent:::you_11
+null
+
+517CWL088.txt_3153:::5:::2222
+517CWL088.txt_3153_2222:::X:::objective:::make:::help
+517CWL088.txt_3153_2222::: I urge you to think about Purdue and the commitment you can make to help us reach these goals
+517CWL088.txt_3153_2222:::X:::POSITIVE:::make:::make:::agent:::you_11
+517CWL088.txt_3153_2222:::X:::POSITIVE:::help:::help:::agent:::you_11
+null
+
+517CWL088.txt_3153:::5:::2222
+517CWL088.txt_3153_2222:::X:::objective:::urge:::think
+517CWL088.txt_3153_2222::: I urge you to think about Purdue and the commitment you can make to help us reach these goals
+517CWL088.txt_3153_2222:::X:::POSITIVE:::urge:::urge:::recipient:::you_3
+517CWL088.txt_3153_2222:::X:::POSITIVE:::think:::think:::agent:::you_3
+null
+
+504C-L101.txt_3153:::5:::2234
+504C-L101.txt_3153_2234:::X:::objective:::need:::continue
+504C-L101.txt_3153_2234::: For many it's the extra boost they need to continue their studies toward a productive career in the visual arts
+504C-L101.txt_3153_2234:::X:::POSITIVE:::need:::need:::agent:::they_8
+504C-L101.txt_3153_2234:::X:::POSITIVE:::continue:::continue:::agent:::they_8
+null
+
+505C-L096.txt_3153:::5:::2267
+505C-L096.txt_3153_2267:::X:::next_event:::tell:::include
+505C-L096.txt_3153_2267::: I have enclosed a brochure which tells you more about the Chancellor s Circle and which includes a reply card
+505C-L096.txt_3153_2267:::X:::POSITIVE:::tells:::tell:::agent:::which_6
+505C-L096.txt_3153_2267:::X:::POSITIVE:::includes:::include:::agent:::which_16
+null
+
+502C-L083.txt_3153:::5:::2325
+502C-L083.txt_3153_2325:::X:::causes:::help:::have
+502C-L083.txt_3153_2325::: This gift will help maintain our educational programs and labs so students will have the best training available
+502C-L083.txt_3153_2325:::X:::POSITIVE:::help:::help:::modal_verb:::will_3
+502C-L083.txt_3153_2325:::X:::POSITIVE:::have:::have:::modal_verb:::will_13
+null
+
+123CUL197.txt_3153:::5:::2335
+123CUL197.txt_3153_2335:::X:::next_event:::run:::give
+123CUL197.txt_3153_2335::: One little girl runs in and gives a special hug to a member of our staff
+123CUL197.txt_3153_2335:::X:::POSITIVE:::runs:::run:::agent:::girl_3
+123CUL197.txt_3153_2335:::X:::POSITIVE:::gives:::give:::agent:::girl_3
+null
+
+123CUL197.txt_3153:::5:::2340
+123CUL197.txt_3153_2340:::X:::objective:::want:::have
+123CUL197.txt_3153_2340::: she wants the staff person to have it
+123CUL197.txt_3153_2340:::X:::POSITIVE:::wants:::want:::recipient:::person_5
+123CUL197.txt_3153_2340:::X:::POSITIVE:::have:::have:::agent:::person_5
+null
+
+530C-L222.txt_3153:::5:::2376
+530C-L222.txt_3153_2376:::X:::objective:::use:::let
+530C-L222.txt_3153_2376::: Then use the enclosed donor reply card to let us know how you can help
+530C-L222.txt_3153_2376:::X:::POSITIVE:::use:::use:::recipient:::card_7
+530C-L222.txt_3153_2376:::X:::POSITIVE:::let:::let:::agent:::card_7
+null
+
+513C-L160.txt_3153:::5:::2456
+513C-L160.txt_3153_2456:::X:::objective:::hope:::see
+513C-L160.txt_3153_2456::: I hope to see you there! 
+513C-L160.txt_3153_2456:::X:::POSITIVE:::hope:::hope:::agent:::i_1
+513C-L160.txt_3153_2456:::X:::POSITIVE:::see:::see:::agent:::i_1
+null
+
+118CWL048.txt_3153:::6:::2458
+118CWL048.txt_3153_2458:::X:::objective:::need:::guide
+118CWL048.txt_3153_2458::: When young people don't have that support, they need other resources for encouragement to guide them along the way
+118CWL048.txt_3153_2458:::X:::POSITIVE:::need:::need:::recipient:::resources_13
+118CWL048.txt_3153_2458:::X:::POSITIVE:::guide:::guide:::agent:::resources_13
+null
+
+118CWL048.txt_3153:::6:::2460
+118CWL048.txt_3153_2460:::X:::next_event:::empower:::experience
+118CWL048.txt_3153_2460::: Big Sisters are mentors and friends who empower girls to more fully reach their potential, experience life's opportunities and perhaps begin to dream
+118CWL048.txt_3153_2460:::X:::POSITIVE:::empower:::empower:::recipient:::girls_9
+118CWL048.txt_3153_2460:::X:::POSITIVE:::experience:::experience:::agent:::girls_9
+null
+
+118CWL048.txt_3153:::6:::2460
+118CWL048.txt_3153_2460:::X:::next_event:::reach:::experience
+118CWL048.txt_3153_2460::: Big Sisters are mentors and friends who empower girls to more fully reach their potential, experience life's opportunities and perhaps begin to dream
+118CWL048.txt_3153_2460:::X:::POSITIVE:::reach:::reach:::agent:::girls_9
+118CWL048.txt_3153_2460:::X:::POSITIVE:::experience:::experience:::agent:::girls_9
+null
+
+118CWL048.txt_3153:::6:::2460
+118CWL048.txt_3153_2460:::X:::objective:::empower:::begin
+118CWL048.txt_3153_2460::: Big Sisters are mentors and friends who empower girls to more fully reach their potential, experience life's opportunities and perhaps begin to dream
+118CWL048.txt_3153_2460:::X:::POSITIVE:::empower:::empower:::recipient:::girls_9
+118CWL048.txt_3153_2460:::X:::POSITIVE:::begin:::begin:::agent:::girls_9
+null
+
+118CWL048.txt_3153:::6:::2460
+118CWL048.txt_3153_2460:::X:::objective:::empower:::experience
+118CWL048.txt_3153_2460::: Big Sisters are mentors and friends who empower girls to more fully reach their potential, experience life's opportunities and perhaps begin to dream
+118CWL048.txt_3153_2460:::X:::POSITIVE:::empower:::empower:::recipient:::girls_9
+118CWL048.txt_3153_2460:::X:::POSITIVE:::experience:::experience:::agent:::girls_9
+null
+
+118CWL048.txt_3153:::6:::2460
+118CWL048.txt_3153_2460:::X:::objective:::empower:::reach
+118CWL048.txt_3153_2460::: Big Sisters are mentors and friends who empower girls to more fully reach their potential, experience life's opportunities and perhaps begin to dream
+118CWL048.txt_3153_2460:::X:::POSITIVE:::empower:::empower:::recipient:::girls_9
+118CWL048.txt_3153_2460:::X:::POSITIVE:::reach:::reach:::agent:::girls_9
+null
+
+118CWL048.txt_3153:::6:::2470
+118CWL048.txt_3153_2470:::X:::next_event:::reach:::help
+118CWL048.txt_3153_2470::: But caring adults like you can reach out and help
+118CWL048.txt_3153_2470:::X:::POSITIVE:::reach:::reach:::agent:::you_5
+118CWL048.txt_3153_2470:::X:::POSITIVE:::help:::help:::agent:::you_5
+null
+
+516CZL125.txt_3153:::5:::2488
+516CZL125.txt_3153_2488:::X:::objective:::ask:::become
+516CZL125.txt_3153_2488::: I write to ask you to become a supporter of the Moving Company
+516CZL125.txt_3153_2488:::X:::POSITIVE:::ask:::ask:::recipient:::you_5
+516CZL125.txt_3153_2488:::X:::POSITIVE:::become:::become:::agent:::you_5
+null
+
+516CZL125.txt_3153:::5:::2488
+516CZL125.txt_3153_2488:::X:::objective:::write:::ask
+516CZL125.txt_3153_2488::: I write to ask you to become a supporter of the Moving Company
+516CZL125.txt_3153_2488:::X:::POSITIVE:::write:::write:::agent:::i_1
+516CZL125.txt_3153_2488:::X:::POSITIVE:::ask:::ask:::agent:::i_1
+null
+
+526C-L273.txt_3153:::5:::2535
+526C-L273.txt_3153_2535:::X:::objective:::call:::continue
+526C-L273.txt_3153_2535::: I call on you to continue your financial support of the institution through your gift to the Annual Fund
+526C-L273.txt_3153_2535:::X:::POSITIVE:::call:::call:::agent:::i_1
+526C-L273.txt_3153_2535:::X:::POSITIVE:::continue:::continue:::agent:::i_1
+null
+
+117CWL009.txt_3153:::5:::2542
+117CWL009.txt_3153_2542:::X:::objective:::work:::build
+117CWL009.txt_3153_2542::: Your continued participation is very important to the JCC, as we work to build partnerships between businesses and our not-for-profit agency
+117CWL009.txt_3153_2542:::X:::POSITIVE:::work:::work:::agent:::we_12
+117CWL009.txt_3153_2542:::X:::POSITIVE:::build:::build:::agent:::we_12
+null
+
+402CWL184.txt_3153:::6:::2556
+402CWL184.txt_3153_2556:::X:::next_event:::doubt:::want
+402CWL184.txt_3153_2556::: Because I doubt that you have ever encountered a mother like the Pensacola, Florida, woman I want to tell you about
+402CWL184.txt_3153_2556:::X:::POSITIVE:::doubt:::doubt:::agent:::i_2
+402CWL184.txt_3153_2556:::X:::POSITIVE:::want:::want:::agent:::i_18
+null
+
+402CWL184.txt_3153:::6:::2556
+402CWL184.txt_3153_2556:::X:::next_event:::doubt:::tell
+402CWL184.txt_3153_2556::: Because I doubt that you have ever encountered a mother like the Pensacola, Florida, woman I want to tell you about
+402CWL184.txt_3153_2556:::X:::POSITIVE:::doubt:::doubt:::agent:::i_2
+402CWL184.txt_3153_2556:::X:::POSITIVE:::tell:::tell:::agent:::i_18
+null
+
+402CWL184.txt_3153:::6:::2556
+402CWL184.txt_3153_2556:::X:::objective:::want:::tell
+402CWL184.txt_3153_2556::: Because I doubt that you have ever encountered a mother like the Pensacola, Florida, woman I want to tell you about
+402CWL184.txt_3153_2556:::X:::POSITIVE:::want:::want:::agent:::i_18
+402CWL184.txt_3153_2556:::X:::POSITIVE:::tell:::tell:::agent:::i_18
+null
+
+402CWL184.txt_3153:::6:::2594
+402CWL184.txt_3153_2594:::X:::objective:::get:::do
+402CWL184.txt_3153_2594::: They didn't get to do all that, and they should
+402CWL184.txt_3153_2594:::X:::NEGETIVE:::get:::get:::agent:::they_1
+402CWL184.txt_3153_2594:::X:::POSITIVE:::do:::do:::agent:::they_1
+null
+
+402CWL184.txt_3153:::6:::2597
+402CWL184.txt_3153_2597:::X:::objective:::get:::go
+402CWL184.txt_3153_2597::: And this year was the first time they ever got to go to the county fair
+402CWL184.txt_3153_2597:::X:::POSITIVE:::got:::get:::agent:::they_8
+402CWL184.txt_3153_2597:::X:::POSITIVE:::go:::go:::agent:::they_8
+null
+
+504C-L093.txt_3153:::5:::2699
+504C-L093.txt_3153_2699:::X:::objective:::look:::sustain
+504C-L093.txt_3153_2699::: Grants are becoming harder to secure and we must look to the generosity of individuals to sustain the program
+504C-L093.txt_3153_2699:::X:::POSITIVE:::look:::look:::agent:::we_8
+504C-L093.txt_3153_2699:::X:::POSITIVE:::sustain:::sustain:::agent:::we_8
+null
+
+504C-L093.txt_3153:::5:::2703
+504C-L093.txt_3153_2703:::X:::next_event:::feel:::help
+504C-L093.txt_3153_2703::: We feel that it is of great importance to the curriculum and helps to broaden your student's Herron experience
+504C-L093.txt_3153_2703:::X:::POSITIVE:::feel:::feel:::agent:::we_1
+504C-L093.txt_3153_2703:::X:::POSITIVE:::helps:::help:::agent:::we_1
+null
+
+504C-L093.txt_3153:::5:::2703
+504C-L093.txt_3153_2703:::X:::next_event:::feel:::broaden
+504C-L093.txt_3153_2703::: We feel that it is of great importance to the curriculum and helps to broaden your student's Herron experience
+504C-L093.txt_3153_2703:::X:::POSITIVE:::feel:::feel:::agent:::we_1
+504C-L093.txt_3153_2703:::X:::POSITIVE:::broaden:::broaden:::agent:::we_1
+null
+
+504C-L093.txt_3153:::5:::2703
+504C-L093.txt_3153_2703:::X:::objective:::help:::broaden
+504C-L093.txt_3153_2703::: We feel that it is of great importance to the curriculum and helps to broaden your student's Herron experience
+504C-L093.txt_3153_2703:::X:::POSITIVE:::helps:::help:::agent:::we_1
+504C-L093.txt_3153_2703:::X:::POSITIVE:::broaden:::broaden:::agent:::we_1
+null
+
+504C-L093.txt_3153:::5:::2707
+504C-L093.txt_3153_2707:::X:::objective:::free:::join
+504C-L093.txt_3153_2707::: Feel free to join us for any of the lectures which are held October April in our auditorium
+504C-L093.txt_3153_2707:::X:::POSITIVE:::free:::free:::agent:::feel_1
+504C-L093.txt_3153_2707:::X:::POSITIVE:::join:::join:::agent:::feel_1
+null
+
+507CYL112.txt_3153:::5:::2711
+507CYL112.txt_3153_2711:::X:::next_event:::borrow:::use
+507CYL112.txt_3153_2711::: I shamelessly and freely borrowed the concept, making adaptations to fit our needs and used it as a direct mail appeal last fall
+507CYL112.txt_3153_2711:::X:::POSITIVE:::borrowed:::borrow:::agent:::i_1
+507CYL112.txt_3153_2711:::X:::POSITIVE:::used:::use:::agent:::i_1
+null
+
+531C-L245.txt_3153:::5:::2739
+531C-L245.txt_3153_2739:::X:::caused_by:::want:::know
+531C-L245.txt_3153_2739::: We want you as a true partner because we know you share our deep conviction that philanthropy is essential to our democratic society
+531C-L245.txt_3153_2739:::X:::POSITIVE:::want:::want:::agent:::we_1
+531C-L245.txt_3153_2739:::X:::POSITIVE:::know:::know:::agent:::we_9
+null
+
+531C-L245.txt_3153:::5:::2746
+531C-L245.txt_3153_2746:::X:::next_event:::decide:::decide
+531C-L245.txt_3153_2746::: But before you decide to join us, let me tell you more about our work and our achievements
+531C-L245.txt_3153_2746:::X:::POSITIVE:::decide:::decide:::agent:::you_3
+531C-L245.txt_3153_2746:::X:::POSITIVE:::decide:::decide:::agent:::you_3
+null
+
+531C-L245.txt_3153:::5:::2746
+531C-L245.txt_3153_2746:::X:::next_event:::join:::decide
+531C-L245.txt_3153_2746::: But before you decide to join us, let me tell you more about our work and our achievements
+531C-L245.txt_3153_2746:::X:::POSITIVE:::join:::join:::agent:::you_3
+531C-L245.txt_3153_2746:::X:::POSITIVE:::decide:::decide:::agent:::you_3
+null
+
+531C-L245.txt_3153:::5:::2746
+531C-L245.txt_3153_2746:::X:::next_event:::tell:::decide
+531C-L245.txt_3153_2746::: But before you decide to join us, let me tell you more about our work and our achievements
+531C-L245.txt_3153_2746:::X:::POSITIVE:::tell:::tell:::recipient:::you_12
+531C-L245.txt_3153_2746:::X:::POSITIVE:::decide:::decide:::agent:::you_3
+null
+
+531C-L245.txt_3153:::5:::2746
+531C-L245.txt_3153_2746:::X:::objective:::decide:::join
+531C-L245.txt_3153_2746::: But before you decide to join us, let me tell you more about our work and our achievements
+531C-L245.txt_3153_2746:::X:::POSITIVE:::decide:::decide:::agent:::you_3
+531C-L245.txt_3153_2746:::X:::POSITIVE:::join:::join:::agent:::you_3
+null
+
+531C-L245.txt_3153:::5:::2767
+531C-L245.txt_3153_2767:::X:::objective:::depend:::provide
+531C-L245.txt_3153_2767::: Other universities and schools depend on us to provide materials and direction as they incorporate philanthropic studies into their curriculum
+531C-L245.txt_3153_2767:::X:::POSITIVE:::depend:::depend:::agent:::schools_4
+531C-L245.txt_3153_2767:::X:::POSITIVE:::provide:::provide:::agent:::schools_4
+null
+
+531C-L245.txt_3153:::5:::2767
+531C-L245.txt_3153_2767:::X:::objective:::depend:::provide
+531C-L245.txt_3153_2767::: Other universities and schools depend on us to provide materials and direction as they incorporate philanthropic studies into their curriculum
+531C-L245.txt_3153_2767:::X:::POSITIVE:::depend:::depend:::agent:::universities_2
+531C-L245.txt_3153_2767:::X:::POSITIVE:::provide:::provide:::agent:::universities_2
+null
+
+530C-L223.txt_3153:::5:::2786
+530C-L223.txt_3153_2786:::X:::next_event:::provide:::distinguish
+530C-L223.txt_3153_2786::: Alumni contributions help provide the services and programs that distinguish a great law school from just a good one
+530C-L223.txt_3153_2786:::X:::POSITIVE:::provide:::provide:::recipient:::services_6
+530C-L223.txt_3153_2786:::X:::POSITIVE:::distinguish:::distinguish:::agent:::services_6
+null
+
+530C-L223.txt_3153:::5:::2786
+530C-L223.txt_3153_2786:::X:::next_event:::provide:::distinguish
+530C-L223.txt_3153_2786::: Alumni contributions help provide the services and programs that distinguish a great law school from just a good one
+530C-L223.txt_3153_2786:::X:::POSITIVE:::provide:::provide:::recipient:::programs_8
+530C-L223.txt_3153_2786:::X:::POSITIVE:::distinguish:::distinguish:::agent:::programs_8
+null
+
+530C-L223.txt_3153:::5:::2797
+530C-L223.txt_3153_2797:::X:::objective:::share:::provide
+530C-L223.txt_3153_2797::: The Maennerchor Society brings together individuals who share a desire to provide enduring and generous support for the law school
+530C-L223.txt_3153_2797:::X:::POSITIVE:::share:::share:::recipient:::desire_9
+530C-L223.txt_3153_2797:::X:::POSITIVE:::provide:::provide:::agent:::desire_9
+null
+

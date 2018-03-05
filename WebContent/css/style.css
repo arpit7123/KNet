@@ -1,0 +1,35 @@
+.container.container-new{
+	width: 75%;
+}
+
+.modified{
+	color: #A15C51;/*#74ABE0;*/	
+}
+
+.progressBar-modified{
+	margin-right: 200px;
+	margin-left: 0px;
+	min-height: 50px;
+	position: relative;
+}
+
+.selected {
+	color: blue;
+	font-style: italic;
+	font-size: 14px;
+	cursor: pointer;
+}
+
+.deselected {
+	color: black;
+	font-style: plain;
+	font-size: 14px;
+	cursor: pointer;
+}
+
+.main-svg {
+	position: relative;
+	height: 1000px;
+	width: 100%;
+	border: 1px solid #999;
+}

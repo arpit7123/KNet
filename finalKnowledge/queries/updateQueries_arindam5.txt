@@ -1,0 +1,1127 @@
+July11-2001_gg00172r.txt_3153:::7:::2
+July11-2001_gg00172r.txt_3153_2:::X:::objective:::exist:::reduce
+July11-2001_gg00172r.txt_3153_2:::Results in Brief According to the FFC study, opportunities exist to significantly reduce total project cost (TPC) by conducting an effective design review process
+July11-2001_gg00172r.txt_3153_2:::X:::POSITIVE:::exist:::exist:::agent:::results_1
+July11-2001_gg00172r.txt_3153_2:::X:::POSITIVE:::reduce:::reduce:::agent:::results_1
+null
+
+July11-2001_gg00172r.txt_3153:::61:::68
+July11-2001_gg00172r.txt_3153_68:::X:::next_event:::participate:::contribute
+July11-2001_gg00172r.txt_3153_68:::The team should participate in and contribute to designrelated activities associated with each phase of the facility acquisition process, from conceptual planning through startup
+July11-2001_gg00172r.txt_3153_68:::X:::POSITIVE:::participate:::participate:::agent:::team_2
+July11-2001_gg00172r.txt_3153_68:::X:::POSITIVE:::contribute:::contribute:::agent:::team_2
+null
+
+July11-2001_gg00172r.txt_3153:::72:::77
+July11-2001_gg00172r.txt_3153_77:::X:::objective:::offer:::improve
+July11-2001_gg00172r.txt_3153_77:::• The ongoing revolution in information technology and communications offers opportunities to improve design review processes
+July11-2001_gg00172r.txt_3153_77:::X:::POSITIVE:::offers:::offer:::recipient:::opportunities_10
+July11-2001_gg00172r.txt_3153_77:::X:::POSITIVE:::improve:::improve:::agent:::opportunities_10
+null
+
+July11-2001_gg00172r.txt_3153:::151:::147
+July11-2001_gg00172r.txt_3153_147:::X:::objective:::acquire:::support
+July11-2001_gg00172r.txt_3153_147:::Background The federal government, like private corporations and other organizations, acquires facilities to support specific functions and missions and the general conduct of its business
+July11-2001_gg00172r.txt_3153_147:::X:::POSITIVE:::acquires:::acquire:::recipient:::facilities_14
+July11-2001_gg00172r.txt_3153_147:::X:::POSITIVE:::support:::support:::agent:::facilities_14
+null
+
+July11-2001_gg00172r.txt_3153:::158:::172
+July11-2001_gg00172r.txt_3153_172:::X:::next_event:::do:::measure
+July11-2001_gg00172r.txt_3153_172:::• How do (and how can) federal agencies measure the valueadded? 
+July11-2001_gg00172r.txt_3153_172:::X:::POSITIVE:::do:::do:::modifier:::how_1
+July11-2001_gg00172r.txt_3153_172:::X:::POSITIVE:::measure:::measure:::modifier:::how_4
+null
+
+July11-2001_gg00172r.txt_3153:::162:::175
+July11-2001_gg00172r.txt_3153_175:::X:::objective:::add:::design
+July11-2001_gg00172r.txt_3153_175:::• What is the role of inhouse staff, and what value do they add to design review processes? 
+July11-2001_gg00172r.txt_3153_175:::X:::POSITIVE:::add:::add:::agent:::they_13
+July11-2001_gg00172r.txt_3153_175:::X:::POSITIVE:::design:::design:::agent:::they_13
+null
+
+July11-2001_gg00172r.txt_3153:::166:::177
+July11-2001_gg00172r.txt_3153_177:::X:::objective:::need:::provide
+July11-2001_gg00172r.txt_3153_177:::• What skills and resources do federal agencies need to provide effective oversight of design review processes? 
+July11-2001_gg00172r.txt_3153_177:::X:::POSITIVE:::need:::need:::agent:::agencies_7
+July11-2001_gg00172r.txt_3153_177:::X:::POSITIVE:::provide:::provide:::agent:::agencies_7
+null
+
+July11-2001_gg00172r.txt_3153:::188:::237
+July11-2001_gg00172r.txt_3153_237:::X:::objective:::contract:::manage
+July11-2001_gg00172r.txt_3153_237::: Under the construction management approach, the owner contracts with an outside firm to manage the construction of a project
+July11-2001_gg00172r.txt_3153_237:::X:::POSITIVE:::contracts:::contract:::agent:::owner_8
+July11-2001_gg00172r.txt_3153_237:::X:::POSITIVE:::manage:::manage:::agent:::owner_8
+null
+
+July11-2001_gg00172r.txt_3153:::188:::242
+July11-2001_gg00172r.txt_3153_242:::X:::next_event:::retain:::address
+July11-2001_gg00172r.txt_3153_242::: Under this approach, the owner typically retains responsibility for managing all preconstruction A/E services, and therefore must address all interface issues between service providers
+July11-2001_gg00172r.txt_3153_242:::X:::POSITIVE:::retains:::retain:::agent:::owner_6
+July11-2001_gg00172r.txt_3153_242:::X:::POSITIVE:::address:::address:::agent:::owner_6
+null
+
+July11-2001_gg00172r.txt_3153:::206:::272
+July11-2001_gg00172r.txt_3153_272:::X:::objective:::require:::incorporate
+July11-2001_gg00172r.txt_3153_272:::• ownerdriven construction change orders required to incorporate desirable features overlooked during design
+July11-2001_gg00172r.txt_3153_272:::X:::POSITIVE:::required:::require:::agent:::orders_4
+July11-2001_gg00172r.txt_3153_272:::X:::POSITIVE:::incorporate:::incorporate:::agent:::orders_4
+null
+
+July11-2001_gg00172r.txt_3153:::240:::323
+July11-2001_gg00172r.txt_3153_323:::X:::objective:::exist:::reduce
+July11-2001_gg00172r.txt_3153_323::: The implication of these statistics is that opportunity exists to significantly reduce TPC by conducting an effective design review process
+July11-2001_gg00172r.txt_3153_323:::X:::POSITIVE:::exists:::exist:::agent:::opportunity_8
+July11-2001_gg00172r.txt_3153_323:::X:::POSITIVE:::reduce:::reduce:::agent:::opportunity_8
+null
+
+July11-2001_gg00172r.txt_3153:::246:::392
+July11-2001_gg00172r.txt_3153_392:::X:::objective:::begin:::reengineer
+July11-2001_gg00172r.txt_3153_392::: Agencies then began to reengineer their facility engineering processes and practices
+July11-2001_gg00172r.txt_3153_392:::X:::POSITIVE:::began:::begin:::agent:::agencies_1
+July11-2001_gg00172r.txt_3153_392:::X:::POSITIVE:::reengineer:::reengineer:::agent:::agencies_1
+null
+
+July11-2001_gg00172r.txt_3153:::304:::470
+July11-2001_gg00172r.txt_3153_470:::X:::objective:::fail:::meet
+July11-2001_gg00172r.txt_3153_470::: Most projects that fail to meet their planned objectives do so because of faulty or inadequate predesign development
+July11-2001_gg00172r.txt_3153_470:::X:::POSITIVE:::fail:::fail:::agent:::projects_2
+July11-2001_gg00172r.txt_3153_470:::X:::POSITIVE:::meet:::meet:::agent:::projects_2
+null
+
+July11-2001_gg00172r.txt_3153:::304:::471
+July11-2001_gg00172r.txt_3153_471:::X:::objective:::allow:::measure
+July11-2001_gg00172r.txt_3153_471::: CII has recently developed a comprehensive preproject planning approach that allows organizations to measure whether they have adequately addressed all predesign requirements
+July11-2001_gg00172r.txt_3153_471:::X:::POSITIVE:::allows:::allow:::recipient:::organizations_12
+July11-2001_gg00172r.txt_3153_471:::X:::POSITIVE:::measure:::measure:::agent:::organizations_12
+null
+
+July11-2001_gg00172r.txt_3153:::308:::493
+July11-2001_gg00172r.txt_3153_493:::X:::next_event:::take:::analyze
+July11-2001_gg00172r.txt_3153_493::: The extent to which individual federal agencies currently take such measurements and analyze results varies widely
+July11-2001_gg00172r.txt_3153_493:::X:::POSITIVE:::take:::take:::agent:::agencies_7
+July11-2001_gg00172r.txt_3153_493:::X:::POSITIVE:::analyze:::analyze:::agent:::agencies_7
+null
+
+July11-2001_gg00172r.txt_3153:::308:::493
+July11-2001_gg00172r.txt_3153_493:::X:::next_event:::take:::vary
+July11-2001_gg00172r.txt_3153_493::: The extent to which individual federal agencies currently take such measurements and analyze results varies widely
+July11-2001_gg00172r.txt_3153_493:::X:::POSITIVE:::take:::take:::destination:::extent_2
+July11-2001_gg00172r.txt_3153_493:::X:::POSITIVE:::varies:::vary:::agent:::extent_2
+null
+
+July11-2001_gg00172r.txt_3153:::310:::495
+July11-2001_gg00172r.txt_3153_495:::X:::objective:::exist:::support
+July11-2001_gg00172r.txt_3153_495::: The agency's inhouse facility engineering staff exist to support the agency's mission
+July11-2001_gg00172r.txt_3153_495:::X:::POSITIVE:::exist:::exist:::agent:::staff_7
+July11-2001_gg00172r.txt_3153_495:::X:::POSITIVE:::support:::support:::agent:::staff_7
+null
+
+July11-2001_gg00172r.txt_3153:::326:::515
+July11-2001_gg00172r.txt_3153_515:::X:::objective:::maintain:::perform
+July11-2001_gg00172r.txt_3153_515:::What Risks and Liabilities maintains the inhouse capabilities to perform the design reviewrelated Do Federal Agencies Face functions listed above
+July11-2001_gg00172r.txt_3153_515:::X:::POSITIVE:::maintains:::maintain:::recipient:::capabilities_8
+July11-2001_gg00172r.txt_3153_515:::X:::POSITIVE:::perform:::perform:::agent:::capabilities_8
+null
+
+July11-2001_gg00172r.txt_3153:::326:::515
+July11-2001_gg00172r.txt_3153_515:::X:::objective:::maintain:::perform
+July11-2001_gg00172r.txt_3153_515:::What Risks and Liabilities maintains the inhouse capabilities to perform the design reviewrelated Do Federal Agencies Face functions listed above
+July11-2001_gg00172r.txt_3153_515:::X:::POSITIVE:::maintains:::maintain:::recipient:::what_1
+July11-2001_gg00172r.txt_3153_515:::X:::POSITIVE:::perform:::perform:::agent:::what_1
+null
+
+July11-2001_gg00172r.txt_3153:::338:::527
+July11-2001_gg00172r.txt_3153_527:::X:::objective:::offer:::identify
+July11-2001_gg00172r.txt_3153_527::: Benchmarking offers one tool to identify which technologies offer the most return for the investment made
+July11-2001_gg00172r.txt_3153_527:::X:::POSITIVE:::offers:::offer:::recipient:::tool_4
+July11-2001_gg00172r.txt_3153_527:::X:::POSITIVE:::identify:::identify:::agent:::tool_4
+null
+
+July11-2001_gg00172r.txt_3153:::347:::550
+July11-2001_gg00172r.txt_3153_550:::X:::objective:::use:::build
+July11-2001_gg00172r.txt_3153_550::: Use teambuilding and partnering techniques to build good working 
+July11-2001_gg00172r.txt_3153_550:::X:::POSITIVE:::use:::use:::recipient:::techniques_5
+July11-2001_gg00172r.txt_3153_550:::X:::POSITIVE:::build:::build:::agent:::techniques_5
+null
+
+July11-2001_gg00172r.txt_3153:::347:::550
+July11-2001_gg00172r.txt_3153_550:::X:::next_event:::use:::build
+July11-2001_gg00172r.txt_3153_550::: Use teambuilding and partnering techniques to build good working 
+July11-2001_gg00172r.txt_3153_550:::X:::POSITIVE:::use:::use:::recipient:::techniques_5
+July11-2001_gg00172r.txt_3153_550:::X:::POSITIVE:::build:::build:::agent:::techniques_5
+null
+
+July11-2001_gg00172r.txt_3153:::355:::560
+July11-2001_gg00172r.txt_3153_560:::X:::next_event:::allow:::apply
+July11-2001_gg00172r.txt_3153_560::: Use the same A/E throughout the facility acquisition process to maximize continuity and allow participants to build and apply their experience baseline
+July11-2001_gg00172r.txt_3153_560:::X:::POSITIVE:::allow:::allow:::recipient:::participants_15
+July11-2001_gg00172r.txt_3153_560:::X:::POSITIVE:::apply:::apply:::agent:::participants_15
+null
+
+July11-2001_gg00172r.txt_3153:::355:::560
+July11-2001_gg00172r.txt_3153_560:::X:::next_event:::build:::apply
+July11-2001_gg00172r.txt_3153_560::: Use the same A/E throughout the facility acquisition process to maximize continuity and allow participants to build and apply their experience baseline
+July11-2001_gg00172r.txt_3153_560:::X:::POSITIVE:::build:::build:::agent:::participants_15
+July11-2001_gg00172r.txt_3153_560:::X:::POSITIVE:::apply:::apply:::agent:::participants_15
+null
+
+July11-2001_gg00172r.txt_3153:::355:::560
+July11-2001_gg00172r.txt_3153_560:::X:::objective:::allow:::apply
+July11-2001_gg00172r.txt_3153_560::: Use the same A/E throughout the facility acquisition process to maximize continuity and allow participants to build and apply their experience baseline
+July11-2001_gg00172r.txt_3153_560:::X:::POSITIVE:::allow:::allow:::recipient:::participants_15
+July11-2001_gg00172r.txt_3153_560:::X:::POSITIVE:::apply:::apply:::agent:::participants_15
+null
+
+July11-2001_gg00172r.txt_3153:::355:::560
+July11-2001_gg00172r.txt_3153_560:::X:::objective:::allow:::build
+July11-2001_gg00172r.txt_3153_560::: Use the same A/E throughout the facility acquisition process to maximize continuity and allow participants to build and apply their experience baseline
+July11-2001_gg00172r.txt_3153_560:::X:::POSITIVE:::allow:::allow:::recipient:::participants_15
+July11-2001_gg00172r.txt_3153_560:::X:::POSITIVE:::build:::build:::agent:::participants_15
+null
+
+July11-2001_gg00172r.txt_3153:::359:::565
+July11-2001_gg00172r.txt_3153_565:::X:::objective:::commit:::ensure
+July11-2001_gg00172r.txt_3153_565::: Participants should commit for the duration of the activity to ensure continuity
+July11-2001_gg00172r.txt_3153_565:::X:::POSITIVE:::commit:::commit:::agent:::participants_1
+July11-2001_gg00172r.txt_3153_565:::X:::POSITIVE:::ensure:::ensure:::agent:::participants_1
+null
+
+July11-2001_gg00172r.txt_3153:::385:::602
+July11-2001_gg00172r.txt_3153_602:::X:::objective:::find:::share
+July11-2001_gg00172r.txt_3153_602::: Even better, find a way to share such information with other organizations and federal agencies
+July11-2001_gg00172r.txt_3153_602:::X:::POSITIVE:::find:::find:::recipient:::way_6
+July11-2001_gg00172r.txt_3153_602:::X:::POSITIVE:::share:::share:::agent:::way_6
+null
+
+June30-2000_gg00135r.txt_3153:::16:::702
+June30-2000_gg00135r.txt_3153_702:::X:::objective:::contain:::facilitate
+June30-2000_gg00135r.txt_3153_702::: Although it can be searched by keyword, it contains no fields or section identifiers to facilitate searches
+June30-2000_gg00135r.txt_3153_702:::X:::POSITIVE:::contains:::contain:::recipient:::identifiers_15
+June30-2000_gg00135r.txt_3153_702:::X:::POSITIVE:::facilitate:::facilitate:::agent:::identifiers_15
+null
+
+June30-2000_gg00135r.txt_3153:::16:::702
+June30-2000_gg00135r.txt_3153_702:::X:::objective:::contain:::facilitate
+June30-2000_gg00135r.txt_3153_702::: Although it can be searched by keyword, it contains no fields or section identifiers to facilitate searches
+June30-2000_gg00135r.txt_3153_702:::X:::POSITIVE:::contains:::contain:::recipient:::fields_12
+June30-2000_gg00135r.txt_3153_702:::X:::POSITIVE:::facilitate:::facilitate:::agent:::fields_12
+null
+
+June30-2000_gg00135r.txt_3153:::18:::758
+June30-2000_gg00135r.txt_3153_758:::X:::objective:::require:::allow
+June30-2000_gg00135r.txt_3153_758::: Legislative and administrative initiatives have encouraged, and in some cases required, agencies to allow the public to provide information to them electronically
+June30-2000_gg00135r.txt_3153_758:::X:::POSITIVE:::required:::require:::recipient:::agencies_14
+June30-2000_gg00135r.txt_3153_758:::X:::POSITIVE:::allow:::allow:::agent:::agencies_14
+null
+
+June30-2000_gg00135r.txt_3153:::19:::778
+June30-2000_gg00135r.txt_3153_778:::X:::objective:::have:::submit
+June30-2000_gg00135r.txt_3153_778::: commenters had to submit those materials separately (in duplicate) to the appropriate docket office
+June30-2000_gg00135r.txt_3153_778:::X:::POSITIVE:::had:::have:::agent:::commenters_1
+June30-2000_gg00135r.txt_3153_778:::X:::POSITIVE:::submit:::submit:::agent:::commenters_1
+null
+
+June30-2000_gg00135r.txt_3153:::19:::831
+June30-2000_gg00135r.txt_3153_831:::X:::objective:::appear:::allow
+June30-2000_gg00135r.txt_3153_831::: In each of these dimensions, DOT's docket management system appeared to allow substantial public access and utility
+June30-2000_gg00135r.txt_3153_831:::X:::POSITIVE:::appeared:::appear:::agent:::system_11
+June30-2000_gg00135r.txt_3153_831:::X:::POSITIVE:::allow:::allow:::agent:::system_11
+null
+
+June30-2000_gg00135r.txt_3153:::36:::892
+June30-2000_gg00135r.txt_3153_892:::X:::next_event:::conduct:::disperse
+June30-2000_gg00135r.txt_3153_892::: The State of Hawaii is also using networked cameras to conduct legislative hearings, through which geographically dispersed citizens can participate
+June30-2000_gg00135r.txt_3153_892:::X:::POSITIVE:::conduct:::conduct:::recipient:::hearings_13
+June30-2000_gg00135r.txt_3153_892:::X:::POSITIVE:::dispersed:::disperse:::object:::hearings_13
+null
+
+June30-2000_gg00135r.txt_3153:::52:::915
+June30-2000_gg00135r.txt_3153_915:::X:::next_event:::question:::question
+June30-2000_gg00135r.txt_3153_915::: Overall, though, the agency representatives questioned the need for a standardized approach to using IT to facilitate public participation in rulemaking
+June30-2000_gg00135r.txt_3153_915:::X:::POSITIVE:::questioned:::question:::recipient:::need_10
+June30-2000_gg00135r.txt_3153_915:::X:::POSITIVE:::questioned:::question:::recipient:::need_10
+null
+
+June30-2000_gg00135r.txt_3153:::52:::915
+June30-2000_gg00135r.txt_3153_915:::X:::next_event:::question:::question
+June30-2000_gg00135r.txt_3153_915::: Overall, though, the agency representatives questioned the need for a standardized approach to using IT to facilitate public participation in rulemaking
+June30-2000_gg00135r.txt_3153_915:::X:::POSITIVE:::questioned:::question:::agent:::representatives_7
+June30-2000_gg00135r.txt_3153_915:::X:::POSITIVE:::questioned:::question:::agent:::representatives_7
+null
+
+June30-2000_gg00135r.txt_3153:::52:::915
+June30-2000_gg00135r.txt_3153_915:::X:::next_event:::question:::question
+June30-2000_gg00135r.txt_3153_915::: Overall, though, the agency representatives questioned the need for a standardized approach to using IT to facilitate public participation in rulemaking
+June30-2000_gg00135r.txt_3153_915:::X:::POSITIVE:::questioned:::question:::modifier:::overall_1
+June30-2000_gg00135r.txt_3153_915:::X:::POSITIVE:::questioned:::question:::modifier:::overall_1
+null
+
+June30-2000_gg00135r.txt_3153:::60:::948
+June30-2000_gg00135r.txt_3153_948:::X:::objective:::allow:::find
+June30-2000_gg00135r.txt_3153_948::: Passive systems include both governmentwide web sites that allow users to find out about proposed rules in any agency (e
+June30-2000_gg00135r.txt_3153_948:::X:::POSITIVE:::allow:::allow:::recipient:::users_10
+June30-2000_gg00135r.txt_3153_948:::X:::POSITIVE:::find:::find:::agent:::users_10
+null
+
+June30-2000_gg00135r.txt_3153:::62:::997
+June30-2000_gg00135r.txt_3153_997:::X:::next_event:::m:::m
+June30-2000_gg00135r.txt_3153_997::: and the Honorable Carol M
+June30-2000_gg00135r.txt_3153_997:::X:::POSITIVE:::m:::m:::agent:::carol_4
+June30-2000_gg00135r.txt_3153_997:::X:::POSITIVE:::m:::m:::agent:::carol_4
+null
+
+Justice_for_all.txt_3153:::5:::1097
+Justice_for_all.txt_3153_1097:::X:::objective:::have:::turn
+Justice_for_all.txt_3153_1097:::Justice for all is a never-ending quest Documentary shows how Legal Services aids people who have nowhere else to turn 
+Justice_for_all.txt_3153_1097:::X:::POSITIVE:::have:::have:::agent:::quest_7
+Justice_for_all.txt_3153_1097:::X:::POSITIVE:::turn:::turn:::agent:::quest_7
+null
+
+Justice_for_all.txt_3153:::6:::1124
+Justice_for_all.txt_3153_1124:::X:::objective:::bring:::take
+Justice_for_all.txt_3153_1124::: "God just brought her to take care of my problem
+Justice_for_all.txt_3153_1124:::X:::POSITIVE:::brought:::bring:::recipient:::her_4
+Justice_for_all.txt_3153_1124:::X:::POSITIVE:::take:::take:::agent:::her_4
+null
+
+Justice_requests.txt_3153:::6:::1150
+Justice_requests.txt_3153_1150:::X:::objective:::providers:::cut
+Justice_requests.txt_3153_1150::: That prompted the state's two main legal services providers - Columbia Legal Services and Northwest Justice Project - to cut their staffs, Alexander said
+Justice_requests.txt_3153_1150:::X:::POSITIVE:::providers:::providers:::recipient:::columbia_legal_services_11
+Justice_requests.txt_3153_1150:::X:::POSITIVE:::cut:::cut:::agent:::columbia_legal_services_11
+null
+
+Justice_requests.txt_3153:::6:::1150
+Justice_requests.txt_3153_1150:::X:::objective:::providers:::cut
+Justice_requests.txt_3153_1150::: That prompted the state's two main legal services providers - Columbia Legal Services and Northwest Justice Project - to cut their staffs, Alexander said
+Justice_requests.txt_3153_1150:::X:::POSITIVE:::providers:::providers:::recipient:::northwest_justice_project_13
+Justice_requests.txt_3153_1150:::X:::POSITIVE:::cut:::cut:::agent:::northwest_justice_project_13
+null
+
+Kiosks_for_court_forms.txt_3153:::5:::1154
+Kiosks_for_court_forms.txt_3153_1154:::X:::objective:::say:::help
+Kiosks_for_court_forms.txt_3153_1154:::Kiosks for court forms work well, study says System to help the uninitiated fill out minor paperwork could go statewide, agency says
+Kiosks_for_court_forms.txt_3153_1154:::X:::POSITIVE:::says:::say:::recipient:::system_10
+Kiosks_for_court_forms.txt_3153_1154:::X:::POSITIVE:::help:::help:::agent:::system_10
+null
+
+Kiosks_for_court_forms.txt_3153:::6:::1164
+Kiosks_for_court_forms.txt_3153_1164:::X:::next_event:::offer:::stick
+Kiosks_for_court_forms.txt_3153_1164::: The program avoids legal jargon, offers a courthouse video tour and sticks to a fifth-grade vocabulary
+Kiosks_for_court_forms.txt_3153_1164:::X:::POSITIVE:::offers:::offer:::agent:::program_2
+Kiosks_for_court_forms.txt_3153_1164:::X:::POSITIVE:::sticks:::stick:::agent:::program_2
+null
+
+Kiosks_for_court_forms.txt_3153:::6:::1164
+Kiosks_for_court_forms.txt_3153_1164:::X:::next_event:::avoid:::offer
+Kiosks_for_court_forms.txt_3153_1164::: The program avoids legal jargon, offers a courthouse video tour and sticks to a fifth-grade vocabulary
+Kiosks_for_court_forms.txt_3153_1164:::X:::POSITIVE:::avoids:::avoid:::agent:::program_2
+Kiosks_for_court_forms.txt_3153_1164:::X:::POSITIVE:::offers:::offer:::agent:::program_2
+null
+
+Kiosks_for_court_forms.txt_3153:::6:::1164
+Kiosks_for_court_forms.txt_3153_1164:::X:::next_event:::avoid:::stick
+Kiosks_for_court_forms.txt_3153_1164::: The program avoids legal jargon, offers a courthouse video tour and sticks to a fifth-grade vocabulary
+Kiosks_for_court_forms.txt_3153_1164:::X:::POSITIVE:::avoids:::avoid:::agent:::program_2
+Kiosks_for_court_forms.txt_3153_1164:::X:::POSITIVE:::sticks:::stick:::agent:::program_2
+null
+
+Kiosks_for_court_forms.txt_3153:::6:::1173
+Kiosks_for_court_forms.txt_3153_1173:::X:::objective:::have:::become
+Kiosks_for_court_forms.txt_3153_1173::: "Our clients have to catch up, and they have to become a part of the mainstream," Cohen said
+Kiosks_for_court_forms.txt_3153_1173:::X:::POSITIVE:::have:::have:::agent:::they_9
+Kiosks_for_court_forms.txt_3153_1173:::X:::POSITIVE:::become:::become:::agent:::they_9
+null
+
+Kiosks_for_court_forms.txt_3153:::6:::1173
+Kiosks_for_court_forms.txt_3153_1173:::X:::objective:::have:::catch
+Kiosks_for_court_forms.txt_3153_1173::: "Our clients have to catch up, and they have to become a part of the mainstream," Cohen said
+Kiosks_for_court_forms.txt_3153_1173:::X:::POSITIVE:::have:::have:::agent:::clients_2
+Kiosks_for_court_forms.txt_3153_1173:::X:::POSITIVE:::catch:::catch:::agent:::clients_2
+null
+
+Law-school_grads.txt_3153:::6:::1199
+Law-school_grads.txt_3153_1199:::X:::objective:::want:::do
+Law-school_grads.txt_3153_1199::: 'It's kind of a joke among a lot of us who want to do public interest law
+Law-school_grads.txt_3153_1199:::X:::POSITIVE:::want:::want:::agent:::kind_4
+Law-school_grads.txt_3153_1199:::X:::POSITIVE:::do:::do:::agent:::kind_4
+null
+
+Law_Award_from_College.txt_3153:::6:::1220
+Law_Award_from_College.txt_3153_1220:::X:::objective:::want:::help
+Law_Award_from_College.txt_3153_1220::: She wanted to help people, but did not know exactly how
+Law_Award_from_College.txt_3153_1220:::X:::POSITIVE:::wanted:::want:::agent:::she_1
+Law_Award_from_College.txt_3153_1220:::X:::POSITIVE:::help:::help:::agent:::she_1
+null
+
+Law_Award_from_College.txt_3153:::6:::1220
+Law_Award_from_College.txt_3153_1220:::X:::next_event:::want:::know
+Law_Award_from_College.txt_3153_1220::: She wanted to help people, but did not know exactly how
+Law_Award_from_College.txt_3153_1220:::X:::POSITIVE:::wanted:::want:::agent:::she_1
+Law_Award_from_College.txt_3153_1220:::X:::NEGETIVE:::know:::know:::agent:::she_1
+null
+
+Law_Award_from_College.txt_3153:::6:::1220
+Law_Award_from_College.txt_3153_1220:::X:::next_event:::help:::know
+Law_Award_from_College.txt_3153_1220::: She wanted to help people, but did not know exactly how
+Law_Award_from_College.txt_3153_1220:::X:::POSITIVE:::help:::help:::agent:::she_1
+Law_Award_from_College.txt_3153_1220:::X:::NEGETIVE:::know:::know:::agent:::she_1
+null
+
+Law_Award_from_College.txt_3153:::6:::1235
+Law_Award_from_College.txt_3153_1235:::X:::objective:::decide:::go
+Law_Award_from_College.txt_3153_1235::: "That was when I decided to go into the practice of law
+Law_Award_from_College.txt_3153_1235:::X:::POSITIVE:::decided:::decide:::agent:::i_4
+Law_Award_from_College.txt_3153_1235:::X:::POSITIVE:::go:::go:::agent:::i_4
+null
+
+Law_Award_from_College.txt_3153:::6:::1246
+Law_Award_from_College.txt_3153_1246:::X:::next_event:::go:::help
+Law_Award_from_College.txt_3153_1246::: "The students can go down into the counties and help domestic violence victims," Wallace said
+Law_Award_from_College.txt_3153_1246:::X:::POSITIVE:::go:::go:::agent:::students_2
+Law_Award_from_College.txt_3153_1246:::X:::POSITIVE:::help:::help:::agent:::students_2
+null
+
+Law_Award_from_College.txt_3153:::6:::1248
+Law_Award_from_College.txt_3153_1248:::X:::next_event:::implement:::supervise
+Law_Award_from_College.txt_3153_1248::: Wallace helped to implement and supervise
+Law_Award_from_College.txt_3153_1248:::X:::POSITIVE:::implement:::implement:::agent:::wallace_1
+Law_Award_from_College.txt_3153_1248:::X:::POSITIVE:::supervise:::supervise:::agent:::wallace_1
+null
+
+Law_Award_from_College.txt_3153:::6:::1248
+Law_Award_from_College.txt_3153_1248:::X:::objective:::help:::implement
+Law_Award_from_College.txt_3153_1248::: Wallace helped to implement and supervise
+Law_Award_from_College.txt_3153_1248:::X:::POSITIVE:::helped:::help:::agent:::wallace_1
+Law_Award_from_College.txt_3153_1248:::X:::POSITIVE:::implement:::implement:::agent:::wallace_1
+null
+
+Law_Award_from_College.txt_3153:::6:::1248
+Law_Award_from_College.txt_3153_1248:::X:::objective:::help:::supervise
+Law_Award_from_College.txt_3153_1248::: Wallace helped to implement and supervise
+Law_Award_from_College.txt_3153_1248:::X:::POSITIVE:::helped:::help:::agent:::wallace_1
+Law_Award_from_College.txt_3153_1248:::X:::POSITIVE:::supervise:::supervise:::agent:::wallace_1
+null
+
+Law_Award_from_College.txt_3153:::6:::1248
+Law_Award_from_College.txt_3153_1248:::X:::next_event:::help:::supervise
+Law_Award_from_College.txt_3153_1248::: Wallace helped to implement and supervise
+Law_Award_from_College.txt_3153_1248:::X:::POSITIVE:::helped:::help:::agent:::wallace_1
+Law_Award_from_College.txt_3153_1248:::X:::POSITIVE:::supervise:::supervise:::agent:::wallace_1
+null
+
+Law_Award_from_College.txt_3153:::6:::1250
+Law_Award_from_College.txt_3153_1250:::X:::next_event:::come:::set
+Law_Award_from_College.txt_3153_1250::: They came up with the interns themselves and set up guidelines for the internship
+Law_Award_from_College.txt_3153_1250:::X:::POSITIVE:::came:::come:::agent:::they_1
+Law_Award_from_College.txt_3153_1250:::X:::POSITIVE:::set:::set:::agent:::they_1
+null
+
+Law_Award_from_College.txt_3153:::6:::1250
+Law_Award_from_College.txt_3153_1250:::X:::next_event:::come:::set
+Law_Award_from_College.txt_3153_1250::: They came up with the interns themselves and set up guidelines for the internship
+Law_Award_from_College.txt_3153_1250:::X:::POSITIVE:::came:::come:::verb_complement:::up_3
+Law_Award_from_College.txt_3153_1250:::X:::POSITIVE:::set:::set:::verb_complement:::up_10
+null
+
+Law_Schools.txt_3153:::6:::1268
+Law_Schools.txt_3153_1268:::X:::next_event:::graduate:::think
+Law_Schools.txt_3153_1268:::Law Schools Urge Graduates to Start Small and Think Local By Greg Winter 
+Law_Schools.txt_3153_1268:::X:::POSITIVE:::graduates:::graduate:::agent:::urge_3
+Law_Schools.txt_3153_1268:::X:::POSITIVE:::think:::think:::agent:::urge_3
+null
+
+Law_Schools.txt_3153:::7:::1272
+Law_Schools.txt_3153_1272:::X:::next_event:::pipe:::clean
+Law_Schools.txt_3153_1272::: To make ends meet, one partner stacks pipe and cleans the yard at a plumbing warehouse
+Law_Schools.txt_3153_1272:::X:::POSITIVE:::pipe:::pipe:::agent:::stacks_8
+Law_Schools.txt_3153_1272:::X:::POSITIVE:::cleans:::clean:::agent:::stacks_8
+null
+
+Law_Schools.txt_3153:::7:::1317
+Law_Schools.txt_3153_1317:::X:::objective:::take:::build
+Law_Schools.txt_3153_1317::: Not all graduates will be able to scrounge for the years it may take to build a clientele, nor should they
+Law_Schools.txt_3153_1317:::X:::POSITIVE:::take:::take:::agent:::it_12
+Law_Schools.txt_3153_1317:::X:::POSITIVE:::build:::build:::agent:::it_12
+null
+
+Lawyer_Web_Survey.txt_3153:::6:::1329
+Lawyer_Web_Survey.txt_3153_1329:::X:::next_event:::serve:::disenfranchise
+Lawyer_Web_Survey.txt_3153_1329::: That is, the lawyer who serves the poor and disenfranchised
+Lawyer_Web_Survey.txt_3153_1329:::X:::POSITIVE:::serves:::serve:::agent:::lawyer_5
+Lawyer_Web_Survey.txt_3153_1329:::X:::POSITIVE:::disenfranchised:::disenfranchise:::agent:::lawyer_5
+null
+
+Legal-aid_chief.txt_3153:::6:::1393
+Legal-aid_chief.txt_3153_1393:::X:::objective:::move:::earn
+Legal-aid_chief.txt_3153_1393::: German moved on to simultaneously earn a law degree from UNL and a master's degree in regional planning from the University of Pennsylvania
+Legal-aid_chief.txt_3153_1393:::X:::POSITIVE:::moved:::move:::agent:::german_1
+Legal-aid_chief.txt_3153_1393:::X:::POSITIVE:::earn:::earn:::agent:::german_1
+null
+
+LegalServCorp_v_VelazquezDissent.txt_3153:::5:::1516
+LegalServCorp_v_VelazquezDissent.txt_3153_1516:::X:::next_event:::authorize:::provide
+LegalServCorp_v_VelazquezDissent.txt_3153_1516::: The statute in Rust authorized grants for the provision of family planning services, but provided that "[n]one of the funds 
+LegalServCorp_v_VelazquezDissent.txt_3153_1516:::X:::POSITIVE:::authorized:::authorize:::agent:::statute_2
+LegalServCorp_v_VelazquezDissent.txt_3153_1516:::X:::POSITIVE:::provided:::provide:::agent:::statute_2
+null
+
+LegalServCorp_v_VelazquezDissent.txt_3153:::5:::1520
+LegalServCorp_v_VelazquezDissent.txt_3153_1520:::X:::objective:::require:::refer
+LegalServCorp_v_VelazquezDissent.txt_3153_1520::: Valid regulations implementing the statute required funding recipients to refer pregnant clients "for appropriate prenatal 
+LegalServCorp_v_VelazquezDissent.txt_3153_1520:::X:::POSITIVE:::required:::require:::recipient:::recipients_8
+LegalServCorp_v_VelazquezDissent.txt_3153_1520:::X:::POSITIVE:::refer:::refer:::agent:::recipients_8
+null
+
+LegalServCorp_v_VelazquezDissent.txt_3153:::5:::1602
+LegalServCorp_v_VelazquezDissent.txt_3153_1602:::X:::objective:::permit:::establish
+LegalServCorp_v_VelazquezDissent.txt_3153_1602::: Regulations permit funding recipients to establish affiliate organizations to conduct litigation and other activities that fall outside the scope of the LSC program
+LegalServCorp_v_VelazquezDissent.txt_3153_1602:::X:::POSITIVE:::permit:::permit:::recipient:::recipients_4
+LegalServCorp_v_VelazquezDissent.txt_3153_1602:::X:::POSITIVE:::establish:::establish:::agent:::recipients_4
+null
+
+LegalServCorp_v_VelazquezDissent.txt_3153:::6:::1667
+LegalServCorp_v_VelazquezDissent.txt_3153_1667:::X:::objective:::wish:::distort
+LegalServCorp_v_VelazquezDissent.txt_3153_1667::: This difference, of course, is required by the same ethical canons that the Court elsewhere does not wish to distort
+LegalServCorp_v_VelazquezDissent.txt_3153_1667:::X:::NEGETIVE:::wish:::wish:::agent:::court_16
+LegalServCorp_v_VelazquezDissent.txt_3153_1667:::X:::POSITIVE:::distort:::distort:::agent:::court_16
+null
+
+LegalServCorp_v_VelazquezOpinion.txt_3153:::5:::1802
+LegalServCorp_v_VelazquezOpinion.txt_3153_1802:::X:::next_event:::hire:::supervise
+LegalServCorp_v_VelazquezOpinion.txt_3153_1802::: The grantee organizations hire and supervise lawyers to provide free legal assistance to indigent clients
+LegalServCorp_v_VelazquezOpinion.txt_3153_1802:::X:::POSITIVE:::hire:::hire:::agent:::organizations_3
+LegalServCorp_v_VelazquezOpinion.txt_3153_1802:::X:::POSITIVE:::supervise:::supervise:::agent:::organizations_3
+null
+
+LegalServCorp_v_VelazquezOpinion.txt_3153:::5:::1813
+LegalServCorp_v_VelazquezOpinion.txt_3153_1813:::X:::next_event:::agree:::affirm
+LegalServCorp_v_VelazquezOpinion.txt_3153_1813::: We agree that the restriction violates the First Amendment, and we affirm the judgment of the Court of Appeals
+LegalServCorp_v_VelazquezOpinion.txt_3153_1813:::X:::POSITIVE:::agree:::agree:::agent:::we_1
+LegalServCorp_v_VelazquezOpinion.txt_3153_1813:::X:::POSITIVE:::affirm:::affirm:::agent:::we_12
+null
+
+LegalServCorp_v_VelazquezOpinion.txt_3153:::5:::1991
+LegalServCorp_v_VelazquezOpinion.txt_3153_1991:::X:::objective:::foreclose:::question
+LegalServCorp_v_VelazquezOpinion.txt_3153_1991::: The limitation forecloses advice or legal assistance to question the validity of statutes under the Constitution of the United States
+LegalServCorp_v_VelazquezOpinion.txt_3153_1991:::X:::POSITIVE:::forecloses:::foreclose:::recipient:::advice_4
+LegalServCorp_v_VelazquezOpinion.txt_3153_1991:::X:::POSITIVE:::question:::question:::agent:::advice_4
+null
+
+LegalServCorp_v_VelazquezOpinion.txt_3153:::5:::1991
+LegalServCorp_v_VelazquezOpinion.txt_3153_1991:::X:::objective:::foreclose:::question
+LegalServCorp_v_VelazquezOpinion.txt_3153_1991::: The limitation forecloses advice or legal assistance to question the validity of statutes under the Constitution of the United States
+LegalServCorp_v_VelazquezOpinion.txt_3153_1991:::X:::POSITIVE:::forecloses:::foreclose:::recipient:::assistance_7
+LegalServCorp_v_VelazquezOpinion.txt_3153_1991:::X:::POSITIVE:::question:::question:::agent:::assistance_7
+null
+
+LegalServCorp_v_VelazquezSyllabus.txt_3153:::9:::2161
+LegalServCorp_v_VelazquezSyllabus.txt_3153_2161:::X:::objective:::decline:::address
+LegalServCorp_v_VelazquezSyllabus.txt_3153_2161::: Because that determination was not contested here, the Court in the exercise of its discretion and prudential judgment declines to address it
+LegalServCorp_v_VelazquezSyllabus.txt_3153_2161:::X:::POSITIVE:::declines:::decline:::agent:::court_10
+LegalServCorp_v_VelazquezSyllabus.txt_3153_2161:::X:::POSITIVE:::address:::address:::agent:::court_10
+null
+
+Legal_Aid_Society.txt_3153:::6:::2188
+Legal_Aid_Society.txt_3153_2188:::X:::next_event:::step:::support
+Legal_Aid_Society.txt_3153_2188::: Our elected officials, and all who are concerned about providing equal access to justice for all, must step forward and support Legal Aid services
+Legal_Aid_Society.txt_3153_2188:::X:::POSITIVE:::step:::step:::agent:::officials_3
+Legal_Aid_Society.txt_3153_2188:::X:::POSITIVE:::support:::support:::agent:::officials_3
+null
+
+Legal_Aid_attorney.txt_3153:::5:::2189
+Legal_Aid_attorney.txt_3153_2189:::X:::objective:::call:::serve
+Legal_Aid_attorney.txt_3153_2189:::Legal Aid attorney heeds call to serve 
+Legal_Aid_attorney.txt_3153_2189:::X:::POSITIVE:::call:::call:::agent:::heeds_4
+Legal_Aid_attorney.txt_3153_2189:::X:::POSITIVE:::serve:::serve:::agent:::heeds_4
+null
+
+Legal_Aid_attorney.txt_3153:::7:::2210
+Legal_Aid_attorney.txt_3153_2210:::X:::objective:::have:::suffer
+Legal_Aid_attorney.txt_3153_2210::: For the time being, however, both her sleep and her job may have to suffer some periodic disturbance
+Legal_Aid_attorney.txt_3153_2210:::X:::POSITIVE:::have:::have:::agent:::job_13
+Legal_Aid_attorney.txt_3153_2210:::X:::POSITIVE:::suffer:::suffer:::agent:::job_13
+null
+
+Legal_Aid_attorney.txt_3153:::7:::2210
+Legal_Aid_attorney.txt_3153_2210:::X:::objective:::have:::suffer
+Legal_Aid_attorney.txt_3153_2210::: For the time being, however, both her sleep and her job may have to suffer some periodic disturbance
+Legal_Aid_attorney.txt_3153_2210:::X:::POSITIVE:::have:::have:::agent:::sleep_10
+Legal_Aid_attorney.txt_3153_2210:::X:::POSITIVE:::suffer:::suffer:::agent:::sleep_10
+null
+
+Legal_Aid_attorney.txt_3153:::7:::2214
+Legal_Aid_attorney.txt_3153_2214:::X:::objective:::plan:::take
+Legal_Aid_attorney.txt_3153_2214:::" Schwartz plans to take maternity leave until the end of January
+Legal_Aid_attorney.txt_3153_2214:::X:::POSITIVE:::plans:::plan:::agent:::schwartz_1
+Legal_Aid_attorney.txt_3153_2214:::X:::POSITIVE:::take:::take:::agent:::schwartz_1
+null
+
+Legal_Aid_attorney.txt_3153:::7:::2222
+Legal_Aid_attorney.txt_3153_2222:::X:::objective:::manage:::juggle
+Legal_Aid_attorney.txt_3153_2222:::" Asked how she and her husband manage to juggle so many competing demands upon their time, Schwartz replied, "we don't watch TV
+Legal_Aid_attorney.txt_3153_2222:::X:::POSITIVE:::manage:::manage:::agent:::she_3
+Legal_Aid_attorney.txt_3153_2222:::X:::POSITIVE:::juggle:::juggle:::agent:::she_3
+null
+
+Legal_Aid_attorney.txt_3153:::7:::2222
+Legal_Aid_attorney.txt_3153_2222:::X:::objective:::manage:::juggle
+Legal_Aid_attorney.txt_3153_2222:::" Asked how she and her husband manage to juggle so many competing demands upon their time, Schwartz replied, "we don't watch TV
+Legal_Aid_attorney.txt_3153_2222:::X:::POSITIVE:::manage:::manage:::agent:::husband_6
+Legal_Aid_attorney.txt_3153_2222:::X:::POSITIVE:::juggle:::juggle:::agent:::husband_6
+null
+
+Legal_Aid_attorney.txt_3153:::7:::2224
+Legal_Aid_attorney.txt_3153_2224:::X:::next_event:::figure:::meet
+Legal_Aid_attorney.txt_3153_2224::: "I figured out early on that I could work around the clock and still meet only a fraction of the need," Schwartz said
+Legal_Aid_attorney.txt_3153_2224:::X:::POSITIVE:::figured:::figure:::agent:::i_1
+Legal_Aid_attorney.txt_3153_2224:::X:::POSITIVE:::meet:::meet:::agent:::i_7
+null
+
+Legal_Aid_attorney.txt_3153:::7:::2224
+Legal_Aid_attorney.txt_3153_2224:::X:::next_event:::work:::meet
+Legal_Aid_attorney.txt_3153_2224::: "I figured out early on that I could work around the clock and still meet only a fraction of the need," Schwartz said
+Legal_Aid_attorney.txt_3153_2224:::X:::POSITIVE:::work:::work:::agent:::i_7
+Legal_Aid_attorney.txt_3153_2224:::X:::POSITIVE:::meet:::meet:::agent:::i_7
+null
+
+Legal_Aid_in_Clay_County.txt_3153:::6:::2282
+Legal_Aid_in_Clay_County.txt_3153_2282:::X:::next_event:::have:::afford
+Legal_Aid_in_Clay_County.txt_3153_2282::: "Generally, if they had the resources they don't need shelter and they can afford private counseling
+Legal_Aid_in_Clay_County.txt_3153_2282:::X:::POSITIVE:::had:::have:::agent:::they_4
+Legal_Aid_in_Clay_County.txt_3153_2282:::X:::POSITIVE:::afford:::afford:::agent:::they_14
+null
+
+Legal_Aid_in_Clay_County.txt_3153:::6:::2282
+Legal_Aid_in_Clay_County.txt_3153_2282:::X:::next_event:::need:::afford
+Legal_Aid_in_Clay_County.txt_3153_2282::: "Generally, if they had the resources they don't need shelter and they can afford private counseling
+Legal_Aid_in_Clay_County.txt_3153_2282:::X:::NEGETIVE:::need:::need:::agent:::they_8
+Legal_Aid_in_Clay_County.txt_3153_2282:::X:::POSITIVE:::afford:::afford:::agent:::they_14
+null
+
+Legal_services_for_poor.txt_3153:::5:::2375
+Legal_services_for_poor.txt_3153_2375:::X:::objective:::decline:::renew
+Legal_services_for_poor.txt_3153_2375::: Justice Department declined to renew those grants under new policies that direct the money to start-up programs instead of funding existing programs, Hamon said
+Legal_services_for_poor.txt_3153_2375:::X:::POSITIVE:::declined:::decline:::agent:::justice_department_1
+Legal_services_for_poor.txt_3153_2375:::X:::POSITIVE:::renew:::renew:::agent:::justice_department_1
+null
+
+Legal_system_fails_poor.txt_3153:::6:::2388
+Legal_system_fails_poor.txt_3153_2388:::X:::objective:::have:::do
+Legal_system_fails_poor.txt_3153_2388::: The most common type of legal problem had to do with housing
+Legal_system_fails_poor.txt_3153_2388:::X:::POSITIVE:::had:::have:::agent:::type_4
+Legal_system_fails_poor.txt_3153_2388:::X:::POSITIVE:::do:::do:::agent:::type_4
+null
+
+Legal_system_fails_poor.txt_3153:::6:::2403
+Legal_system_fails_poor.txt_3153_2403:::X:::objective:::have:::pay
+Legal_system_fails_poor.txt_3153_2403::: I still had to pay the ticket 
+Legal_system_fails_poor.txt_3153_2403:::X:::POSITIVE:::had:::have:::agent:::i_1
+Legal_system_fails_poor.txt_3153_2403:::X:::POSITIVE:::pay:::pay:::agent:::i_1
+null
+
+Legal_system_fails_poor.txt_3153:::6:::2430
+Legal_system_fails_poor.txt_3153_2430:::X:::objective:::know:::reach
+Legal_system_fails_poor.txt_3153_2430::: "Clearly, people don't know how to reach lawyers
+Legal_system_fails_poor.txt_3153_2430:::X:::NEGETIVE:::know:::know:::agent:::people_3
+Legal_system_fails_poor.txt_3153_2430:::X:::POSITIVE:::reach:::reach:::agent:::people_3
+null
+
+Letter_WalkerJan30-2001.txt_3153:::6:::2466
+Letter_WalkerJan30-2001.txt_3153_2466:::X:::objective:::require:::perform
+Letter_WalkerJan30-2001.txt_3153_2466::: Importantly, our governing statute requires GAO to perform such committee requests
+Letter_WalkerJan30-2001.txt_3153_2466:::X:::POSITIVE:::requires:::require:::recipient:::gao_7
+Letter_WalkerJan30-2001.txt_3153_2466:::X:::POSITIVE:::perform:::perform:::agent:::gao_7
+null
+
+Letter_WalkerJan30-2001.txt_3153:::6:::2473
+Letter_WalkerJan30-2001.txt_3153_2473:::X:::next_event:::erode:::respect
+Letter_WalkerJan30-2001.txt_3153_2473::: Otherwise, it could erode public confidence in and respect for the institutions of government
+Letter_WalkerJan30-2001.txt_3153_2473:::X:::POSITIVE:::erode:::erode:::agent:::it_3
+Letter_WalkerJan30-2001.txt_3153_2473:::X:::POSITIVE:::respect:::respect:::agent:::it_3
+null
+
+Letter_WalkerJan30-2001.txt_3153:::6:::2481
+Letter_WalkerJan30-2001.txt_3153_2481:::X:::objective:::have:::do
+Letter_WalkerJan30-2001.txt_3153_2481::: We hope it is the last time that we will have to do so
+Letter_WalkerJan30-2001.txt_3153_2481:::X:::POSITIVE:::have:::have:::agent:::we_9
+Letter_WalkerJan30-2001.txt_3153_2481:::X:::POSITIVE:::do:::do:::agent:::we_9
+null
+
+Letter_WalkerJan30-2001.txt_3153:::6:::2483
+Letter_WalkerJan30-2001.txt_3153_2483:::X:::objective:::hesitate:::contact
+Letter_WalkerJan30-2001.txt_3153_2483::: If you have any questions, comments or concerns, please do not hesitate to contact me
+Letter_WalkerJan30-2001.txt_3153_2483:::X:::NEGETIVE:::hesitate:::hesitate:::agent:::please_11
+Letter_WalkerJan30-2001.txt_3153_2483:::X:::POSITIVE:::contact:::contact:::agent:::please_11
+null
+
+Letter_Walkeraug17let.txt_3153:::20:::2557
+Letter_Walkeraug17let.txt_3153_2557:::X:::next_event:::understand:::appreciate
+Letter_Walkeraug17let.txt_3153_2557::: We understand and appreciate the Vice President«s concerns regarding release of his personal schedule
+Letter_Walkeraug17let.txt_3153_2557:::X:::POSITIVE:::understand:::understand:::agent:::we_1
+Letter_Walkeraug17let.txt_3153_2557:::X:::POSITIVE:::appreciate:::appreciate:::agent:::we_1
+null
+
+Letter_Walkeraug17let.txt_3153:::20:::2565
+Letter_Walkeraug17let.txt_3153_2565:::X:::objective:::decide:::assert
+Letter_Walkeraug17let.txt_3153_2565::: The President would decide whether to assert the privilege
+Letter_Walkeraug17let.txt_3153_2565:::X:::POSITIVE:::decide:::decide:::agent:::president_2
+Letter_Walkeraug17let.txt_3153_2565:::X:::POSITIVE:::assert:::assert:::agent:::president_2
+null
+
+Letter_Walkeraug17let.txt_3153:::20:::2568
+Letter_Walkeraug17let.txt_3153_2568:::X:::objective:::determine:::invoke
+Letter_Walkeraug17let.txt_3153_2568::: Again, the President determined whether to invoke the privilege
+Letter_Walkeraug17let.txt_3153_2568:::X:::POSITIVE:::determined:::determine:::agent:::president_4
+Letter_Walkeraug17let.txt_3153_2568:::X:::POSITIVE:::invoke:::invoke:::agent:::president_4
+null
+
+Letter_Walkeraug17let.txt_3153:::24:::2692
+Letter_Walkeraug17let.txt_3153_2692:::X:::objective:::require:::obtain
+Letter_Walkeraug17let.txt_3153_2692:::≈ These included an audit that required GAO to obtain unemployment estimates from the Council of Economic Advisers
+Letter_Walkeraug17let.txt_3153_2692:::X:::POSITIVE:::required:::require:::recipient:::gao_7
+Letter_Walkeraug17let.txt_3153_2692:::X:::POSITIVE:::obtain:::obtain:::agent:::gao_7
+null
+
+Library_Lawyers.txt_3153:::7:::2787
+Library_Lawyers.txt_3153_2787:::X:::objective:::have:::worry
+Library_Lawyers.txt_3153_2787::: It's nice to not have to worry about seeing a biased attorney
+Library_Lawyers.txt_3153_2787:::X:::NEGETIVE:::have:::have:::agent:::it_1
+Library_Lawyers.txt_3153_2787:::X:::POSITIVE:::worry:::worry:::agent:::it_1
+null
+
+Library_Lawyers.txt_3153:::7:::2790
+Library_Lawyers.txt_3153_2790:::X:::objective:::want:::get
+Library_Lawyers.txt_3153_2790::: "I wanted to get some information on how to continue and I got more than I was expecting
+Library_Lawyers.txt_3153_2790:::X:::POSITIVE:::wanted:::want:::agent:::i_1
+Library_Lawyers.txt_3153_2790:::X:::POSITIVE:::get:::get:::agent:::i_1
+null
+
+Library_Lawyers.txt_3153:::7:::2790
+Library_Lawyers.txt_3153_2790:::X:::next_event:::want:::get
+Library_Lawyers.txt_3153_2790::: "I wanted to get some information on how to continue and I got more than I was expecting
+Library_Lawyers.txt_3153_2790:::X:::POSITIVE:::wanted:::want:::agent:::i_1
+Library_Lawyers.txt_3153_2790:::X:::POSITIVE:::got:::get:::agent:::i_12
+null
+
+Library_Lawyers.txt_3153:::7:::2790
+Library_Lawyers.txt_3153_2790:::X:::next_event:::get:::get
+Library_Lawyers.txt_3153_2790::: "I wanted to get some information on how to continue and I got more than I was expecting
+Library_Lawyers.txt_3153_2790:::X:::POSITIVE:::get:::get:::agent:::i_1
+Library_Lawyers.txt_3153_2790:::X:::POSITIVE:::got:::get:::agent:::i_12
+null
+
+Library_Lawyers.txt_3153:::7:::2798
+Library_Lawyers.txt_3153_2798:::X:::objective:::prompt:::add
+Library_Lawyers.txt_3153_2798:::" The initial demand for legal services was what prompted Brownell to add a second session each month
+Library_Lawyers.txt_3153_2798:::X:::POSITIVE:::prompted:::prompt:::recipient:::brownell_10
+Library_Lawyers.txt_3153_2798:::X:::POSITIVE:::add:::add:::agent:::brownell_10
+null
+
+Lindsays_legacy.txt_3153:::6:::2801
+Lindsays_legacy.txt_3153_2801:::X:::next_event:::honor:::volunteer
+Lindsays_legacy.txt_3153_2801:::Nonprofits honor the retired attorney and volunteer for his dedication to social justice
+Lindsays_legacy.txt_3153_2801:::X:::POSITIVE:::honor:::honor:::agent:::nonprofits_1
+Lindsays_legacy.txt_3153_2801:::X:::POSITIVE:::volunteer:::volunteer:::agent:::nonprofits_1
+null
+
+Lindsays_legacy.txt_3153:::7:::2821
+Lindsays_legacy.txt_3153_2821:::X:::next_event:::fly:::say
+Lindsays_legacy.txt_3153_2821::: Daughter Pippi Ellison, who flew down from Boston for the celebration, says her father's passion for social justice "has always been there
+Lindsays_legacy.txt_3153_2821:::X:::POSITIVE:::flew:::fly:::agent:::pippi_ellison_2
+Lindsays_legacy.txt_3153_2821:::X:::POSITIVE:::says:::say:::agent:::pippi_ellison_2
+null
+
+Local_Attorneys.txt_3153:::6:::2865
+Local_Attorneys.txt_3153_2865:::X:::objective:::come:::handle
+Local_Attorneys.txt_3153_2865::: "We provide all the forms and teach people who come how to handle the process pro se, on their own
+Local_Attorneys.txt_3153_2865:::X:::POSITIVE:::come:::come:::agent:::people_8
+Local_Attorneys.txt_3153_2865:::X:::POSITIVE:::handle:::handle:::agent:::people_8
+null
+
+Local_Attorneys.txt_3153:::6:::2870
+Local_Attorneys.txt_3153_2870:::X:::objective:::tend:::fall
+Local_Attorneys.txt_3153_2870::: "When the economy goes bad, families that are already struggling tend to fall apart," she observed
+Local_Attorneys.txt_3153_2870:::X:::POSITIVE:::tend:::tend:::agent:::families_7
+Local_Attorneys.txt_3153_2870:::X:::POSITIVE:::fall:::fall:::agent:::families_7
+null
+
+Local_Attorneys.txt_3153:::6:::2879
+Local_Attorneys.txt_3153_2879:::X:::objective:::continue:::work
+Local_Attorneys.txt_3153_2879::: "So we continue to work with a budget that is two-thirds of what it was
+Local_Attorneys.txt_3153_2879:::X:::POSITIVE:::continue:::continue:::agent:::we_2
+Local_Attorneys.txt_3153_2879:::X:::POSITIVE:::work:::work:::agent:::we_2
+null
+
+Major_Changes.txt_3153:::5:::2971
+Major_Changes.txt_3153_2971:::X:::objective:::add:::assure
+Major_Changes.txt_3153_2971::: The change is necessary, he added, to assure "a true oversight mechanism" for the New York City program
+Major_Changes.txt_3153_2971:::X:::POSITIVE:::added:::add:::agent:::he_6
+Major_Changes.txt_3153_2971:::X:::POSITIVE:::assure:::assure:::agent:::he_6
+null
+
+Major_Changes.txt_3153:::5:::2971
+Major_Changes.txt_3153_2971:::X:::next_event:::add:::assure
+Major_Changes.txt_3153_2971::: The change is necessary, he added, to assure "a true oversight mechanism" for the New York City program
+Major_Changes.txt_3153_2971:::X:::POSITIVE:::added:::add:::agent:::he_6
+Major_Changes.txt_3153_2971:::X:::POSITIVE:::assure:::assure:::agent:::he_6
+null
+
+Major_Changes.txt_3153:::6:::2987
+Major_Changes.txt_3153_2987:::X:::objective:::use:::create
+Major_Changes.txt_3153_2987::: Businesses use the device to create a wholly owned subsidiary, said Mr
+Major_Changes.txt_3153_2987:::X:::POSITIVE:::use:::use:::recipient:::device_4
+Major_Changes.txt_3153_2987:::X:::POSITIVE:::create:::create:::agent:::device_4
+null
+
+Making_a_case.txt_3153:::5:::3029
+Making_a_case.txt_3153_3029:::X:::objective:::say:::find
+Making_a_case.txt_3153_3029::: But, like a mechanic, she said, "the best way to find an attorney would be by word of mouth
+Making_a_case.txt_3153_3029:::X:::POSITIVE:::said:::say:::recipient:::way_12
+Making_a_case.txt_3153_3029:::X:::POSITIVE:::find:::find:::agent:::way_12
+null
+
+Making_a_case.txt_3153:::5:::3029
+Making_a_case.txt_3153_3029:::X:::next_event:::say:::find
+Making_a_case.txt_3153_3029::: But, like a mechanic, she said, "the best way to find an attorney would be by word of mouth
+Making_a_case.txt_3153_3029:::X:::POSITIVE:::said:::say:::recipient:::way_12
+Making_a_case.txt_3153_3029:::X:::POSITIVE:::find:::find:::agent:::way_12
+null
+
+Making_a_case.txt_3153:::5:::3046
+Making_a_case.txt_3153_3046:::X:::objective:::want:::make
+Making_a_case.txt_3153_3046::: "What the judge really wants are the facts -- he wants to make a good decision," he said
+Making_a_case.txt_3153_3046:::X:::POSITIVE:::wants:::want:::agent:::he_9
+Making_a_case.txt_3153_3046:::X:::POSITIVE:::make:::make:::agent:::he_9
+null
+
+Marylands_Legal_Aid.txt_3153:::5:::3077
+Marylands_Legal_Aid.txt_3153_3077:::X:::objective:::have:::go
+Marylands_Legal_Aid.txt_3153_3077::: For academic recognition, you don't have to go far
+Marylands_Legal_Aid.txt_3153_3077:::X:::NEGETIVE:::have:::have:::agent:::you_5
+Marylands_Legal_Aid.txt_3153_3077:::X:::POSITIVE:::go:::go:::agent:::you_5
+null
+
+Marylands_Legal_Aid.txt_3153:::5:::3125
+Marylands_Legal_Aid.txt_3153_3125:::X:::objective:::assist:::serve
+Marylands_Legal_Aid.txt_3153_3125:::org, assists legal services and private pro bono lawyers to better serve low- and moderate-income clients
+Marylands_Legal_Aid.txt_3153_3125:::X:::POSITIVE:::assists:::assist:::recipient:::lawyers_10
+Marylands_Legal_Aid.txt_3153_3125:::X:::POSITIVE:::serve:::serve:::agent:::lawyers_10
+null
+
+Marylands_Legal_Aid.txt_3153:::5:::3125
+Marylands_Legal_Aid.txt_3153_3125:::X:::objective:::assist:::serve
+Marylands_Legal_Aid.txt_3153_3125:::org, assists legal services and private pro bono lawyers to better serve low- and moderate-income clients
+Marylands_Legal_Aid.txt_3153_3125:::X:::POSITIVE:::assists:::assist:::recipient:::services_5
+Marylands_Legal_Aid.txt_3153_3125:::X:::POSITIVE:::serve:::serve:::agent:::services_5
+null
+
+May1998_ai98068.txt_3153:::18:::3168
+May1998_ai98068.txt_3153_3168:::X:::objective:::continue:::disclose
+May1998_ai98068.txt_3153_3168::: However, despite the enormous dependence on electronic information and systems, audits continue to disclose serious information security weaknesses
+May1998_ai98068.txt_3153_3168:::X:::POSITIVE:::continue:::continue:::agent:::audits_13
+May1998_ai98068.txt_3153_3168:::X:::POSITIVE:::disclose:::disclose:::agent:::audits_13
+null
+
+May1998_ai98068.txt_3153:::19:::3184
+May1998_ai98068.txt_3153_3184:::X:::next_event:::promise:::improve
+May1998_ai98068.txt_3153_3184::: Although these advances promise to streamline federal operations and improve the delivery of federal services, they also expose these activities to greater risks
+May1998_ai98068.txt_3153_3184:::X:::POSITIVE:::promise:::promise:::agent:::advances_3
+May1998_ai98068.txt_3153_3184:::X:::POSITIVE:::improve:::improve:::agent:::advances_3
+null
+
+May1998_ai98068.txt_3153:::19:::3184
+May1998_ai98068.txt_3153_3184:::X:::next_event:::streamline:::improve
+May1998_ai98068.txt_3153_3184::: Although these advances promise to streamline federal operations and improve the delivery of federal services, they also expose these activities to greater risks
+May1998_ai98068.txt_3153_3184:::X:::POSITIVE:::streamline:::streamline:::agent:::advances_3
+May1998_ai98068.txt_3153_3184:::X:::POSITIVE:::improve:::improve:::agent:::advances_3
+null
+
+May1998_ai98068.txt_3153:::19:::3184
+May1998_ai98068.txt_3153_3184:::X:::objective:::promise:::improve
+May1998_ai98068.txt_3153_3184::: Although these advances promise to streamline federal operations and improve the delivery of federal services, they also expose these activities to greater risks
+May1998_ai98068.txt_3153_3184:::X:::POSITIVE:::promise:::promise:::agent:::advances_3
+May1998_ai98068.txt_3153_3184:::X:::POSITIVE:::improve:::improve:::agent:::advances_3
+null
+
+May1998_ai98068.txt_3153:::19:::3184
+May1998_ai98068.txt_3153_3184:::X:::objective:::promise:::streamline
+May1998_ai98068.txt_3153_3184::: Although these advances promise to streamline federal operations and improve the delivery of federal services, they also expose these activities to greater risks
+May1998_ai98068.txt_3153_3184:::X:::POSITIVE:::promise:::promise:::agent:::advances_3
+May1998_ai98068.txt_3153_3184:::X:::POSITIVE:::streamline:::streamline:::agent:::advances_3
+null
+
+May1998_ai98068.txt_3153:::26:::3218
+May1998_ai98068.txt_3153_3218:::X:::objective:::require:::develop
+May1998_ai98068.txt_3153_3218::: The Chief Financial Officers Act requires agencies to develop and maintain financial management systems that provide complete, reliable, consistent, and timely information
+May1998_ai98068.txt_3153_3218:::X:::POSITIVE:::requires:::require:::recipient:::agencies_7
+May1998_ai98068.txt_3153_3218:::X:::POSITIVE:::develop:::develop:::agent:::agencies_7
+null
+
+May1998_ai98068.txt_3153:::26:::3218
+May1998_ai98068.txt_3153_3218:::X:::objective:::require:::maintain
+May1998_ai98068.txt_3153_3218::: The Chief Financial Officers Act requires agencies to develop and maintain financial management systems that provide complete, reliable, consistent, and timely information
+May1998_ai98068.txt_3153_3218:::X:::POSITIVE:::requires:::require:::recipient:::agencies_7
+May1998_ai98068.txt_3153_3218:::X:::POSITIVE:::maintain:::maintain:::agent:::agencies_7
+null
+
+May1998_ai98068.txt_3153:::28:::3238
+May1998_ai98068.txt_3153_3238:::X:::previous_event:::obtain:::study
+May1998_ai98068.txt_3153_3238::: We obtained information primarily through interviews with senior security managers and document analysis conducted during and after visits to the organizations we studied
+May1998_ai98068.txt_3153_3238:::X:::POSITIVE:::obtained:::obtain:::agent:::we_1
+May1998_ai98068.txt_3153_3238:::X:::POSITIVE:::studied:::study:::agent:::we_22
+null
+
+May1998_ai98068.txt_3153:::28:::3238
+May1998_ai98068.txt_3153_3238:::X:::next_event:::obtain:::study
+May1998_ai98068.txt_3153_3238::: We obtained information primarily through interviews with senior security managers and document analysis conducted during and after visits to the organizations we studied
+May1998_ai98068.txt_3153_3238:::X:::POSITIVE:::obtained:::obtain:::agent:::we_1
+May1998_ai98068.txt_3153_3238:::X:::POSITIVE:::studied:::study:::agent:::we_22
+null
+
+May1998_ai98068.txt_3153:::88:::3384
+May1998_ai98068.txt_3153_3384:::X:::next_event:::analyze:::categorize
+May1998_ai98068.txt_3153_3384::: Then, they analyze the effects of such impacts on business operations and broadly categorize the risks as major or minor
+May1998_ai98068.txt_3153_3384:::X:::POSITIVE:::analyze:::analyze:::agent:::they_3
+May1998_ai98068.txt_3153_3384:::X:::POSITIVE:::categorize:::categorize:::agent:::they_3
+null
+
+May1998_ai98068.txt_3153:::94:::3420
+May1998_ai98068.txt_3153_3420:::X:::next_event:::strengthen:::reorient
+May1998_ai98068.txt_3153_3420::: The following case example describes how one organization strengthened its central security group and reoriented its focus
+May1998_ai98068.txt_3153_3420:::X:::POSITIVE:::strengthened:::strengthen:::agent:::organization_8
+May1998_ai98068.txt_3153_3420:::X:::POSITIVE:::reoriented:::reorient:::agent:::organization_8
+null
+
+May1998_ai98068.txt_3153:::94:::3464
+May1998_ai98068.txt_3153_3464:::X:::objective:::call:::discuss
+May1998_ai98068.txt_3153_3464:::" Some noted that senior managers frequently called them to discuss security issues
+May1998_ai98068.txt_3153_3464:::X:::POSITIVE:::called:::call:::recipient:::them_8
+May1998_ai98068.txt_3153_3464:::X:::POSITIVE:::discuss:::discuss:::agent:::them_8
+null
+
+May1998_ai98068.txt_3153:::100:::3502
+May1998_ai98068.txt_3153_3502:::X:::next_event:::hold:::hold
+May1998_ai98068.txt_3153_3502::: and the state agency held a biannual conference for systems administrators that included sessions related to their information security responsibilities
+May1998_ai98068.txt_3153_3502:::X:::POSITIVE:::held:::hold:::agent:::agency_4
+May1998_ai98068.txt_3153_3502:::X:::POSITIVE:::held:::hold:::agent:::agency_4
+null
+
+May1998_ai98068.txt_3153:::100:::3502
+May1998_ai98068.txt_3153_3502:::X:::next_event:::hold:::hold
+May1998_ai98068.txt_3153_3502::: and the state agency held a biannual conference for systems administrators that included sessions related to their information security responsibilities
+May1998_ai98068.txt_3153_3502:::X:::POSITIVE:::held:::hold:::recipient:::conference_8
+May1998_ai98068.txt_3153_3502:::X:::POSITIVE:::held:::hold:::recipient:::conference_8
+null
+
+May1998_ai98068.txt_3153:::100:::3502
+May1998_ai98068.txt_3153_3502:::X:::next_event:::hold:::hold
+May1998_ai98068.txt_3153_3502::: and the state agency held a biannual conference for systems administrators that included sessions related to their information security responsibilities
+May1998_ai98068.txt_3153_3502:::X:::POSITIVE:::held:::hold:::beneficiary:::administrators_11
+May1998_ai98068.txt_3153_3502:::X:::POSITIVE:::held:::hold:::beneficiary:::administrators_11
+null
+
+May1998_ai98068.txt_3153:::100:::3502
+May1998_ai98068.txt_3153_3502:::X:::next_event:::include:::hold
+May1998_ai98068.txt_3153_3502::: and the state agency held a biannual conference for systems administrators that included sessions related to their information security responsibilities
+May1998_ai98068.txt_3153_3502:::X:::POSITIVE:::included:::include:::agent:::administrators_11
+May1998_ai98068.txt_3153_3502:::X:::POSITIVE:::held:::hold:::beneficiary:::administrators_11
+null
+
+May1998_ai98068.txt_3153:::102:::3507
+May1998_ai98068.txt_3153_3507:::X:::next_event:::develop:::present
+May1998_ai98068.txt_3153_3507::: Organizations relied on both internally and externally developed and presented training courses, sometimes engaging contractors or others to assist
+May1998_ai98068.txt_3153_3507:::X:::POSITIVE:::developed:::develop:::agent:::organizations_1
+May1998_ai98068.txt_3153_3507:::X:::POSITIVE:::presented:::present:::agent:::organizations_1
+null
+
+May1998_ai98068.txt_3153:::102:::3509
+May1998_ai98068.txt_3153_3509:::X:::next_event:::provide:::use
+May1998_ai98068.txt_3153_3509::: The state organization provided meeting rooms and administrative support while the professional organization used its professional contacts to obtain knowledgeable speakers
+May1998_ai98068.txt_3153_3509:::X:::POSITIVE:::provided:::provide:::agent:::organization_3
+May1998_ai98068.txt_3153_3509:::X:::POSITIVE:::used:::use:::agent:::organization_13
+null
+
+May1998_ai98068.txt_3153:::110:::3593
+May1998_ai98068.txt_3153_3593:::X:::next_event:::awareness:::awareness
+May1998_ai98068.txt_3153_3593::: and security awareness day and products with security-related slogans
+May1998_ai98068.txt_3153_3593:::X:::POSITIVE:::awareness:::awareness:::raw_material:::slogans_9
+May1998_ai98068.txt_3153_3593:::X:::POSITIVE:::awareness:::awareness:::raw_material:::slogans_9
+null
+
+May1998_ai98068.txt_3153:::110:::3593
+May1998_ai98068.txt_3153_3593:::X:::next_event:::awareness:::awareness
+May1998_ai98068.txt_3153_3593::: and security awareness day and products with security-related slogans
+May1998_ai98068.txt_3153_3593:::X:::POSITIVE:::awareness:::awareness:::time:::day_4
+May1998_ai98068.txt_3153_3593:::X:::POSITIVE:::awareness:::awareness:::time:::day_4
+null
+
+May1998_ai98068.txt_3153:::110:::3593
+May1998_ai98068.txt_3153_3593:::X:::next_event:::awareness:::awareness
+May1998_ai98068.txt_3153_3593::: and security awareness day and products with security-related slogans
+May1998_ai98068.txt_3153_3593:::X:::POSITIVE:::awareness:::awareness:::agent:::security_2
+May1998_ai98068.txt_3153_3593:::X:::POSITIVE:::awareness:::awareness:::agent:::security_2
+null
+
+May1998_ai98068.txt_3153:::110:::3593
+May1998_ai98068.txt_3153_3593:::X:::next_event:::awareness:::awareness
+May1998_ai98068.txt_3153_3593::: and security awareness day and products with security-related slogans
+May1998_ai98068.txt_3153_3593:::X:::POSITIVE:::awareness:::awareness:::time:::products_6
+May1998_ai98068.txt_3153_3593:::X:::POSITIVE:::awareness:::awareness:::time:::products_6
+null
+
+May1998_ai98068.txt_3153:::112:::3605
+May1998_ai98068.txt_3153_3605:::X:::next_event:::monitor:::use
+May1998_ai98068.txt_3153_3605::: Accordingly, they monitored numerous factors associated with their security programs, and they used the results to identify needed improvements
+May1998_ai98068.txt_3153_3605:::X:::POSITIVE:::monitored:::monitor:::agent:::they_3
+May1998_ai98068.txt_3153_3605:::X:::POSITIVE:::used:::use:::agent:::they_14
+null
+
+May1998_ai98068.txt_3153:::113:::3624
+May1998_ai98068.txt_3153_3624:::X:::objective:::scare:::get
+May1998_ai98068.txt_3153_3624::: The test involved staging a surprise "bomb scare" to get employees, who were unaware that the threat was a pretense, to evacuate the building
+May1998_ai98068.txt_3153_3624:::X:::POSITIVE:::scare:::scare:::agent:::test_2
+May1998_ai98068.txt_3153_3624:::X:::POSITIVE:::get:::get:::agent:::test_2
+null
+
+May1998_ai98068.txt_3153:::122:::3653
+May1998_ai98068.txt_3153_3653:::X:::next_event:::attend:::hold
+May1998_ai98068.txt_3153_3653::: and the number of courses and conferences held or attended
+May1998_ai98068.txt_3153_3653:::X:::POSITIVE:::attended:::attend:::agent:::number_3
+May1998_ai98068.txt_3153_3653:::X:::POSITIVE:::held:::hold:::agent:::number_3
+null
+
+May1998_ai98068.txt_3153:::122:::3653
+May1998_ai98068.txt_3153_3653:::X:::next_event:::hold:::hold
+May1998_ai98068.txt_3153_3653::: and the number of courses and conferences held or attended
+May1998_ai98068.txt_3153_3653:::X:::POSITIVE:::held:::hold:::agent:::number_3
+May1998_ai98068.txt_3153_3653:::X:::POSITIVE:::held:::hold:::agent:::number_3
+null
+
+May1998_ai98068.txt_3153:::122:::3653
+May1998_ai98068.txt_3153_3653:::X:::next_event:::hold:::hold
+May1998_ai98068.txt_3153_3653::: and the number of courses and conferences held or attended
+May1998_ai98068.txt_3153_3653:::X:::POSITIVE:::held:::hold:::in_disjunction_with:::attended_10
+May1998_ai98068.txt_3153_3653:::X:::POSITIVE:::held:::hold:::in_disjunction_with:::attended_10
+null
+
+Mitchell_6-17-Mit.txt_3153:::6:::3750
+Mitchell_6-17-Mit.txt_3153_3750:::X:::next_event:::express:::represent
+Mitchell_6-17-Mit.txt_3153_3750::: The opinions expressed are those of the author and do not represent opinions or positions of the Postal Rate Commission
+Mitchell_6-17-Mit.txt_3153_3750:::X:::POSITIVE:::expressed:::express:::agent:::opinions_2
+Mitchell_6-17-Mit.txt_3153_3750:::X:::NEGETIVE:::represent:::represent:::recipient:::opinions_13
+null
+
+Mitchell_6-17-Mit.txt_3153:::9:::3771
+Mitchell_6-17-Mit.txt_3153_3771:::X:::next_event:::overlap:::qualify
+Mitchell_6-17-Mit.txt_3153_3771::: Recognizing that these other justifications overlap and may not all qualify as basic starting points, it is worthwhile to list them
+Mitchell_6-17-Mit.txt_3153_3771:::X:::POSITIVE:::overlap:::overlap:::agent:::justifications_5
+Mitchell_6-17-Mit.txt_3153_3771:::X:::NEGETIVE:::qualify:::qualify:::agent:::justifications_5
+null
+
+Mitchell_6-17-Mit.txt_3153:::11:::3842
+Mitchell_6-17-Mit.txt_3153_3842:::X:::next_event:::tend:::control
+Mitchell_6-17-Mit.txt_3153_3842::: Such operations tend to be higher in cost and may be more difficult to control
+Mitchell_6-17-Mit.txt_3153_3842:::X:::POSITIVE:::tend:::tend:::agent:::operations_2
+Mitchell_6-17-Mit.txt_3153_3842:::X:::POSITIVE:::control:::control:::agent:::operations_2
+null
+
+Mitchell_6-17-Mit.txt_3153:::11:::3845
+Mitchell_6-17-Mit.txt_3153_3845:::X:::next_event:::transport:::choose
+Mitchell_6-17-Mit.txt_3153_3845::: If he can transport the mail for less than the discount, he will choose to do so
+Mitchell_6-17-Mit.txt_3153_3845:::X:::POSITIVE:::transport:::transport:::agent:::he_2
+Mitchell_6-17-Mit.txt_3153_3845:::X:::POSITIVE:::choose:::choose:::agent:::he_13
+null
+
+Mitchell_6-17-Mit.txt_3153:::11:::3845
+Mitchell_6-17-Mit.txt_3153_3845:::X:::next_event:::transport:::do
+Mitchell_6-17-Mit.txt_3153_3845::: If he can transport the mail for less than the discount, he will choose to do so
+Mitchell_6-17-Mit.txt_3153_3845:::X:::POSITIVE:::transport:::transport:::agent:::he_2
+Mitchell_6-17-Mit.txt_3153_3845:::X:::POSITIVE:::do:::do:::agent:::he_13
+null
+
+Mitchell_6-17-Mit.txt_3153:::11:::3845
+Mitchell_6-17-Mit.txt_3153_3845:::X:::objective:::choose:::do
+Mitchell_6-17-Mit.txt_3153_3845::: If he can transport the mail for less than the discount, he will choose to do so
+Mitchell_6-17-Mit.txt_3153_3845:::X:::POSITIVE:::choose:::choose:::agent:::he_13
+Mitchell_6-17-Mit.txt_3153_3845:::X:::POSITIVE:::do:::do:::agent:::he_13
+null
+
+Mitchell_6-17-Mit.txt_3153:::11:::3856
+Mitchell_6-17-Mit.txt_3153_3856:::X:::next_event:::print:::bundle
+Mitchell_6-17-Mit.txt_3153_3856::: This being done, he can then print together and bundle all of the addresses for one ZIP Code
+Mitchell_6-17-Mit.txt_3153_3856:::X:::POSITIVE:::print:::print:::agent:::he_5
+Mitchell_6-17-Mit.txt_3153_3856:::X:::POSITIVE:::bundle:::bundle:::agent:::he_5
+null
+
+Mitchell_6-17-Mit.txt_3153:::11:::3866
+null
+Mitchell_6-17-Mit.txt_3153_3866::: From a welfare point of view, a type-2 discount situation is extremely attractive because the potential gains are large
+Mitchell_6-17-Mit.txt_3153_3866:::X:::POSITIVE:::is:::be:::agent:::X
+Mitchell_6-17-Mit.txt_3153_3866:::X:::is:::be:::POSITIVE:::large:::large
+null
+
+Mitchell_6-17-Mit.txt_3153:::11:::3866
+null
+Mitchell_6-17-Mit.txt_3153_3866::: From a welfare point of view, a type-2 discount situation is extremely attractive because the potential gains are large
+Mitchell_6-17-Mit.txt_3153_3866:::X:::POSITIVE:::is:::be:::agent:::X
+Mitchell_6-17-Mit.txt_3153_3866:::X:::is:::be:::POSITIVE:::attractive:::attractive
+null
+
+Mitchell_6-17-Mit.txt_3153:::11:::3866
+null
+Mitchell_6-17-Mit.txt_3153_3866::: From a welfare point of view, a type-2 discount situation is extremely attractive because the potential gains are large
+Mitchell_6-17-Mit.txt_3153_3866:::X:::POSITIVE:::is:::be:::agent:::X
+Mitchell_6-17-Mit.txt_3153_3866:::X:::is:::be:::POSITIVE:::type2:::type2
+null
+
+Mitchell_6-17-Mit.txt_3153:::11:::3888
+Mitchell_6-17-Mit.txt_3153_3888:::X:::objective:::decide:::use
+Mitchell_6-17-Mit.txt_3153_3888::: Important also is that if the improved service is not feasible, the mailer could decide to use an alternative to the postal system
+Mitchell_6-17-Mit.txt_3153_3888:::X:::POSITIVE:::decide:::decide:::agent:::mailer_14
+Mitchell_6-17-Mit.txt_3153_3888:::X:::POSITIVE:::use:::use:::agent:::mailer_14
+null
+
+Mitchell_6-17-Mit.txt_3153:::11:::3905
+Mitchell_6-17-Mit.txt_3153_3905:::X:::next_event:::include:::lead
+Mitchell_6-17-Mit.txt_3153_3905::: I include it here because it is a discount and it can lead to a reduction in postal work
+Mitchell_6-17-Mit.txt_3153_3905:::X:::POSITIVE:::include:::include:::recipient:::it_3
+Mitchell_6-17-Mit.txt_3153_3905:::X:::POSITIVE:::lead:::lead:::agent:::it_11
+null
+
+Mitchell_6-17-Mit.txt_3153:::33:::4124
+Mitchell_6-17-Mit.txt_3153_4124:::X:::next_event:::increase:::decrease
+Mitchell_6-17-Mit.txt_3153_4124::: All of the equations, of course, apply for both discount increases and decreases
+Mitchell_6-17-Mit.txt_3153_4124:::X:::POSITIVE:::increases:::increase:::agent:::discount_12
+Mitchell_6-17-Mit.txt_3153_4124:::X:::POSITIVE:::decreases:::decrease:::agent:::discount_12
+null
+
+Mitchell_6-17-Mit.txt_3153:::36:::4157
+Mitchell_6-17-Mit.txt_3153_4157:::X:::objective:::incur:::accomplish
+Mitchell_6-17-Mit.txt_3153_4157::: That is, they must incur costs to accomplish the worksharing, however they do it
+Mitchell_6-17-Mit.txt_3153_4157:::X:::POSITIVE:::incur:::incur:::recipient:::costs_7
+Mitchell_6-17-Mit.txt_3153_4157:::X:::POSITIVE:::accomplish:::accomplish:::agent:::costs_7
+null
+
+Mitchell_6-17-Mit.txt_3153:::36:::4157
+Mitchell_6-17-Mit.txt_3153_4157:::X:::next_event:::incur:::do
+Mitchell_6-17-Mit.txt_3153_4157::: That is, they must incur costs to accomplish the worksharing, however they do it
+Mitchell_6-17-Mit.txt_3153_4157:::X:::POSITIVE:::incur:::incur:::agent:::they_4
+Mitchell_6-17-Mit.txt_3153_4157:::X:::POSITIVE:::do:::do:::agent:::they_14
+null
+
+Mitchell_6-17-Mit.txt_3153:::37:::4171
+Mitchell_6-17-Mit.txt_3153_4171:::X:::next_event:::equal:::equal
+Mitchell_6-17-Mit.txt_3153_4171:::VL VA Where VL equals the leaving shift volume and VA equals the arriving shift volume
+Mitchell_6-17-Mit.txt_3153_4171:::X:::POSITIVE:::equals:::equal:::recipient:::volume_9
+Mitchell_6-17-Mit.txt_3153_4171:::X:::POSITIVE:::equals:::equal:::recipient:::volume_16
+null
+
+Mitchell_6-17-Mit.txt_3153:::37:::4171
+Mitchell_6-17-Mit.txt_3153_4171:::X:::next_event:::equal:::equal
+Mitchell_6-17-Mit.txt_3153_4171:::VL VA Where VL equals the leaving shift volume and VA equals the arriving shift volume
+Mitchell_6-17-Mit.txt_3153_4171:::X:::POSITIVE:::equals:::equal:::recipient:::va_11
+Mitchell_6-17-Mit.txt_3153_4171:::X:::POSITIVE:::equals:::equal:::agent:::va_2
+null
+

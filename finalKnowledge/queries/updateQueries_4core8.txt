@@ -1,0 +1,318 @@
+ArticleIP_31638.txt_3153:::17:::6
+ArticleIP_31638.txt_3153_6:::X:::next_event:::find:::sadden
+ArticleIP_31638.txt_3153_6:::" I found myself deeply troubled by her fantastical notions and saddened by the possibility that her children might be taught these same ideas
+ArticleIP_31638.txt_3153_6:::X:::POSITIVE:::found:::find:::agent:::i_1
+ArticleIP_31638.txt_3153_6:::X:::POSITIVE:::saddened:::sadden:::agent:::i_1
+null
+
+ArticleIP_31638.txt_3153:::77:::63
+ArticleIP_31638.txt_3153_63:::X:::objective:::want:::criticize
+ArticleIP_31638.txt_3153_63::: Really Confused seems to want to criticize Mr
+ArticleIP_31638.txt_3153_63:::X:::POSITIVE:::want:::want:::agent:::confused_2
+ArticleIP_31638.txt_3153_63:::X:::POSITIVE:::criticize:::criticize:::agent:::confused_2
+null
+
+ArticleIP_31638.txt_3153:::77:::63
+ArticleIP_31638.txt_3153_63:::X:::objective:::seem:::want
+ArticleIP_31638.txt_3153_63::: Really Confused seems to want to criticize Mr
+ArticleIP_31638.txt_3153_63:::X:::POSITIVE:::seems:::seem:::agent:::confused_2
+ArticleIP_31638.txt_3153_63:::X:::POSITIVE:::want:::want:::agent:::confused_2
+null
+
+ArticleIP_31664.txt_3153:::10:::92
+ArticleIP_31664.txt_3153_92:::X:::objective:::compete:::get
+ArticleIP_31664.txt_3153_92::: Indeed, they compete fiercely to get in
+ArticleIP_31664.txt_3153_92:::X:::POSITIVE:::compete:::compete:::agent:::they_3
+ArticleIP_31664.txt_3153_92:::X:::POSITIVE:::get:::get:::agent:::they_3
+null
+
+ArticleIP_31664.txt_3153:::12:::109
+ArticleIP_31664.txt_3153_109:::X:::objective:::vote:::expand
+ArticleIP_31664.txt_3153_109::: Not wishing to be left out, the law school faculty voted unanimously to expand the scope of McKinsey's work to include faculty governance issues
+ArticleIP_31664.txt_3153_109:::X:::POSITIVE:::voted:::vote:::agent:::faculty_11
+ArticleIP_31664.txt_3153_109:::X:::POSITIVE:::expand:::expand:::agent:::faculty_11
+null
+
+ArticleIP_31681.txt_3153:::9:::137
+ArticleIP_31681.txt_3153_137:::X:::objective:::need:::get
+ArticleIP_31681.txt_3153_137:::Abroad, the Times of London said Barak's overtures toward Israel's neighbors will be "widely welcomed" but warned that he needs to get a move on
+ArticleIP_31681.txt_3153_137:::X:::POSITIVE:::needs:::need:::agent:::he_20
+ArticleIP_31681.txt_3153_137:::X:::POSITIVE:::get:::get:::agent:::he_20
+null
+
+ArticleIP_31692.txt_3153:::20:::174
+ArticleIP_31692.txt_3153_174:::X:::objective:::want:::talk
+ArticleIP_31692.txt_3153_174::: "I didn't even want to talk about chocolate-chip cookies, really
+ArticleIP_31692.txt_3153_174:::X:::NEGETIVE:::want:::want:::agent:::i_1
+ArticleIP_31692.txt_3153_174:::X:::POSITIVE:::talk:::talk:::agent:::i_1
+null
+
+ArticleIP_31692.txt_3153:::20:::175
+ArticleIP_31692.txt_3153_175:::X:::next_event:::shave:::stop
+ArticleIP_31692.txt_3153_175::: I shaved my beard and stopped wearing hats
+ArticleIP_31692.txt_3153_175:::X:::POSITIVE:::shaved:::shave:::agent:::i_1
+ArticleIP_31692.txt_3153_175:::X:::POSITIVE:::stopped:::stop:::agent:::i_1
+null
+
+ArticleIP_31692.txt_3153:::34:::189
+ArticleIP_31692.txt_3153_189:::X:::objective:::enable:::sneak
+ArticleIP_31692.txt_3153_189::: "Queen Elizabeth, complaining about just everything, describes the disguise that enabled her to sneak out of Edinburgh a day early
+ArticleIP_31692.txt_3153_189:::X:::POSITIVE:::enabled:::enable:::recipient:::her_14
+ArticleIP_31692.txt_3153_189:::X:::POSITIVE:::sneak:::sneak:::agent:::her_14
+null
+
+ArticleIP_31692.txt_3153:::75:::236
+ArticleIP_31692.txt_3153_236:::X:::objective:::inspire:::buy
+ArticleIP_31692.txt_3153_236::: 'You've Got Mail' doesn't inspire Americans to buy two guns of Academe 
+ArticleIP_31692.txt_3153_236:::X:::NEGETIVE:::inspire:::inspire:::recipient:::americans_10
+ArticleIP_31692.txt_3153_236:::X:::POSITIVE:::buy:::buy:::agent:::americans_10
+null
+
+ArticleIP_31711.txt_3153:::15:::280
+ArticleIP_31711.txt_3153_280:::X:::objective:::have:::pull
+ArticleIP_31711.txt_3153_280::: You don't have to pull strings
+ArticleIP_31711.txt_3153_280:::X:::NEGETIVE:::have:::have:::agent:::you_1
+ArticleIP_31711.txt_3153_280:::X:::POSITIVE:::pull:::pull:::agent:::you_1
+null
+
+ArticleIP_31711.txt_3153:::19:::312
+ArticleIP_31711.txt_3153_312:::X:::next_event:::go:::agree
+ArticleIP_31711.txt_3153_312::: Gore "went to Vietnam, but as journalist, not as an infantryman," agreed USA Today 's Susan Page on CNN's Late Edition 
+ArticleIP_31711.txt_3153_312:::X:::POSITIVE:::went:::go:::agent:::gore_1
+ArticleIP_31711.txt_3153_312:::X:::POSITIVE:::agreed:::agree:::agent:::gore_1
+null
+
+ArticleIP_31711.txt_3153:::19:::314
+null
+ArticleIP_31711.txt_3153_314::: (The News indicates that he was rejected because he was clearly unqualified
+ArticleIP_31711.txt_3153_314:::X:::POSITIVE:::rejected:::reject:::recipient:::X
+ArticleIP_31711.txt_3153_314:::X:::rejected:::reject:::POSITIVE:::unqualified:::unqualified
+null
+
+ArticleIP_31711.txt_3153:::19:::317
+ArticleIP_31711.txt_3153_317:::X:::objective:::have:::fight
+ArticleIP_31711.txt_3153_317:::" Bush never had to fight, but he did fly fighter jets, and "fighter pilot" sounds a lot better than "reporter
+ArticleIP_31711.txt_3153_317:::X:::NEGETIVE:::had:::have:::agent:::bush_1
+ArticleIP_31711.txt_3153_317:::X:::POSITIVE:::fight:::fight:::agent:::bush_1
+null
+
+ArticleIP_31711.txt_3153:::21:::323
+ArticleIP_31711.txt_3153_323:::X:::objective:::want:::highlight
+ArticleIP_31711.txt_3153_323::: Bush wants to highlight a different alternative--dodging the draft and ducking military service altogether--against which the course he chose looks better
+ArticleIP_31711.txt_3153_323:::X:::POSITIVE:::wants:::want:::agent:::bush_1
+ArticleIP_31711.txt_3153_323:::X:::POSITIVE:::highlight:::highlight:::agent:::bush_1
+null
+
+ArticleIP_31728.txt_3153:::8:::350
+ArticleIP_31728.txt_3153_350:::X:::objective:::have:::haul
+ArticleIP_31728.txt_3153_350::: Nowadays, an artist has to haul out the big guns
+ArticleIP_31728.txt_3153_350:::X:::POSITIVE:::has:::have:::agent:::artist_4
+ArticleIP_31728.txt_3153_350:::X:::POSITIVE:::haul:::haul:::agent:::artist_4
+null
+
+ArticleIP_31728.txt_3153:::9:::360
+ArticleIP_31728.txt_3153_360:::X:::objective:::rush:::see
+ArticleIP_31728.txt_3153_360::: Impressed, the rest of South Park's youth rushes off to see what the fuss is about--or, in Canada-speak, aboot 
+ArticleIP_31728.txt_3153_360:::X:::POSITIVE:::rushes:::rush:::agent:::rest_4
+ArticleIP_31728.txt_3153_360:::X:::POSITIVE:::see:::see:::agent:::rest_4
+null
+
+ArticleIP_31728.txt_3153:::16:::393
+ArticleIP_31728.txt_3153_393:::X:::next_event:::bring:::bring
+ArticleIP_31728.txt_3153_393::: I won't bring my daughter, though
+ArticleIP_31728.txt_3153_393:::X:::NEGETIVE:::bring:::bring:::agent:::i_1
+ArticleIP_31728.txt_3153_393:::X:::NEGETIVE:::bring:::bring:::agent:::i_1
+null
+
+ArticleIP_31728.txt_3153:::16:::393
+ArticleIP_31728.txt_3153_393:::X:::next_event:::bring:::bring
+ArticleIP_31728.txt_3153_393::: I won't bring my daughter, though
+ArticleIP_31728.txt_3153_393:::X:::NEGETIVE:::bring:::bring:::modifier:::though_8
+ArticleIP_31728.txt_3153_393:::X:::NEGETIVE:::bring:::bring:::modifier:::though_8
+null
+
+ArticleIP_31728.txt_3153:::16:::393
+ArticleIP_31728.txt_3153_393:::X:::next_event:::bring:::bring
+ArticleIP_31728.txt_3153_393::: I won't bring my daughter, though
+ArticleIP_31728.txt_3153_393:::X:::NEGETIVE:::bring:::bring:::modal_verb:::wo_2
+ArticleIP_31728.txt_3153_393:::X:::NEGETIVE:::bring:::bring:::modal_verb:::wo_2
+null
+
+ArticleIP_31728.txt_3153:::16:::393
+ArticleIP_31728.txt_3153_393:::X:::next_event:::bring:::bring
+ArticleIP_31728.txt_3153_393::: I won't bring my daughter, though
+ArticleIP_31728.txt_3153_393:::X:::NEGETIVE:::bring:::bring:::recipient:::daughter_6
+ArticleIP_31728.txt_3153_393:::X:::NEGETIVE:::bring:::bring:::recipient:::daughter_6
+null
+
+ArticleIP_31728.txt_3153:::16:::393
+ArticleIP_31728.txt_3153_393:::X:::next_event:::bring:::bring
+ArticleIP_31728.txt_3153_393::: I won't bring my daughter, though
+ArticleIP_31728.txt_3153_393:::X:::NEGETIVE:::bring:::bring:::negative:::not_3
+ArticleIP_31728.txt_3153_393:::X:::NEGETIVE:::bring:::bring:::negative:::not_3
+null
+
+ArticleIP_31728.txt_3153:::18:::400
+ArticleIP_31728.txt_3153_400:::X:::next_event:::flaccid:::unused
+ArticleIP_31728.txt_3153_400::: ("No longer will our penises remain flaccid and unused: We will get laid
+ArticleIP_31728.txt_3153_400:::X:::POSITIVE:::flaccid:::flaccid:::agent:::will_3
+ArticleIP_31728.txt_3153_400:::X:::POSITIVE:::unused:::unused:::agent:::will_3
+null
+
+ArticleIP_31740.txt_3153:::16:::430
+ArticleIP_31740.txt_3153_430:::X:::objective:::want:::pick
+ArticleIP_31740.txt_3153_430::: But if you want to pick up a last-minute Mercedes-Benz, this is the place to do it
+ArticleIP_31740.txt_3153_430:::X:::POSITIVE:::want:::want:::agent:::you_3
+ArticleIP_31740.txt_3153_430:::X:::POSITIVE:::pick:::pick:::agent:::you_3
+null
+
+ArticleIP_31740.txt_3153:::22:::438
+ArticleIP_31740.txt_3153_438:::X:::objective:::need:::waste
+ArticleIP_31740.txt_3153_438::: Then you'll no longer need to waste those valuable seconds spent waiting for the elevator
+ArticleIP_31740.txt_3153_438:::X:::POSITIVE:::need:::need:::agent:::you_2
+ArticleIP_31740.txt_3153_438:::X:::POSITIVE:::waste:::waste:::agent:::you_2
+null
+
+ArticleIP_31759.txt_3153:::68:::532
+ArticleIP_31759.txt_3153_532:::X:::next_event:::wait:::see
+ArticleIP_31759.txt_3153_532::: We'll have to wait and see
+ArticleIP_31759.txt_3153_532:::X:::POSITIVE:::wait:::wait:::agent:::we_1
+ArticleIP_31759.txt_3153_532:::X:::POSITIVE:::see:::see:::agent:::we_1
+null
+
+ArticleIP_31759.txt_3153:::68:::532
+ArticleIP_31759.txt_3153_532:::X:::objective:::have:::wait
+ArticleIP_31759.txt_3153_532::: We'll have to wait and see
+ArticleIP_31759.txt_3153_532:::X:::POSITIVE:::have:::have:::agent:::we_1
+ArticleIP_31759.txt_3153_532:::X:::POSITIVE:::wait:::wait:::agent:::we_1
+null
+
+ArticleIP_31759.txt_3153:::68:::532
+ArticleIP_31759.txt_3153_532:::X:::objective:::have:::see
+ArticleIP_31759.txt_3153_532::: We'll have to wait and see
+ArticleIP_31759.txt_3153_532:::X:::POSITIVE:::have:::have:::agent:::we_1
+ArticleIP_31759.txt_3153_532:::X:::POSITIVE:::see:::see:::agent:::we_1
+null
+
+ArticleIP_31774.txt_3153:::9:::564
+ArticleIP_31774.txt_3153_564:::X:::objective:::use:::own
+ArticleIP_31774.txt_3153_564::: Some sculptures depict the Count of So-and-So, who used to own the villa
+ArticleIP_31774.txt_3153_564:::X:::POSITIVE:::used:::use:::agent:::soandso_7
+ArticleIP_31774.txt_3153_564:::X:::POSITIVE:::own:::own:::agent:::soandso_7
+null
+
+ArticleIP_31774.txt_3153:::12:::585
+ArticleIP_31774.txt_3153_585:::X:::next_event:::start:::take
+ArticleIP_31774.txt_3153_585::: Her breast starts around the collarbone and takes off like a torpedo
+ArticleIP_31774.txt_3153_585:::X:::POSITIVE:::starts:::start:::agent:::breast_2
+ArticleIP_31774.txt_3153_585:::X:::POSITIVE:::takes:::take:::agent:::breast_2
+null
+
+ArticleIP_31774.txt_3153:::14:::594
+ArticleIP_31774.txt_3153_594:::X:::next_event:::wear:::hover
+ArticleIP_31774.txt_3153_594::: He wears a white robe and hovers over the thieves who have just dug up his grave
+ArticleIP_31774.txt_3153_594:::X:::POSITIVE:::wears:::wear:::agent:::he_1
+ArticleIP_31774.txt_3153_594:::X:::POSITIVE:::hovers:::hover:::agent:::he_1
+null
+
+ArticleIP_31774.txt_3153:::17:::628
+ArticleIP_31774.txt_3153_628:::X:::next_event:::wear:::refuse
+ArticleIP_31774.txt_3153_628::: They wore racing gear and refused to get out of our way
+ArticleIP_31774.txt_3153_628:::X:::POSITIVE:::wore:::wear:::agent:::they_1
+ArticleIP_31774.txt_3153_628:::X:::POSITIVE:::refused:::refuse:::agent:::they_1
+null
+
+ArticleIP_31774.txt_3153:::17:::628
+ArticleIP_31774.txt_3153_628:::X:::next_event:::wear:::get
+ArticleIP_31774.txt_3153_628::: They wore racing gear and refused to get out of our way
+ArticleIP_31774.txt_3153_628:::X:::POSITIVE:::wore:::wear:::agent:::they_1
+ArticleIP_31774.txt_3153_628:::X:::POSITIVE:::get:::get:::agent:::they_1
+null
+
+ArticleIP_31774.txt_3153:::17:::628
+ArticleIP_31774.txt_3153_628:::X:::objective:::refuse:::get
+ArticleIP_31774.txt_3153_628::: They wore racing gear and refused to get out of our way
+ArticleIP_31774.txt_3153_628:::X:::POSITIVE:::refused:::refuse:::agent:::they_1
+ArticleIP_31774.txt_3153_628:::X:::POSITIVE:::get:::get:::agent:::they_1
+null
+
+ArticleIP_31774.txt_3153:::19:::630
+ArticleIP_31774.txt_3153_630:::X:::objective:::build:::fit
+ArticleIP_31774.txt_3153_630::: Americans build wide roads and new cities to fit big cars
+ArticleIP_31774.txt_3153_630:::X:::POSITIVE:::build:::build:::recipient:::cities_7
+ArticleIP_31774.txt_3153_630:::X:::POSITIVE:::fit:::fit:::agent:::cities_7
+null
+
+ArticleIP_31774.txt_3153:::19:::630
+ArticleIP_31774.txt_3153_630:::X:::objective:::build:::fit
+ArticleIP_31774.txt_3153_630::: Americans build wide roads and new cities to fit big cars
+ArticleIP_31774.txt_3153_630:::X:::POSITIVE:::build:::build:::recipient:::roads_4
+ArticleIP_31774.txt_3153_630:::X:::POSITIVE:::fit:::fit:::agent:::roads_4
+null
+
+ArticleIP_31774.txt_3153:::19:::630
+ArticleIP_31774.txt_3153_630:::X:::next_event:::build:::fit
+ArticleIP_31774.txt_3153_630::: Americans build wide roads and new cities to fit big cars
+ArticleIP_31774.txt_3153_630:::X:::POSITIVE:::build:::build:::recipient:::cities_7
+ArticleIP_31774.txt_3153_630:::X:::POSITIVE:::fit:::fit:::agent:::cities_7
+null
+
+ArticleIP_31774.txt_3153:::19:::630
+ArticleIP_31774.txt_3153_630:::X:::next_event:::build:::fit
+ArticleIP_31774.txt_3153_630::: Americans build wide roads and new cities to fit big cars
+ArticleIP_31774.txt_3153_630:::X:::POSITIVE:::build:::build:::recipient:::roads_4
+ArticleIP_31774.txt_3153_630:::X:::POSITIVE:::fit:::fit:::agent:::roads_4
+null
+
+ArticleIP_31774.txt_3153:::19:::631
+ArticleIP_31774.txt_3153_631:::X:::objective:::build:::fit
+ArticleIP_31774.txt_3153_631::: Italians build little cars to fit old cities and narrow roads
+ArticleIP_31774.txt_3153_631:::X:::POSITIVE:::build:::build:::recipient:::cars_4
+ArticleIP_31774.txt_3153_631:::X:::POSITIVE:::fit:::fit:::agent:::cars_4
+null
+
+ArticleIP_31774.txt_3153:::21:::641
+ArticleIP_31774.txt_3153_641:::X:::next_event:::smile:::sigh
+ArticleIP_31774.txt_3153_641:::) Everyone smiled and sighed
+ArticleIP_31774.txt_3153_641:::X:::POSITIVE:::smiled:::smile:::agent:::everyone_1
+ArticleIP_31774.txt_3153_641:::X:::POSITIVE:::sighed:::sigh:::agent:::everyone_1
+null
+
+ArticleIP_31774.txt_3153:::30:::692
+ArticleIP_31774.txt_3153_692:::X:::objective:::go:::eat
+ArticleIP_31774.txt_3153_692::: People go out to eat with friends and spend the whole time yapping with somebody else on the phone
+ArticleIP_31774.txt_3153_692:::X:::POSITIVE:::go:::go:::agent:::people_1
+ArticleIP_31774.txt_3153_692:::X:::POSITIVE:::eat:::eat:::agent:::people_1
+null
+
+ArticleIP_31774.txt_3153:::30:::692
+ArticleIP_31774.txt_3153_692:::X:::objective:::go:::spend
+ArticleIP_31774.txt_3153_692::: People go out to eat with friends and spend the whole time yapping with somebody else on the phone
+ArticleIP_31774.txt_3153_692:::X:::POSITIVE:::go:::go:::agent:::people_1
+ArticleIP_31774.txt_3153_692:::X:::POSITIVE:::spend:::spend:::agent:::people_1
+null
+
+ArticleIP_31774.txt_3153:::30:::692
+ArticleIP_31774.txt_3153_692:::X:::next_event:::go:::spend
+ArticleIP_31774.txt_3153_692::: People go out to eat with friends and spend the whole time yapping with somebody else on the phone
+ArticleIP_31774.txt_3153_692:::X:::POSITIVE:::go:::go:::agent:::people_1
+ArticleIP_31774.txt_3153_692:::X:::POSITIVE:::spend:::spend:::agent:::people_1
+null
+
+ArticleIP_31774.txt_3153:::30:::692
+ArticleIP_31774.txt_3153_692:::X:::next_event:::eat:::spend
+ArticleIP_31774.txt_3153_692::: People go out to eat with friends and spend the whole time yapping with somebody else on the phone
+ArticleIP_31774.txt_3153_692:::X:::POSITIVE:::eat:::eat:::agent:::people_1
+ArticleIP_31774.txt_3153_692:::X:::POSITIVE:::spend:::spend:::agent:::people_1
+null
+
+ArticleIP_31787.txt_3153:::7:::705
+ArticleIP_31787.txt_3153_705:::X:::next_event:::panic:::scurry
+ArticleIP_31787.txt_3153_705::: Then, as Staples continued to head toward them, they would panic, release their grip, and scurry apart
+ArticleIP_31787.txt_3153_705:::X:::POSITIVE:::panic:::panic:::agent:::they_11
+ArticleIP_31787.txt_3153_705:::X:::POSITIVE:::scurry:::scurry:::agent:::they_11
+null
+
+ArticleIP_31787.txt_3153:::7:::705
+ArticleIP_31787.txt_3153_705:::X:::next_event:::release:::scurry
+ArticleIP_31787.txt_3153_705::: Then, as Staples continued to head toward them, they would panic, release their grip, and
